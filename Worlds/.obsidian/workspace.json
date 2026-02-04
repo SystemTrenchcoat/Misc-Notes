@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "28f10928bd542a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e4be5e5bff056b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5da99e58de9a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Eo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eo"
+            }
+          },
+          {
+            "id": "fbfcda1877c639ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Aer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aer"
+            }
+          },
+          {
+            "id": "0570d001fb6c6e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Pyr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pyr"
+            }
+          },
+          {
+            "id": "ab6345e89c2c0f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Gia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gia"
+            }
+          },
+          {
+            "id": "b3b844065aa2404a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Ani.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ani"
+            }
+          },
+          {
+            "id": "63f0fdf8f325fab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Brio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brio"
+            }
+          },
+          {
+            "id": "664b6a352186eb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Primary/Aer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aer"
+            }
+          },
+          {
+            "id": "af9f0cb29091d075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Elements/Esoterica/Kata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kata"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "3550b6f17cfe432a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9377c7957f972e59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85994b9f41398481",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c130761b770141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37143cdcbdd1b1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "973cc705ca129be3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bea00ec03c7f341",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dc44810146bf849",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83c89fbf08256aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d32a3075e71ca74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elemental Esoterica"
+            }
+          },
+          {
+            "id": "d655a3aada1be472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elemental Esoterica"
+            }
+          },
+          {
+            "id": "ade14ad13198dc2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b699f3fbb461bbf9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5d2c6aae19664a4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elemental Esoterica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "af9f0cb29091d075",
+  "lastOpenFiles": [
+    "Magic/Elements/Esoterica/Mondo.md",
+    "Magic/Elements/Esoterica/Kata.md",
+    "Magic/Elements/Esoterica/Elemental Esoterica.md",
+    "Magic/Elements/Esoterica/Vatal.md",
+    "Magic/Elements/Esoterica",
+    "Magic/Elements/Primary/Aer.md",
+    "Welcome.md",
+    "Magic/Elements/Esoterica/Iŋval.md",
+    "Magic/Elements/Primary/Eo.md",
+    "Magic/Elements/Primary",
+    "Magic/Elements/Primary/Brio.md",
+    "Magic/Elements/Primary/Gia.md",
+    "Magic/Elements/Primary/Pyr.md",
+    "Magic/Elements/Primary/Ner.md",
+    "Magic/Elements/Primary/Tos.md",
+    "Magic/Elements/Primary/Ani.md",
+    "Characters/Nyrcta.md",
+    "Para",
+    "Magic/Divine",
+    "Magic/Planes",
+    "Magic/Elements",
+    "Magic",
+    "Characters/Eirys.md",
+    "Characters",
+    "create a link.md"
+  ]
+}
