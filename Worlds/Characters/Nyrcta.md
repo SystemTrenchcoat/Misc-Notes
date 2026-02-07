@@ -1,3 +1,7 @@
+---
+tags:
+  - character
+---
 
 ## Traits
 * Power Hungry

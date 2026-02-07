@@ -4,123 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "58e4be5e5bff056b",
+        "id": "1d1964aff223fa61",
         "type": "tabs",
         "children": [
           {
-            "id": "f5da99e58de9a3a3",
+            "id": "2919e4011267259b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Elements/Primary/Eo.md",
+                "file": "Magic/Elements/Esoterica/Mondo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eo"
+              "title": "Mondo"
             }
           },
           {
-            "id": "fbfcda1877c639ba",
+            "id": "88274f92c557b47f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Magic/Elements/Primary/Aer.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "Aer"
-            }
-          },
-          {
-            "id": "0570d001fb6c6e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Primary/Pyr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pyr"
-            }
-          },
-          {
-            "id": "ab6345e89c2c0f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Primary/Gia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gia"
-            }
-          },
-          {
-            "id": "b3b844065aa2404a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Primary/Ani.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ani"
-            }
-          },
-          {
-            "id": "63f0fdf8f325fab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Primary/Brio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brio"
-            }
-          },
-          {
-            "id": "664b6a352186eb43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Primary/Aer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aer"
-            }
-          },
-          {
-            "id": "af9f0cb29091d075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Elements/Esoterica/Kata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kata"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "3550b6f17cfe432a",
@@ -168,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "file": "Magic/Elements/Esoterica/Mondo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elemental Esoterica"
+              "title": "Backlinks for Mondo"
             }
           },
           {
@@ -228,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "file": "Magic/Elements/Esoterica/Mondo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elemental Esoterica"
+              "title": "Outgoing links from Mondo"
             }
           },
           {
@@ -243,7 +156,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -280,12 +193,12 @@
               "title": "Outline of Elemental Esoterica"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,32 +211,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "af9f0cb29091d075",
+  "active": "9377c7957f972e59",
   "lastOpenFiles": [
+    "Technology/Engineering Overview.md",
     "Magic/Elements/Esoterica/Mondo.md",
     "Magic/Elements/Esoterica/Kata.md",
-    "Magic/Elements/Esoterica/Elemental Esoterica.md",
     "Magic/Elements/Esoterica/Vatal.md",
-    "Magic/Elements/Esoterica",
-    "Magic/Elements/Primary/Aer.md",
-    "Welcome.md",
     "Magic/Elements/Esoterica/Iŋval.md",
+    "Magic/Elements/Esoterica/Elemental Esoterica.md",
+    "Magic/Elements/Primary/Ani.md",
     "Magic/Elements/Primary/Eo.md",
-    "Magic/Elements/Primary",
-    "Magic/Elements/Primary/Brio.md",
-    "Magic/Elements/Primary/Gia.md",
+    "Magic/Elements/Primary/Aer.md",
+    "Technology/Rune Engineering.md",
+    "Technology/Oration Engineering.md",
+    "Technology/Mechanical Engineering.md",
+    "Technology/Clockwork Engineering.md",
+    "Technology/Chemical Engineering.md",
+    "Technology/Bio Engineering.md",
+    "Places/Continents/Mythica.md",
+    "Places/Continents/Leyvie.md",
+    "Places/Continents/Ara' Ork.md",
+    "Places/Continents/Mythica/Prostasia.md",
+    "Places/Continents/Mythica/Mageia.md",
+    "Places/Continents/Mythica/Epithesi.md",
+    "Places/Continents/Mythica/Antistasi.md",
+    "Magic/Elements/Primary/Tos.md",
     "Magic/Elements/Primary/Pyr.md",
     "Magic/Elements/Primary/Ner.md",
-    "Magic/Elements/Primary/Tos.md",
-    "Magic/Elements/Primary/Ani.md",
-    "Characters/Nyrcta.md",
+    "Magic/Elements/Primary/Gia.md",
+    "Untitled.base",
+    "Places/Continents",
+    "Magic/Untitled.canvas",
+    "Places/Continents/Mythica",
+    "Places",
+    "Technology",
+    "Magic/Elements/Esoterica",
+    "Magic/Elements/Primary",
     "Para",
     "Magic/Divine",
-    "Magic/Planes",
-    "Magic/Elements",
-    "Magic",
-    "Characters/Eirys.md",
-    "Characters",
-    "create a link.md"
+    "Magic/Planes"
   ]
 }
