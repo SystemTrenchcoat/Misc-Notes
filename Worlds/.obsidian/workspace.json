@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "file": "Ecology/Sapient Species/Mooin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elemental Esoterica"
+              "title": "Mooin"
             }
           }
         ]
@@ -214,13 +214,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b37143cdcbdd1b1e",
+  "active": "cc027f2d68a681ba",
   "lastOpenFiles": [
-    "Ecology/Intelligent Species",
+    "Magic/Elements/Esoterica/Elemental Esoterica.md",
+    "Ecology/Sapient Species/Mooin.md",
+    "Ecology/Sapient Species",
     "Ecology",
     "Magic/Elements/Esoterica/Remora.md",
     "Magic/Elements/Esoterica/Nyŋvar.md",
-    "Magic/Elements/Esoterica/Elemental Esoterica.md",
     "Magic/Elements/Secondary/Planal/Astral.md",
     "Magic/Elements/Secondary/Planal/Spore.md",
     "Magic/Elements/Secondary/Planal/Glyph.md",
@@ -252,7 +253,6 @@
     "Places/Continents/Mythica",
     "Places",
     "Technology",
-    "Magic/Elements/Esoterica",
-    "Magic/Elements/Primary"
+    "Magic/Elements/Esoterica"
   ]
 }
