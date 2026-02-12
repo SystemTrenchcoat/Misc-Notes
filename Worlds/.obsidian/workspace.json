@@ -6,7 +6,7 @@
       {
         "id": "783537cb262a2671",
         "type": "tabs",
-        "dimension": 57.04314720812182,
+        "dimension": 38.19796954314721,
         "children": [
           {
             "id": "cc027f2d68a681ba",
@@ -14,20 +14,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecology/Sapient Species/Mooin.md",
+                "file": "Places/Planes/Ceylium/Realm of Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mooin"
+              "title": "Realm of Structure"
+            }
+          },
+          {
+            "id": "937d58c76fa10f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Planes/The Void/Mynixaceli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mynixaceli"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3b4f5c8e4f22a62a",
         "type": "tabs",
-        "dimension": 42.95685279187818,
+        "dimension": 61.8020304568528,
         "children": [
           {
             "id": "2919e4011267259b",
@@ -214,45 +229,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc027f2d68a681ba",
+  "active": "937d58c76fa10f09",
   "lastOpenFiles": [
-    "Magic/Elements/Esoterica/Elemental Esoterica.md",
-    "Ecology/Sapient Species/Mooin.md",
+    "Places/Planes/Ceylium/Faelryn.md",
+    "Places/Planes/The Void/Mynixaceli.md",
+    "Places/Planes/Infernis/Tyorsel.md",
+    "Places/Planes/Aun Materia/Realm of the Stars.md",
+    "Places/Planes/Aun Materia/The True Wilds.md",
+    "Places/Planes/Aun Materia/Realm of Warriors.md",
+    "Places/Planes/Aun Materia/Realm of Machines.md",
+    "Places/Planes/The Void/Limbo.md",
+    "Places/Planes/The Void/Pandemonium.md",
+    "Places/Planes/The Void/Realm of Emptiness.md",
+    "Places/Planes/The Void/Realm of Imprisonment.md",
+    "Places/Planes/Infernis/Realm of Storms.md",
+    "Places/Planes/Infernis/Realm of Greed.md",
+    "Places/Planes/Infernis/Realm of Demons.md",
+    "Places/Planes/Infernis/9 Circles.md",
+    "Places/Planes/Ceylium/Realm of Structure.md",
+    "Places/Planes/Ceylium/Realm of Law.md",
+    "Places/Planes/Ceylium/Realm of Kindness.md",
+    "Places/Planes/Ceylium/Realm of Champions.md",
+    "Places/Planes/Ceylium/Ceylium.md",
+    "Places/Planes/Aun Materia/Realm of Exaltation.md",
+    "Places/Planes/Aun Materia/Aun Materia.md",
+    "Places/Planes/Border Realms",
+    "Characters/Eirys.md",
+    "Characters/Riikan.md",
+    "Technology/Engineering Overview.md",
+    "Places/Planes/Aun Materia",
+    "Places/Planes/Ceylium",
+    "Magic/Elements/Secondary/Temperature.md",
+    "Places/Planes/Infernis",
+    "Places/Planes/The Void",
     "Ecology/Sapient Species",
     "Ecology",
-    "Magic/Elements/Esoterica/Remora.md",
-    "Magic/Elements/Esoterica/Nyŋvar.md",
-    "Magic/Elements/Secondary/Planal/Astral.md",
-    "Magic/Elements/Secondary/Planal/Spore.md",
-    "Magic/Elements/Secondary/Planal/Glyph.md",
-    "Magic/Elements/Secondary/Planal/Plasma.md",
-    "Magic/Elements/Secondary/Planal/Aether.md",
-    "Magic/Elements/Secondary/Dream.md",
-    "Magic/Elements/Secondary/Blood.md",
-    "Magic/Elements/Secondary/Flesh.md",
-    "Magic/Elements/Secondary/Sound.md",
-    "Magic/Elements/Secondary/Temperature.md",
-    "Magic/Elements/Secondary/Lightning.md",
-    "Magic/Elements/Secondary/Emotion.md",
-    "Magic/Elements/Secondary/Ooze.md",
-    "Magic/Elements/Secondary/Mineral.md",
-    "Technology/Engineering Overview.md",
-    "Technology/Clockwork Engineering.md",
-    "Magic/Elements/Secondary/Magna.md",
-    "Magic/Elements/Secondary/Chaos.md",
-    "Magic/Elements/Primary/Pyr.md",
-    "Magic/Elements/Secondary/Order.md",
-    "Magic/Elements/Primary/Aer.md",
-    "Magic/Elements/Primary/Ani.md",
     "Magic/Elements/Secondary/Planal",
     "Magic/Elements/Secondary",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas",
-    "Untitled.base",
-    "Places/Continents",
-    "Places/Continents/Mythica",
-    "Places",
-    "Technology",
-    "Magic/Elements/Esoterica"
+    "Untitled.base"
   ]
 }

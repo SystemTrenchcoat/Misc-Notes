@@ -1,0 +1,2 @@
+
+A blinding white plane between [[The Void]] and [[Aun Materia]]. Here, void-walkers scream for freedom and psions grow their strength. Nothing exists as it would in [the Material](Aun%20Materia) here, all but the most extreme ideas of its inhabitants and visitors.
