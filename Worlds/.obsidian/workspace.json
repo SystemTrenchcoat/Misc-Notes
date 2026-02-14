@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Engineering/Chemical/Fizzi-pop.md",
+                "file": "People/Characters/Quoron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizzi-pop"
+              "title": "Quoron"
             }
           }
         ],
@@ -231,8 +231,15 @@
   },
   "active": "937d58c76fa10f09",
   "lastOpenFiles": [
-    "Technology/Engineering/Chemical/Chemical Engineering.md",
+    "People/Characters/Riikan.md",
+    "People/Characters/Eris.md",
+    "People/Characters/Krion.md",
+    "People/Characters/Nyrcta.md",
+    "People/Characters/Quoron.md",
+    "People/Characters/Yra.md",
+    "People/Characters/Eirys.md",
     "Technology/Engineering/Chemical/Fizzi-pop.md",
+    "Technology/Engineering/Chemical/Chemical Engineering.md",
     "People/Sapient Species/Agonrae.md",
     "Technology/Engineering/Rune",
     "Technology/Engineering/Oration",
@@ -260,13 +267,6 @@
     "Places/Planes/Infernis/Realm of Storms.md",
     "Places/Planes/Infernis/Realm of Greed.md",
     "Places/Planes/Infernis/Realm of Demons.md",
-    "Places/Planes/Infernis/9 Circles.md",
-    "Places/Planes/Ceylium/Realm of Structure.md",
-    "Places/Planes/Ceylium/Realm of Law.md",
-    "Places/Planes/Ceylium/Realm of Kindness.md",
-    "Places/Planes/Ceylium/Realm of Champions.md",
-    "Places/Planes/Ceylium/Ceylium.md",
-    "Places/Planes/Aun Materia/Realm of Exaltation.md",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]
