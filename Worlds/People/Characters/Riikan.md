@@ -13,7 +13,7 @@ Time Period - [[Modern Day]]
 * Hedonist
 * Belligerent
 
-## [Arcanics](Rune%20Engineering) Hacker Extraordinaire
+## [Arcanics](Rune%20Engineering.md) Hacker Extraordinaire
 
 Riikan was always surrounded by chaos. Be it the natural unpredictability of the ever changing-lands, the utter insanity of their clan, or the bizarre travelers the clan would often offer refuge to. Riik had gotten almost used to being surrounded by strangers, those who could be considered insane, etc., but it never bothered him. If nothing else, the weirdos and insane clan-folk she called family was, if nothing else, amazing at parties. Riika thrived here, surrounded by her strange family and the stranger outsiders. They quite loved the guests especially as they always brought interesting stories and even more interesting technology they would let her study. 
 
