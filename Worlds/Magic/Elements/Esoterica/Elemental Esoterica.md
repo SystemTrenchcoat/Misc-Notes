@@ -25,7 +25,7 @@ Eotalian elements are categorized by 2 or 3 of 6 qualities, commonly based on 1 
 | [[Spore]]       | [[Iirminviir]] |                | [[Kata]]  | [[Mondo]] | [[Esera]]  |            | [[Dia]]  | [[Seir]] | [[Aer]]  | [[Brio]]  |
 | [[Order]]       | [[Uuŋvl]]      | [[Nyŋvar]]     | [[Kata]]  | [[Mondo]] | [[Esera]]  | [[Remora]] | [[Dia]]  | [[Seir]] | [[Gia]]  | [[Tos]]   |
 | [[Chaos]]       | [[Uuŋvl]]      | [[Nyŋvar]]     | [[Mondo]] | [[Kata]]  | [[Esera]]  | [[Remora]] | [[Seir]] | [[Dia]]  | [[Ani]]  | [[Pyr]]   |
-| [[Magna]]       | [[Nyŋvar]]     | [[Oaurva]]     | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Dia]]  | [[Seir]] | [[Pyr]]  | [[Eo]]    |
+| [[Magma]]       | [[Nyŋvar]]     | [[Oaurva]]     | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Dia]]  | [[Seir]] | [[Pyr]]  | [[Eo]]    |
 | [[Mineral]]     | [[Oaurva]]     | [[Uuŋvl]]      | [[Mondo]] | [[Kata]]  | [[Remora]] | [[Esera]]  | [[Seir]] | [[Dia]]  | [[Eo]]   | [[Gia]]   |
 | [[Ooze]]        | [[Nyŋvar]]     | [[Uuŋvl]]      | [[Mondo]] | [[Kata]]  | [[Remora]] | [[Esera]]  | [[Dia]]  |          | [[Ner]]  | [[Gia]]   |
 | [[Emotion]]     | [[Oaurva]]     | [[Nyŋvar]]     | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Seir]] | [[Dia]]  | [[Tos]]  | [[Ner]]   |
@@ -55,7 +55,7 @@ Eotalian elements are categorized by 2 or 3 of 6 qualities, commonly based on 1 
 | [[Spore]]       | [[Kata]]  | [[Mondo]] | [[Esera]]  |            | [[Dia]]  | [[Seir]] | [[Aer]]  | [[Brio]]  |
 | [[Order]]       | [[Kata]]  | [[Mondo]] | [[Esera]]  | [[Remora]] | [[Dia]]  | [[Seir]] | [[Gia]]  | [[Tos]]   |
 | [[Chaos]]       | [[Mondo]] | [[Kata]]  | [[Esera]]  | [[Remora]] | [[Seir]] | [[Dia]]  | [[Ani]]  | [[Pyr]]   |
-| [[Magna]]       | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Dia]]  | [[Seir]] | [[Pyr]]  | [[Eo]]    |
+| [[Magma]]       | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Dia]]  | [[Seir]] | [[Pyr]]  | [[Eo]]    |
 | [[Mineral]]     | [[Mondo]] | [[Kata]]  | [[Remora]] | [[Esera]]  | [[Seir]] | [[Dia]]  | [[Eo]]   | [[Gia]]   |
 | [[Ooze]]        | [[Mondo]] | [[Kata]]  | [[Remora]] | [[Esera]]  | [[Dia]]  |          | [[Ner]]  | [[Gia]]   |
 | [[Emotion]]     | [[Kata]]  | [[Mondo]] | [[Remora]] |            | [[Seir]] | [[Dia]]  | [[Tos]]  | [[Ner]]   |
@@ -77,7 +77,7 @@ Secondary Table
 | [[Spore]]       | [[Aer]]  | [[Brio]]  |
 | [[Order]]       | [[Gia]]  | [[Tos]]   |
 | [[Chaos]]       | [[Ani]]  | [[Pyr]]   |
-| [[Magna]]       | [[Pyr]]  | [[Eo]]    |
+| [[Magma]]       | [[Pyr]]  | [[Eo]]    |
 | [[Mineral]]     | [[Eo]]   | [[Gia]]   |
 | [[Ooze]]        | [[Ner]]  | [[Gia]]   |
 | [[Emotion]]     | [[Tos]]  | [[Ner]]   |
