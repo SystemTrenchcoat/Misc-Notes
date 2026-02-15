@@ -28,16 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Uses.md",
+                "file": "Stories/The Pyran and The Ion-Kin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Uses"
+              "title": "The Pyran and The Ion-Kin"
+            }
+          },
+          {
+            "id": "f68c455eec901289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Society/Artisans and Merchants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artisans and Merchants"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3b4f5c8e4f22a62a",
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Elements/Esoterica/Mondo.md",
+                "file": "Society/Artisans and Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mondo"
+              "title": "Backlinks for Artisans and Merchants"
             }
           },
           {
@@ -210,13 +224,11 @@
               "title": "Outline of Elemental Esoterica"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +241,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "937d58c76fa10f09",
+  "active": "b37143cdcbdd1b1e",
   "lastOpenFiles": [
-    "Places/Planes/The Void/The Void.md",
+    "Stories/The Pyran and The Ion-Kin.md",
+    "Society/Artisans and Merchants.md",
+    "Society",
+    "People/Characters/Krion.md",
+    "People/Sapient Species/Ion-kin.md",
+    "Places/Landmarks",
+    "Places/Landmarks/Syngrou Mountains.md",
     "Magic/Magic Uses.md",
+    "Places/Planes/Extra-Planar Notes.md",
+    "People/Sapient Species/Eleokara.md",
+    "Places/Planes/Extra-Planar Appearances.md",
+    "People/Characters/Eris.md",
+    "People/Characters/Nyrcta.md",
+    "People/Characters/Yra.md",
+    "People/Characters/Riikan.md",
+    "People/Characters/Quoron.md",
+    "Places/Planes/Iyon Trey/Ceylium/Realm of Champions.md",
+    "Stories",
+    "Places/Planes/Iyon Trey/Iyon Trey.md",
+    "Places/Planes/Iyon Trey",
+    "Places/Planes/Aun Materia/Realm of Kindness.md",
+    "Places/Planes/Iyon Trey/The Void/The Void.md",
     "Magic/Divine/Brioan Deities/Fruila.md",
     "Magic/Divine/Brioan Deities/Dilitrio.md",
     "Magic/Divine/Brioan Deities/Corrapo.md",
@@ -241,32 +273,12 @@
     "Magic/Divine/Brioan Deities/Fiersa.md",
     "Magic/Divine/Aeran Deities/Tazo.md",
     "Magic/Divine/Aeran Deities/Caliel.md",
-    "Magic/Divine/Aeran Deities/Erimos.md",
-    "Magic/Divine/Aeran Deities/Mercantur.md",
-    "Magic/Divine/Aeran Deities/Aeris.md",
-    "Magic/Divine/Aeran Deities/Isagrei.md",
-    "Magic/Divine/Tosan Deities/Eirini.md",
-    "Magic/Divine/Tosan Deities/Skotadi.md",
-    "Magic/Divine/Tosan Deities/Melas.md",
-    "Magic/Divine/Tosan Deities/Selpida.md",
-    "Magic/Divine/Tosan Deities/Tosera.md",
-    "Magic/Divine/Tosan Deities/Stolurin.md",
-    "Magic/Divine/Eoan Deities/Divini.md",
-    "Magic/Divine/Eoan Deities/Torshana.md",
-    "Magic/Divine/Eoan Deities/Eoterra.md",
-    "Magic/Divine/Neran Deities/Aeoqor.md",
-    "Magic/Divine/Eoan Deities/Volcun.md",
-    "Magic/Divine/Eoan Deities/Tisactor.md",
     "Magic/Divine/Brioan Deities",
     "Magic/Divine/Aeran Deities",
     "Magic/Divine/Eoan Deities",
     "Magic/Divine/Tosan Deities",
     "Magic/Divine/Neran Deities",
     "Magic/Divine/Pyran Deities",
-    "Magic/Divine/Gian Deities",
-    "Magic/Divine/Anian Deities",
-    "Technology/Engineering/Rune",
-    "Technology/Engineering/Oration",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]

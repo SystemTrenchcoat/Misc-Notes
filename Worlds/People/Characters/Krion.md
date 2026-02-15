@@ -7,7 +7,7 @@ tags:
 ## Traits
 * Arrogant
 * Driven
-* [[Jotunn-kin]]
+* [[Ion-kin]]
 * Talented
 
 ## The Lone Hunter

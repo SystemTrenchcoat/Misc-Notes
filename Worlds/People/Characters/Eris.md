@@ -12,7 +12,7 @@ Time Period - [[Ancient Times]]
 * Strict
 * Powerful
 * Teacher
-* [Elemental Emissary](Eleokara)
+* [Elemental Emissary](Eleokara.md)
 
 ## The Legendary Sensei
 

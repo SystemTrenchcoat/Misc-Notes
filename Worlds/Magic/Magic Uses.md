@@ -38,6 +38,8 @@ tags:
 
 * [[Magma]] - Land Control, Foundation ==*Influence*==/==**Manipulation**==
 
+- Solidifying Magic/Energy, Mineral Alchemy
+
 * [[Ooze]] - Liquid Manipulation (Specifically of properties), Alchemy
 
 * [[Emotion]] - Empathy, Emotional Manipulation
@@ -54,7 +56,7 @@ tags:
 
 * [[Dream]] - Inspiration, Dream *Interpretation*/**Manipulation**
 
-### Planary
+#### Planary
 
 * [[Aether]] - Focus/Disorientation, Creation
 
@@ -65,7 +67,7 @@ tags:
 - [[Spore]] - Mysterious Helpers, Decomposition, Propagation
 
 ## Planar
-### [Voidal](The%20Void)
+### [Voidal](The%20Void.md)
 
 - [[Mynixaceli]] - Mental Energy Manipulation, Reality Manipulation
 
@@ -77,7 +79,7 @@ tags:
 
 - [[Realm of Imprisonment]] - Binding, Torment
 
-### [Infernal](Infernis)
+### [Infernal](Infernis.md)
 
 - [[Tyorsel]] - *Emotion*/**Impulse** ==**Creation**==/==*Summoning*==
 
@@ -89,7 +91,7 @@ tags:
 
 - [[Realm of Storms]] - *Weather*/**Storm** ==*Control*==/==**Embodiment**==
 
-### [Celestial](Ceylium)
+### [Celestial](Ceylium.md)
 
 - [[Faelryn]] - Natural Chaos, Fae Summoning
 
@@ -97,7 +99,9 @@ tags:
 
 - [[Realm of Structure]] - Divine *Proportion*/**Organization**
 
-- [[Realm of Kindness]] - Purification, Benevolence
+- [[Realm of Champions]] - Protection, Tulpa ==**Creation**== and ==*Summoning*==
+
+- [[Realm of Exaltation]] Power of Ideals (Belief and Code), Philosophical Magic
 
 ### [Material](Aun%20Materia)
 
@@ -109,7 +113,7 @@ tags:
 
 - [[Realm of Warriors]] - Bloodlust Aura, Undying Battle
 
-- [[Realm of Exaltation]] Power of Ideals (Belief and Code), Philosophical Magic
+- [[Realm of Kindness]] - Purification, Benevolence
 
 ## Divine
 
