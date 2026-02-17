@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Sapient Species/Eleokara.md",
+                "file": "Magic/Divine/Anian Deities/Necrotori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eleokara"
+              "title": "Necrotori"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Sapient Species/Eleokara.md",
+                "file": "Magic/Divine/Anian Deities/Necrotori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eleokara"
+              "title": "Backlinks for Necrotori"
             }
           },
           {
@@ -241,45 +241,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f68c455eec901289",
+  "active": "b37143cdcbdd1b1e",
   "lastOpenFiles": [
-    "Ecology/Antistasin/Armored Squirrels.md",
-    "Ecology/Antistasin/Veɳyos.md",
-    "Ecology/Antistasin/Arso.md",
-    "Ecology/Antistasin/Antistasi Considerations.md",
-    "Ecology/Mageian/Mooin.md",
+    "Magic/Divine/Anian Deities/Metageasi.md",
+    "People/Sapient Species/Gnome.md",
+    "Magic/Divine/Anian Deities/Necrotori.md",
+    "Magic/Divine/Anian Deities/Hemerrah.md",
+    "Magic/Divine/Anian Deities/Eido.md",
+    "Magic/Divine/Anian Deities/Anio.md",
+    "halfling.md",
+    "Magic/Divine/Anian Deities/Animus.md",
+    "Magic/Divine/Anian Deities/Amaosa.md",
+    "Stories/Investigation and Resignation.md",
+    "orcs.md",
+    "People/Sapient Species/Orc.md",
+    "Stories/The Pyran and The Ion-Kin.md",
+    "Stories/The Girl That Wasn't There.md",
+    "People/Characters/Karmen.md",
+    "Places/Continents/Mythica.md",
+    "Vedal.md",
+    "People/Characters/Riikan.md",
+    "Society/Tribes/Iosa Tribe.md",
+    "People/Characters/Gyir.md",
+    "People/Sapient Species/Ion-kin.md",
+    "Society/Tribes",
+    "People/Characters/Krion.md",
+    "People/Characters/Quoron.md",
+    "People/Characters/Nyrcta.md",
+    "People/Characters/Eirys.md",
+    "People/Characters/Eris.md",
     "Ecology/Mageian",
     "Ecology/Prostasin",
-    "Ecology/Untitled.md",
     "Ecology/Epithesin",
-    "People/Sapient Species/Proto-Mortals.md",
     "Ecology/Antistasin",
-    "Magic/Divine/Anian Deities/Amaosa.md",
-    "Magic/Divine/Anian Deities/Necrotori.md",
-    "Magic/Divine/Anian Deities/Metageasi.md",
-    "People/Sapient Species/Ion-kin.md",
-    "Magic/Divine/Anian Deities/Hemerrah.md",
-    "Magic/Divine/Anian Deities/Anio.md",
-    "Magic/Divine/Anian Deities/Animus.md",
-    "Magic/Magic Uses.md",
-    "Magic/Elements/Primary/Ani.md",
-    "Society/Artisans and Merchants.md",
-    "Places/Planes/Extra-Planar Appearances.md",
-    "Places/Planes/Extra-Planar Notes.md",
-    "People/Sapient Species/Eleokara.md",
-    "People/Sapient Species/Agonrae.md",
-    "Magic/Elements/Esoterica/Vatal.md",
-    "Magic/Elements/Esoterica/Uuŋvl.md",
-    "Magic/Elements/Esoterica/Dia.md",
-    "Magic/Elements/Esoterica/Esera.md",
-    "Magic/Elements/Esoterica/Iirminviir.md",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Society",
     "Places/Landmarks",
     "Stories",
     "Places/Planes/Iyon Trey",
     "Magic/Divine/Brioan Deities",
-    "Magic/Divine/Aeran Deities",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]
 }

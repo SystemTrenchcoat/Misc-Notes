@@ -3,6 +3,9 @@ tags:
   - character
   - modern
   - mageia
+aliases:
+  - Riik
+  - Riika
 ---
 
 Time Period - [[Modern Day]]
