@@ -1,4 +1,6 @@
 ---
 tags:
   - engineering
+aliases:
+  - arcanics
 ---
