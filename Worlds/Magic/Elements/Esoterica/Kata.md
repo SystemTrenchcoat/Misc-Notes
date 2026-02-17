@@ -4,6 +4,8 @@ tags:
   - iŋval
   - vatal
   - purpose
+aliases:
+  - kata
 ---
 
-Action, interpreting [[Mondo]] to its own ends. It takes all [[Mondo]] and creates and manipulates as needed and desired.
+Action, interpreting [[mondo]] to its own ends. It takes all [[mondo]] and creates and manipulates as needed and desired.
