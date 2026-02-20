@@ -3,7 +3,7 @@ tags:
   - antistasi
 ---
 
-## People of Note
+## Notable Locals
 
 - [[Xylos]] & [[Sidero]] - Twin head scientists of the region.
 

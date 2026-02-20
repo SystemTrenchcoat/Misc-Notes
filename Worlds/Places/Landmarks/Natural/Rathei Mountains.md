@@ -1,5 +1,6 @@
 ---
 tags:
 aliases:
-  - Syngrou
+  - Rathei
 ---
+
