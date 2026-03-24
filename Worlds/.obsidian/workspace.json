@@ -6,57 +6,40 @@
       {
         "id": "783537cb262a2671",
         "type": "tabs",
-        "dimension": 38.19796954314721,
+        "dimension": 42.38578680203046,
         "children": [
-          {
-            "id": "cc027f2d68a681ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Planes/Ceylium/Realm of Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Realm of Structure"
-            }
-          },
-          {
-            "id": "937d58c76fa10f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/The Pyran and The Ion-Kin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Pyran and The Ion-Kin"
-            }
-          },
           {
             "id": "f68c455eec901289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "triton.md",
+                "file": "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "triton"
+              "title": "The Original 4"
+            }
+          },
+          {
+            "id": "10d5383cdf0c091f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3b4f5c8e4f22a62a",
         "type": "tabs",
-        "dimension": 61.8020304568528,
+        "dimension": 57.61421319796954,
         "children": [
           {
             "id": "2919e4011267259b",
@@ -244,42 +227,42 @@
   },
   "active": "f68c455eec901289",
   "lastOpenFiles": [
-    "Places/Continents/Mythica/Mageia/Lakeport.md",
-    "triton.md",
-    "Places/Continents/Mythica/Mageia/Rhimehelm.md",
-    "Places/Continents/Mythica/Antistasi/Craigwood.md",
-    "Myconid.md",
-    "Places/Continents/Mythica/Epithesi/Goldspire.md",
-    "Places/Continents/Mythica/Antistasi/Gearhelm.md",
-    "Places/Continents/Mythica/Antistasi/Rhimeheld.md",
-    "Places/Continents/Mythica/Antistasi/Midrain Landing.md",
-    "Places/Landmarks/Natural/Rathei Mountains.md",
-    "Places/Continents/Mythica/Prostasia/Gizfall.md",
-    "Places/Continents/Mythica/Prostasia/Flintwater.md",
-    "Places/Continents/Mythica/Prostasia/Stillwater.md",
-    "Places/Landmarks/Natural/Syngrou Mountains.md",
-    "Places/Continents/Mythica/Antistasi/Animal Village.md",
-    "Places/Continents/Mythica/Antistasi/Antistasi Village.md",
-    "Places/Continents/Mythica/Epithesi/Epithesi Town.md",
-    "Places/Continents/Mythica/Epithesi/Ghostlake.md",
-    "Places/Continents/Mythica/Epithesi/Ironhold.md",
-    "Technology/Engineering/Rune/Rune Engineering.md",
-    "Technology/Engineering/Engineering Overview.md",
-    "People/Characters/Unfinished/Gero.md",
-    "Places/Continents/Mythica/Epithesi.md",
-    "Places/Landmarks/Natural/Epithesi Canyons.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/Xydranous.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/Sidraous.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/Kyarous.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/Chryorous.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
+    "Eotal.md",
+    "Magic/Divine/Anian Deities/Amaosa.md",
+    "Magic/Divine/Brioan Deities/Briosa.md",
+    "Magic/Divine/_The Creation Deities/The Original 4",
+    "Places/Planes/Borderlands/Iyon Trey/Mynixaceli.md",
+    "Places/Planes/The Big 4/Aun Materia.md",
+    "Places/Planes/Outerlands/Aun Materia/Realm of Warriors.md",
+    "Places/Planes/Extra-Planar Appearances.md",
+    "Places/Planes/Extra-Planar Notes.md",
+    "Magic/Divine/_The Creation Deities",
+    "Magic/Magic Uses.md",
+    "Places/Planes/Outerlands/Aun Materia/Realm of Machines.md",
+    "Places/Planes/Borderlands/Iyon Trey/Faelryn.md",
+    "Places/Planes/Borderlands/Iyon Trey/Tyorsel.md",
+    "Places/Planes/Borderlands/Borderlands.md",
+    "Places/Planes/Borderlands/Realm of the Stars.md",
+    "Places/Planes/Outerlands/Outerlands.md",
+    "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
+    "Places/Planes/Outerlands/The Void/Pandemonium.md",
+    "Places/Planes/Outerlands/The Void/Limbo.md",
+    "[[Ner|water]].md",
+    "Places/Planes/The Big 4/Iyon Trey.md",
+    "Places/Planes/Borderlands/Iyon Trey",
+    "Stories/The Pyran and The Ion-Kin.md",
+    "Places/Planes/The Big 4",
+    "Places/Planes/Outerlands",
+    "Places/Planes/Borderlands",
     "Society/Factions",
-    "Society/Factions/Assassin's Guild.md",
-    "People/Characters/Unfinished/Jax.md",
     "Places/Landmarks/Buildings",
     "Places/Landmarks/Natural",
     "People/Characters/Unfinished",
-    "Places/Continents/Mythica/Epithesi/Settleme",
-    "Places/Continents/Mythica/Mageia",
-    "Places/Continents/Mythica/Prostasia",
-    "Places/Continents/Mythica/Epithesi",
-    "Places/Continents/Mythica/Antistasi",
-    "Society/Tribes",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]

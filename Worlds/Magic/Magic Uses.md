@@ -103,7 +103,7 @@ tags:
 
 - [[Realm of Exaltation]] Power of Ideals (Belief and Code), Philosophical Magic
 
-### [Material](Aun%20Materia)
+### [Material](Aun%20Materia.md)
 
 - [[Realm of the Stars]] - Planar Transport, Balance
 

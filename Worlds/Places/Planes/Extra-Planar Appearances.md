@@ -4,7 +4,6 @@ tags:
   - overview
 ---
 
-
 ## Planar
 
 ### [Voidal](The%20Void.md)
@@ -50,7 +49,7 @@ tags:
 - [[Realm of Exaltation]] - Geometric interpretations of embodiment (Races, places, etc.)
 
 
-### [Material](Aun%20Materia)
+### [Material](Aun%20Materia.md)
 
 - [[Aun Materia]] - What we, as humans, expect based on our world, if a bit weirder, kinda a combo of the [[Iyon Trey]]
 
