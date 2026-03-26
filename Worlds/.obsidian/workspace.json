@@ -198,21 +198,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Elements/Esoterica/Elemental Esoterica.md",
+                "file": "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elemental Esoterica"
+              "title": "Outline of The Original 4"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,16 +222,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "random-note:Open random note": false
     }
   },
   "active": "f68c455eec901289",
   "lastOpenFiles": [
+    "Magic/Divine/Neran Deities/Viernei.md",
+    "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
+    "Magic/Divine/Gian Deities/Moira.md",
+    "Magic/Divine/Anian Deities/Anio.md",
     "Magic/Divine/_The Creation Deities/The Original 4/Xydranous.md",
     "Magic/Divine/_The Creation Deities/The Original 4/Sidraous.md",
     "Magic/Divine/_The Creation Deities/The Original 4/Kyarous.md",
     "Magic/Divine/_The Creation Deities/The Original 4/Chryorous.md",
-    "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
     "Eotal.md",
     "Magic/Divine/Anian Deities/Amaosa.md",
     "Magic/Divine/Brioan Deities/Briosa.md",
@@ -252,10 +256,7 @@
     "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
     "Places/Planes/Outerlands/The Void/Pandemonium.md",
     "Places/Planes/Outerlands/The Void/Limbo.md",
-    "[[Ner|water]].md",
-    "Places/Planes/The Big 4/Iyon Trey.md",
     "Places/Planes/Borderlands/Iyon Trey",
-    "Stories/The Pyran and The Ion-Kin.md",
     "Places/Planes/The Big 4",
     "Places/Planes/Outerlands",
     "Places/Planes/Borderlands",

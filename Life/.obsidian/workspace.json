@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "cb2d7d4d3ef7be7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e8d11642dfb2079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93dfa80726563db5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Weekend To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Weekend To Do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aafbd7103d443a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "4124b36b6d474827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef07178397dc2825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6604867b0b0724e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8dcde93994a6e943",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d447bfb9c4cb20",
+    "type": "split",
+    "children": [
+      {
+        "id": "309fc3c650a55dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39fab34ca661607d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-03-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-26"
+            }
+          },
+          {
+            "id": "0e601fb9ec75980b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-03-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-03-26"
+            }
+          },
+          {
+            "id": "bb2602fc7725042f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd24827dfa2a2f99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "013d8940538342f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-03-26.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-03-26"
+            }
+          },
+          {
+            "id": "fa84676fa6830181",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "93dfa80726563db5",
+  "lastOpenFiles": [
+    "Regular (Usually Witchy) Rituals.md",
+    "Hobbies.md",
+    "Making Things/Recipies.md",
+    "Making Things/Crafting.md",
+    "2026-03-26.md",
+    "Making Things",
+    "For Reference Purposes/__Variant Checkboxes__.md",
+    "Untitled.md",
+    "For Reference Purposes/Task.md",
+    "For Reference Purposes",
+    "Weekend To Do.md",
+    "templates/Kanban Template.md",
+    "Untitled mindmap.md",
+    "Daily ToDo's",
+    "Test/Kanban-1774496469234.md",
+    "Test/t.md",
+    "Test",
+    "New.md",
+    "templates"
+  ]
+}

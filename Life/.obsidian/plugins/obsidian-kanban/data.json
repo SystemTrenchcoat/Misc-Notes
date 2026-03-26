@@ -1,0 +1,14 @@
+{
+  "show-checkboxes": false,
+  "tag-colors": [],
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(51, 186, 199, 1)"
+    }
+  ],
+  "move-dates": true
+}
