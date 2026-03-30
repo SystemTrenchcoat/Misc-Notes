@@ -10,19 +10,22 @@ kanban-plugin: board
 - [ ] Lip Moisturizer
 - [ ] Conditioner
 - [ ] Fix G4C Tutorial
-- [ ] Final Project Milestone 2 📅 2026-03-31
-- [ ] Sprint 5 Build 📅 2026-04-01
+- [ ] <span style="color:rgb(112, 48, 160)">Final Project Milestone 2</span> 📅 2026-03-31
+- [ ] <span style="color:rgb(146, 208, 80)">Sprint 5 Build</span> 📅 2026-04-01
+- [ ] <span style="color:rgb(146, 208, 80)">Peer Evals 2</span> 📅 2026-04-05
+- [ ] <span style="color:rgb(146, 208, 80)">Sprint 6 Plan</span> 📅 2026-04-05
+- [ ] <span style="color:rgb(146, 208, 80)">Sprint 5 Report</span> 📅 2026-04-05
 
 
 ## Doing
 
-- [ ] Firmament Antagonists
+- [ ] <span style="color:rgb(0, 176, 240)">Firmament Antagonists</span>
 	- [ ] Arcane Hunters
 	- [ ] Magical Beasts
 	- [ ] Star Cult
 	- [x] Astral Remnants ✅ 2026-03-30
 	- [ ] Massively Magical Creatures
-- [ ] Suspense
+- [ ] <span style="color:rgb(192, 0, 0)">Suspense (Lights Out)</span>
 	- [ ] Apartment Map
 		- [ ] Bedroom
 		- [ ] Computer Room (connected)
@@ -36,7 +39,8 @@ kanban-plugin: board
 		- [ ] Switch
 		- [ ] Flickering
 	- [ ] Jumpscare
-- [ ] Mystra Additions
+	📅 2026-04-05
+- [ ] <span style="color:rgb(0, 176, 240)">Mystra Additions</span>
 
 
 ## Done
