@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a87fa0f336ce3a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db9b7bd21f5c6f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3b42e6287127a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "571db1d9f2a2e25a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0a8510d46113006e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "909f52c8708934f4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "64538aff85133ecd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "89d3a53ee2707a29",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7727f6a471864f33",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9a0cabf7423967b8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "278c6168bd605b0d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "456fef61568b4f8b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4a14f07331d7f85d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "storyteller-suite:Open storyteller dashboard": false,
+      "storyteller-suite:Open campaign view": false,
+      "storyteller-suite:Apply template to story": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dd3b42e6287127a6",
+  "lastOpenFiles": [
+    "StorytellerSuite/Templates/Notes/References",
+    "StorytellerSuite/Templates/Notes/Scenes",
+    "StorytellerSuite/Templates/Notes/Chapters",
+    "StorytellerSuite/Templates/Notes/MagicSystems",
+    "StorytellerSuite/Templates/Notes/Economies",
+    "StorytellerSuite/Templates/Notes/Cultures",
+    "StorytellerSuite/Templates/Notes/Groups",
+    "StorytellerSuite/Templates/Notes/Items",
+    "StorytellerSuite/Templates/Notes/Events",
+    "StorytellerSuite/Templates/Notes/Locations",
+    "StorytellerSuite/Templates/Notes/Characters"
+  ]
+}

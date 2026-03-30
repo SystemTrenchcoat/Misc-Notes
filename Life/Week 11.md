@@ -27,11 +27,11 @@ kanban-plugin: board
 	- [ ] Massively Magical Creatures
 - [ ] <span style="color:rgb(192, 0, 0)">Suspense (Lights Out)</span>
 	- [ ] Apartment Map
-		- [ ] Bedroom
-		- [ ] Computer Room (connected)
+		- [x] Bedroom ✅ 2026-03-30
+		- [x] Computer Room (connected) ✅ 2026-03-30
 		- [ ] Hallway (Inaccessible)
 	- [ ] Sequencer
-		- [ ] Door
+		- [x] Door ✅ 2026-03-30
 		- [ ] Moving Ghost
 			- [ ] Sound
 			- [ ] Lights (Flickering)
@@ -39,6 +39,12 @@ kanban-plugin: board
 		- [ ] Switch
 		- [ ] Flickering
 	- [ ] Jumpscare
+	- [ ] SFZ
+		- [x] Door Creak ✅ 2026-03-30
+		- [ ] Floor Creak
+		- [ ] Ghost Sounds
+		- [ ] Scream (?)
+		- [x] Horrible Computer Sounds (Dialup? Gaster Noise?) ✅ 2026-03-30
 	📅 2026-04-05
 - [ ] <span style="color:rgb(0, 176, 240)">Mystra Additions</span>
 

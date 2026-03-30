@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "For Reference Purposes/Task.md": [
-      {
-        "title": "#Task  thing",
-        "time": "2026-03-26 01:54",
-        "rowNumber": 0
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
