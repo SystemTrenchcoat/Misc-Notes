@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "The Original 4"
             }
-          },
-          {
-            "id": "10d5383cdf0c091f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ]
       },
@@ -206,13 +194,23 @@
               "icon": "lucide-list",
               "title": "Outline of The Original 4"
             }
+          },
+          {
+            "id": "efddce9e75274e93",
+            "type": "leaf",
+            "state": {
+              "type": "storyteller-dashboard-view",
+              "state": {},
+              "icon": "book-open",
+              "title": "Storyteller suite"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,13 +221,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "character-sheets:Create new character sheet ": false,
+      "storyteller-suite:Open storyteller dashboard": false,
+      "storyteller-suite:Open campaign view": false,
+      "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "f68c455eec901289",
+  "active": "efddce9e75274e93",
   "lastOpenFiles": [
-    "Magic/Divine/Neran Deities/Viernei.md",
+    "StorytellerSuite/Stories/dd/Events",
+    "StorytellerSuite/Stories/dd/Cultures",
+    "StorytellerSuite/Stories/dd/MagicSystems",
+    "StorytellerSuite/Stories/dd/Items",
+    "StorytellerSuite/Stories/dd/Locations",
+    "StorytellerSuite/Stories/dd/Compendium",
+    "StorytellerSuite/Stories/dd/Economies",
+    "StorytellerSuite/Stories/dd/Scenes",
+    "StorytellerSuite/Stories/dd/Chapters",
+    "StorytellerSuite/Stories/dd/References",
+    "StorytellerSuite/Stories/dd/Characters",
+    "Characters/Character15995.md",
     "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
+    "Magic/Divine/Neran Deities/Viernei.md",
     "Magic/Divine/Gian Deities/Moira.md",
     "Magic/Divine/Anian Deities/Anio.md",
     "Magic/Divine/_The Creation Deities/The Original 4/Xydranous.md",
@@ -239,13 +253,11 @@
     "Eotal.md",
     "Magic/Divine/Anian Deities/Amaosa.md",
     "Magic/Divine/Brioan Deities/Briosa.md",
-    "Magic/Divine/_The Creation Deities/The Original 4",
     "Places/Planes/Borderlands/Iyon Trey/Mynixaceli.md",
     "Places/Planes/The Big 4/Aun Materia.md",
     "Places/Planes/Outerlands/Aun Materia/Realm of Warriors.md",
     "Places/Planes/Extra-Planar Appearances.md",
     "Places/Planes/Extra-Planar Notes.md",
-    "Magic/Divine/_The Creation Deities",
     "Magic/Magic Uses.md",
     "Places/Planes/Outerlands/Aun Materia/Realm of Machines.md",
     "Places/Planes/Borderlands/Iyon Trey/Faelryn.md",
@@ -254,16 +266,6 @@
     "Places/Planes/Borderlands/Realm of the Stars.md",
     "Places/Planes/Outerlands/Outerlands.md",
     "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
-    "Places/Planes/Outerlands/The Void/Pandemonium.md",
-    "Places/Planes/Outerlands/The Void/Limbo.md",
-    "Places/Planes/Borderlands/Iyon Trey",
-    "Places/Planes/The Big 4",
-    "Places/Planes/Outerlands",
-    "Places/Planes/Borderlands",
-    "Society/Factions",
-    "Places/Landmarks/Buildings",
-    "Places/Landmarks/Natural",
-    "People/Characters/Unfinished",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]

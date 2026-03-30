@@ -25,10 +25,32 @@ kanban-plugin: board
 - [ ] Toilet Cleaner
 
 
+## Sewing
+
+- [ ] Design Herbalist Kit
+- [ ] Make Herbalist Kit
+- [ ] Make First Aid Kit
+
+
+## Witchy
+
+- [ ] Solar Salt
+
+
+## Reed
+
+- [ ] Pipes
+- [ ] Basket
+- [ ] Frame
+- [ ] Stand
+- [ ] Flute
+- [ ] Mat
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

@@ -13,17 +13,18 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Weekend To Do.md",
+                "file": "Week of 2026-03-29.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Weekend To Do"
+              "title": "Week of 2026-03-29"
             }
           }
         ]
@@ -201,17 +202,18 @@
   },
   "active": "93dfa80726563db5",
   "lastOpenFiles": [
-    "Regular (Usually Witchy) Rituals.md",
-    "Hobbies.md",
+    "2026-03-29.md",
     "Making Things/Recipies.md",
     "Making Things/Crafting.md",
-    "2026-03-26.md",
+    "Week of 2026-03-29.md",
+    "Untitled.md",
+    "Weekend To Do.md",
+    "Regular (Usually Witchy) Rituals.md",
+    "Hobbies.md",
     "Making Things",
     "For Reference Purposes/__Variant Checkboxes__.md",
-    "Untitled.md",
     "For Reference Purposes/Task.md",
     "For Reference Purposes",
-    "Weekend To Do.md",
     "templates/Kanban Template.md",
     "Untitled mindmap.md",
     "Daily ToDo's",
