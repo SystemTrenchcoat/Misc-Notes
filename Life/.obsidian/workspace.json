@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Week 11.md",
+                "file": "Week 12.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Week 11"
+              "title": "Week 12"
             }
           }
         ]
@@ -200,13 +200,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "93dfa80726563db5",
+  "active": "ef07178397dc2825",
   "lastOpenFiles": [
+    "Past ToDo's/Week 11.md",
+    "Week 12.md",
+    "Week 13.md",
     "Week 15.md",
     "Week 14.md",
-    "Week 13.md",
-    "Week 12.md",
-    "Week 11.md",
     "Hobbies.md",
     "Untitled Kanban.md",
     "Making Things/Recipies.md",
@@ -220,7 +220,7 @@
     "For Reference Purposes",
     "templates/Kanban Template.md",
     "Untitled mindmap.md",
-    "Daily ToDo's",
+    "Past ToDo's",
     "Test/Kanban-1774496469234.md",
     "Test/t.md",
     "Test",
