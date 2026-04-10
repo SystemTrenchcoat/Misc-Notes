@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
+                "file": "Magic/Traditions/Eotalian Magic Traditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Original 4"
+              "title": "Eotalian Magic Traditions"
             }
           }
         ]
@@ -228,8 +228,11 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "efddce9e75274e93",
+  "active": "f68c455eec901289",
   "lastOpenFiles": [
+    "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
+    "Magic/Traditions/Eotalian Magic Traditions.md",
+    "Magic/Traditions",
     "StorytellerSuite/Stories/dd/Events",
     "StorytellerSuite/Stories/dd/Cultures",
     "StorytellerSuite/Stories/dd/MagicSystems",
@@ -239,10 +242,7 @@
     "StorytellerSuite/Stories/dd/Economies",
     "StorytellerSuite/Stories/dd/Scenes",
     "StorytellerSuite/Stories/dd/Chapters",
-    "StorytellerSuite/Stories/dd/References",
-    "StorytellerSuite/Stories/dd/Characters",
     "Characters/Character15995.md",
-    "Magic/Divine/_The Creation Deities/The Original 4/The Original 4.md",
     "Magic/Divine/Neran Deities/Viernei.md",
     "Magic/Divine/Gian Deities/Moira.md",
     "Magic/Divine/Anian Deities/Anio.md",
