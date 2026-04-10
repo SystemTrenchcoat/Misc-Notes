@@ -8,4 +8,9 @@ There are many sources to draw from when it comes to Eotalian Magic, from elemen
 
 Below is a list of some known Magical Traditions, but a comprehensive list does not exist at this time.
 
+- Daoshi - Destruction magic
+- Rekone -  Healing and reparation magic
+- Aurai - Enhancement and augmentation magic
+- Seriin - Performance and sensational magic
+- Ngingo - Animation and sentience altering magic
 - 
