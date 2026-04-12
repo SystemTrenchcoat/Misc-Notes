@@ -13,4 +13,6 @@ Below is a list of some known Magical Traditions, but a comprehensive list does 
 - Aurai - Enhancement and augmentation magic
 - Seriin - Performance and sensational magic
 - Ngingo - Animation and sentience altering magic
-- 
+- Ashan - Summoning and manifesting magic
+- Cyrua - Weapon enhancement
+- Briosai - Martial art centered
