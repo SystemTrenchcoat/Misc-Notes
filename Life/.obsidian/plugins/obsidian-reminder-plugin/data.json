@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "Week 13.md": [
+      {
+        "title": "Add to Portfolio",
+        "time": "2026-04-15",
+        "rowNumber": 12
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
