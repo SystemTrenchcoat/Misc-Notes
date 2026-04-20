@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Week 13.md",
+                "file": "Week 14.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Week 13"
+              "title": "Week 14"
             }
           }
         ]
@@ -203,8 +203,8 @@
   "active": "93dfa80726563db5",
   "lastOpenFiles": [
     "Week 13.md",
-    "Week 14.md",
     "Week 15.md",
+    "Week 14.md",
     "Past ToDo's/Week 11.md",
     "Hobbies.md",
     "Untitled Kanban.md",

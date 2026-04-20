@@ -9,16 +9,10 @@ kanban-plugin: board
 - [ ] Explore "DIY" Therapy Practices
 - [ ] Lip Moisturizer
 - [ ] Conditioner
-- [ ] Rework Portfolio
-- [ ] Add to Portfolio @{2026-04-15}
 
 
 ## Doing
 
-- [ ] <span style="color:rgb(146, 208, 80)">Octopus</span>
-	- [ ] Tentacle Attack (Tracks player)
-	- [ ] Invulnerable With Tentacles
-	- [ ] Stunned When Tentacle is destroyed
 
 
 ## Done
@@ -45,6 +39,12 @@ kanban-plugin: board
 - [x] <span style="color:rgb(0, 176, 240)">Orgs/Factions</span> ✅ 2026-04-12
 - [x] <span style="color:rgb(0, 176, 240)">Explain how magic is used (including magic items)</span> ✅ 2026-04-12
 - [x] <span style="color:rgb(146, 208, 80)">Game Dev Post</span> 📅 2026-04-12 ✅ 2026-04-12
+- [x] Rework Portfolio ✅ 2026-04-19
+- [x] <span style="color:rgb(146, 208, 80)">Octopus</span> ✅ 2026-04-19
+	- [x] Tentacle Attack (Tracks player) ✅ 2026-04-19
+	- [x] Invulnerable With Tentacles ✅ 2026-04-19
+	- [x] Stunned When Tentacle is destroyed ✅ 2026-04-19
+- [x] Add to Portfolio @{2026-04-15} ✅ 2026-04-19
 
 %% kanban:settings
 ```
