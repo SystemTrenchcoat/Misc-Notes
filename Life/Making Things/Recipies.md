@@ -4,46 +4,75 @@ kanban-plugin: board
 
 ---
 
-## Sides
+## Easy Prep Meals
 
-
-
-## Any Protein
-
-- [ ] Mediterranean Bowl
-- [ ] Mexican Bowl
-- [ ] Enchiladas
-- [ ] Tacos
-- [ ] Fried Ravioli
-- [ ] Stuffed Shells
-
-
-## Red Meat
-
-- [ ] Chili
 - [ ] Burgers
-- [ ] Sausage, Eggs, and Veggie Skillet
-- [ ] Hasbrown Casserole
-- [ ] Cabbage Rice and Sausage Skillets
-- [ ] Shepard's Pie
-- [ ] Chili Mac and Cheese
-
-
-## Poultry
-
-- [ ] Chicken Parm
-- [ ] Sesame Chicken
-- [ ] General Tso's Chicken
-- [ ] Spicy Turkey Cauliflower Rice
+- [ ] Tacos
 - [ ] Chicken Sandwich
-- [ ] Korean Fried Chicken
-- [ ] Creamy Cajun Chicken and Rice
+- [ ] Oats
 
 
-## Seafood
+## Low Energy Meals
 
 - [ ] Ceviche
 - [ ] Salmon
+- [ ] Avocado Toast
+- [ ] Smoothie Bowl
+- [ ] Salad
+- [ ] Pasta Salad
+- [ ] Grilled Cheese and Soup
+- [ ] Chili
+- [ ] Chili Mac and Cheese
+
+
+## Medium Energy Meals
+
+- [ ] Creamy Cajun Chicken and Rice
+- [ ] Chicken Parm
+- [ ] Spicy Turkey Cauliflower Rice
+- [ ] Fried Ravioli
+- [ ] Enchiladas
+- [ ] Sesame Chicken
+- [ ] Stuffed Shells
+- [ ] Shepard's Pie
+- [ ] General Tso's Chicken
+- [ ] Cabbage Rice and Sausage Skillets
+- [ ] Korean Fried Chicken
+- [ ] Sausage, Eggs, and Veggie Skillet
+- [ ] Hasbrown Casserole
+- [ ] Pancakes (Eggs optional)
+
+
+## High Energy Meals
+
+- [ ] Mediterranean Bowl
+- [ ] Mexican Bowl
+
+
+## Snacks
+
+- [ ] Granola Bars
+- [ ] Garlic Parm Cheese Bombs
+- [ ] Pretzel Bites
+- [ ] Nuts
+	- [ ] Candied Rosemary Walnuts
+	- [ ] Spiced Nuts
+	- [ ] Chex Mix Walnuts
+- [ ] Crackers
+	- [ ] Rosemary Saltines
+	- [ ] Rice Crackers
+	- [ ] Jalepeno Cheese Shortbread
+	- [ ] Rice Croutons
+	- [ ] Rice Balls
+- [ ] Chips
+	- [ ] Onion
+	- [ ] Potato
+	- [ ] Cheese
+- [ ] Protein Bombs
+	- [ ] Brown Sugar Maple Pecan
+	- [ ] Hazelnut Cacao Nib Nutella
+	- [ ] Agave Vanilla Brazil Nuts (Peanut/Almond Butter)
+	- [ ] Peanut Butter Walnut Honey
 
 
 ## Dessert
@@ -52,44 +81,34 @@ kanban-plugin: board
 - [ ] Citrus Candies
 
 
+## Any Protein
+
+
+
 ## Plant-Based
 
-- [ ] Avocado Toast
-- [ ] Smoothie Bowl
-- [ ] Oats
-- [ ] Pancakes (Eggs optional)
-- [ ] Grilled Cheese and Soup
-- [ ] Salad
-- [ ] Pasta Salad
 
 
-## Snacks
+## Red Meat
 
-- [ ] Rice Crackers
-- [ ] Candied Rosemary Walnuts
-- [ ] Spiced Nuts
-- [ ] Chex Mix Walnuts
-- [ ] Rice Croutons
-- [ ] Cheese Crisps
-- [ ] Rice Balls
-- [ ] Granola Bars
-- [ ] Rosemary Saltines
-- [ ] Jalepeno Cheese Shortbread
-- [ ] Garlic Parm Cheese Bombs
-- [ ] Pretzel Bites
-- [ ] Potato Chips
-- [ ] Onion Chips
-- [ ] Protein Bombs
-	- [ ] Brown Sugar Maple Pecan
-	- [ ] Hazelnut Cacao Nib Nutella
-	- [ ] Agave Vanilla Brazil Nuts (Peanut/Almond Butter)
-	- [ ] Peanut Butter Walnut Honey
+
+
+## Poultry
+
+
+
+## Seafood
+
+
+
+## Sides
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

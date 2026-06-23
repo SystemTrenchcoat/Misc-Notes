@@ -1,12 +1,11 @@
 {
 	"id": "storyteller-suite",
-	"name": "Storyteller suite",
-	"version": "1.7.4",
-	"minAppVersion": "1.0.12",
-	"description": "World-building and story management — characters, locations, events, maps, compendium, timeline, manuscript compilation, and more.",
+	"name": "Storyteller Suite",
+	"version": "1.8.7",
+	"minAppVersion": "1.7.2",
+	"description": "World-building and story management - characters, locations, events, maps, compendium, timeline, manuscript compilation, and more.",
 	"author": "Maws",
 	"authorUrl": "",
 	"fundingUrl": "https://ko-fi.com/kingmaws",
 	"isDesktopOnly": false
 }
-

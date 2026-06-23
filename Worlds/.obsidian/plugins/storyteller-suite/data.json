@@ -16,7 +16,7 @@
   "groups": [],
   "showTutorial": true,
   "hasCompletedOnboarding": true,
-  "lastSeenReleaseNotesVersion": "1.7.4",
+  "lastSeenReleaseNotesVersion": "1.8.7",
   "language": "en",
   "enableCustomEntityFolders": false,
   "storyRootFolderTemplate": "",
@@ -49,7 +49,9 @@
   "customFieldsMode": "flatten",
   "relationshipsMigrated": true,
   "bidirectionalLinksBackfilled": true,
-  "staleEntityRefsPrunedVersion": "1.7.4",
+  "bidirectionalLinksBackfilledVersion": "1.8.7",
+  "staleEntityRefsPrunedVersion": "1.8.7",
+  "entityTypeBackfilledVersion": "1.8.7",
   "timelineWatchProperty": "timeline-date",
   "timelineWatchTag": "timeline",
   "timelineForks": [],
@@ -70,7 +72,236 @@
   "enableAdvancedTimeline": false,
   "autoDetectConflicts": true,
   "analyticsEnabled": false,
-  "writingSessions": [],
+  "writingSessions": [
+    {
+      "id": "writing-1782167580603-0vn3pb",
+      "startTime": "2026-06-22T22:33:00.603Z",
+      "endTime": "2026-06-22T22:33:22.936Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
+      ]
+    },
+    {
+      "id": "writing-1782167609665-hwxpck",
+      "startTime": "2026-06-22T22:33:29.665Z",
+      "endTime": "2026-06-22T22:33:56.971Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
+      ]
+    },
+    {
+      "id": "writing-1782167637660-8otyq9",
+      "startTime": "2026-06-22T22:33:57.660Z",
+      "endTime": "2026-06-22T22:42:55.530Z",
+      "wordsWritten": 83,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
+      ]
+    },
+    {
+      "id": "writing-1782168203672-xivc1v",
+      "startTime": "2026-06-22T22:43:23.672Z",
+      "endTime": "2026-06-22T22:43:59.333Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
+      ]
+    },
+    {
+      "id": "writing-1782168245827-oig38u",
+      "startTime": "2026-06-22T22:44:05.827Z",
+      "endTime": "2026-06-22T22:45:27.267Z",
+      "wordsWritten": 16,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
+      ]
+    },
+    {
+      "id": "writing-1782168327452-ouyftt",
+      "startTime": "2026-06-22T22:45:27.452Z",
+      "endTime": "2026-06-22T22:57:10.255Z",
+      "wordsWritten": 141
+    },
+    {
+      "id": "writing-1782169051611-fvllqd",
+      "startTime": "2026-06-22T22:57:31.611Z",
+      "endTime": "2026-06-22T22:59:39.423Z",
+      "wordsWritten": 9
+    },
+    {
+      "id": "writing-1782169185446-gdmxtw",
+      "startTime": "2026-06-22T22:59:45.446Z",
+      "endTime": "2026-06-22T23:01:38.002Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Places/Continents/Mythica/Antistasi/Wormwood.md"
+      ]
+    },
+    {
+      "id": "writing-1782169303379-i8a8ct",
+      "startTime": "2026-06-22T23:01:43.379Z",
+      "endTime": "2026-06-22T23:02:40.267Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "Places/Continents/Mythica/Antistasi/Wormwood.md"
+      ]
+    },
+    {
+      "id": "writing-1782169378475-1auswn",
+      "startTime": "2026-06-22T23:02:58.475Z",
+      "endTime": "2026-06-22T23:24:09.476Z",
+      "wordsWritten": 101,
+      "filesEdited": [
+        "Places/Continents/Mythica/Antistasi/Wormwood.md"
+      ]
+    },
+    {
+      "id": "writing-1782170649624-pde4fo",
+      "startTime": "2026-06-22T23:24:09.624Z",
+      "endTime": "2026-06-22T23:27:54.970Z",
+      "wordsWritten": 12
+    },
+    {
+      "id": "writing-1782170895220-zmmu2g",
+      "startTime": "2026-06-22T23:28:15.220Z",
+      "endTime": "2026-06-22T23:43:41.826Z",
+      "wordsWritten": 145,
+      "filesEdited": [
+        "Places/Continents/Mythica/Mageia/Mourdbury.md"
+      ]
+    },
+    {
+      "id": "writing-1782172000122-fs9lnk",
+      "startTime": "2026-06-22T23:46:40.122Z",
+      "endTime": "2026-06-22T23:47:28.244Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Scornhollow.md"
+      ]
+    },
+    {
+      "id": "writing-1782172051788-zbfb07",
+      "startTime": "2026-06-22T23:47:31.788Z",
+      "endTime": "2026-06-22T23:55:21.176Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "Places/Continents/Mythica/Epithesi/Scornhollow.md"
+      ]
+    },
+    {
+      "id": "writing-1782172521215-evtz16",
+      "startTime": "2026-06-22T23:55:21.215Z",
+      "endTime": "2026-06-22T23:55:59.218Z",
+      "wordsWritten": 211
+    },
+    {
+      "id": "writing-1782172658653-02i0sf",
+      "startTime": "2026-06-22T23:57:38.653Z",
+      "endTime": "2026-06-22T23:57:53.733Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "People/Characters/Arsuam Qanazofti.md"
+      ]
+    },
+    {
+      "id": "writing-1782172681097-8lcx17",
+      "startTime": "2026-06-22T23:58:01.097Z",
+      "endTime": "2026-06-23T00:13:13.407Z",
+      "wordsWritten": 139,
+      "filesEdited": [
+        "People/Characters/Arsuam Qanazofti.md"
+      ]
+    },
+    {
+      "id": "writing-1782173688089-jwjgap",
+      "startTime": "2026-06-23T00:14:48.089Z",
+      "endTime": "2026-06-23T00:18:27.432Z",
+      "wordsWritten": 32,
+      "filesEdited": [
+        "People/Characters/Esan Tobeir.md"
+      ]
+    },
+    {
+      "id": "writing-1782173907467-rn9jb9",
+      "startTime": "2026-06-23T00:18:27.467Z",
+      "endTime": "2026-06-23T00:19:11.242Z",
+      "wordsWritten": 139
+    },
+    {
+      "id": "writing-1782174809304-lfw4cs",
+      "startTime": "2026-06-23T00:33:29.304Z",
+      "endTime": "2026-06-23T00:33:42.555Z",
+      "wordsWritten": 63
+    },
+    {
+      "id": "writing-1782174822616-aj19ss",
+      "startTime": "2026-06-23T00:33:42.616Z",
+      "endTime": "2026-06-23T00:47:48.528Z",
+      "wordsWritten": 107,
+      "filesEdited": [
+        "People/Sapient Species/Desert People.md"
+      ]
+    },
+    {
+      "id": "writing-1782175672457-6nq6ex",
+      "startTime": "2026-06-23T00:47:52.457Z",
+      "endTime": "2026-06-23T01:09:21.153Z",
+      "wordsWritten": 146,
+      "filesEdited": [
+        "People/Sapient Species/Desert People.md"
+      ]
+    },
+    {
+      "id": "writing-1782176983550-l1t3ax",
+      "startTime": "2026-06-23T01:09:43.550Z",
+      "endTime": "2026-06-23T01:48:39.658Z",
+      "wordsWritten": 75,
+      "filesEdited": [
+        "People/Sapient Species/Desert People.md"
+      ]
+    },
+    {
+      "id": "writing-1782179319791-47hkid",
+      "startTime": "2026-06-23T01:48:39.791Z",
+      "endTime": "2026-06-23T01:48:54.104Z",
+      "wordsWritten": 391
+    },
+    {
+      "id": "writing-1782179334166-ow76jq",
+      "startTime": "2026-06-23T01:48:54.166Z",
+      "endTime": "2026-06-23T02:31:59.305Z",
+      "wordsWritten": 338,
+      "filesEdited": [
+        "People/Sapient Species/Desert People.md"
+      ]
+    },
+    {
+      "id": "writing-1782181961908-le3rrn",
+      "startTime": "2026-06-23T02:32:41.908Z",
+      "endTime": "2026-06-23T02:32:48.648Z",
+      "wordsWritten": 729
+    },
+    {
+      "id": "writing-1782182228520-giy2kn",
+      "startTime": "2026-06-23T02:37:08.520Z",
+      "endTime": "2026-06-23T02:48:25.007Z",
+      "wordsWritten": 206,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey.md"
+      ]
+    },
+    {
+      "id": "writing-1782182907264-2q1xqk",
+      "startTime": "2026-06-23T02:48:27.264Z",
+      "endTime": "2026-06-23T02:54:42.732Z",
+      "wordsWritten": 166,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/The Void.md"
+      ]
+    }
+  ],
   "trackWritingSessions": false,
   "enableWorldBuilding": true,
   "cultureFolderPath": "",
@@ -96,7 +327,27 @@
   "showWordCountInStatusBar": true,
   "notifyOnGoalReached": true,
   "countDeletionsForGoal": false,
-  "dailyWritingStats": [],
+  "dailyWritingStats": [
+    {
+      "date": "2026-06-01",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-22",
+      "wordsWritten": 3275,
+      "wordsDeleted": 0,
+      "netWords": 3275,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": true
+    }
+  ],
+  "dashboardAccentBorders": false,
   "compileScriptsFolder": "StorytellerSuite/CompileScripts",
   "manuscriptOutputFolder": "StorytellerSuite/Manuscripts",
   "disableLeafletGlobalExposure": false,
