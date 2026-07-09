@@ -138,7 +138,7 @@ tags:
 
 - [[Arias]] - Bardic Magic, Creative Inspiration
 
-- [[Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution)
+- [[Pelarius]] - Science (Applied - Known Study Manipulation/Theoretical - Experimental Research Execution) - *"Masterful researcher, observe my experiment! Ensure my findings be true!" ~A prayer to [[Pelarius]].*
 
 - [[Zendiceo]] - Primordial Magic, Temporal Manipulation
 
@@ -154,21 +154,21 @@ tags:
 
 - [[Loresemei]] - Easing Pain, Hospitality/Comfort
 
-- [[Pyra]] - Invigoration, Indomitable Magic
+- [[Pyra]] - Invigoration, Indomitable Magic - *"Holder of the sacred flame and bringer of world's passion, empower me to share my will and be more than I imagined!" ~A prayer to [[Pyra]].* 
 
 - [[Aproveleous]] - Party Magic, Recreational "Creation"
 
 - [[Sapienta]] - Strategy Magic, Magic Tactics
 
-- [[Pagamarous]] - Destruction (Especially Battle Magic), Storm Magic
+- [[Pagamarous]] - Destruction (Especially Battle Magic), Storm Magic - *"God of war and bringer of storm, scorch all that lies in my path. Bring my enemies all to naught and reduce them down to ash. ~A prayer to [[Pagamarous]].* Bringer of destruction and storm, his powers bring just that, almost exclusively in the name of war and battle.
 
 ### [Neran Deities](Ner)
 
 - [[Viernei]] - Calming and Jovial Magic, Neutralization
 
-- [[Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery*
+- [[Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery* - *"Goddess of heartache, keeper of pain, I head you, hear my call. Free me from my misery, let me forget it all..." ~A prayer to [[Trisella]].* 
 
-- [[Nera]] - Flow Magic (Choosing a path), Releasing Magic
+- [[Nera]] - Flow Magic (Choosing a path), Releasing Magic - *"My goddess of the sacred Ner I pray you head my call. I ask of you to guide my path and help me release all" ~A Prayer to [[Nera]].* The bearer of the primordial [[Ner]], her ability draws souls inward, blocking out the world until only their own emotion remains.
 
 - [[Aeoqor]] - Detecting Waterways, Tidal Magic
 
@@ -186,7 +186,7 @@ tags:
 
 - [[Kyasonri]] - Restoration, ==**Enhancement**==/==*Stabilization*==
 
-- [[Tisactor]] - Smithing Magic, Crafting/Construction
+- [[Tisactor]] - Smithing Magic, Crafting/Construction - *"Lord of the forge and all known craft, I call you to guide my hand. Let my creation be strong and match my sight and to myself and all be grand." ~A prayer to [[Tisactor]].* The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
 
 - [[Volcun]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation**
 
@@ -210,7 +210,7 @@ tags:
 
 - [[Isagrei]] - Bureaucratic Magic, Guidance Magic
 
-- [[Aeris]] - Idea, Conveying, Thought Manipulation
+- [[Aeris]] - Idea, Conveying, Thought Manipulation - *"Holder of the sacred aer, we call to you to carry our thoughts. Let our ideas spread on along the wind and deny all that are not" - A prayer to Aeris.* The bearer of the element of [[Aer]], her power grants thought communication and even memory alteration
 
 - [[Mercantur]] - Travel Magic, Trade/Economic Magic
 
@@ -220,9 +220,9 @@ tags:
 
 ### [Brioan Deities](Brio)
 
-- [[Fiersa]] - ==**Plant Growth**==, ==*Foraging*==
+- [[Fiersa]] - ==**Plant Growth**==, ==*Foraging*== - *"Guardian and grower of all plants, holder of their secrets, we look upon you to make our gardens grow. Guide us to our rooted kin, let us raise them and keep them, let us draw upon their power and use it as our own." ~A prayer to [[Fiersa]].* As the grower of all plants, her power has the ability to find and grow plants, even controlling them somewhat.
 
-- [[Diasi]] - Animal Communication, Hunting and Taming Magic
+- [[Diasi]] - Animal Communication, Hunting and Taming Magic - *"Oh hunter of gods, oh custodian of animals, I pray you hear me thus. Guide me to my friend, my quarry, that they may now serve us." ~A prayer to [[Diasi]].* Her power allows those with it to track and connect with them, for whatever purpose they should so desire.
 
 - [[Briosa]] - Seasonal Magic, Minor Nature ==**Control**==/==*Influence*==
 
