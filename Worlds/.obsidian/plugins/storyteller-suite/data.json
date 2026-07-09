@@ -300,6 +300,45 @@
       "filesEdited": [
         "Places/Planes/The Big 4/Iyon Trey/The Void.md"
       ]
+    },
+    {
+      "id": "writing-1782525125335-zcv1iq",
+      "startTime": "2026-06-27T01:52:05.335Z",
+      "endTime": "2026-06-27T01:53:21.444Z",
+      "wordsWritten": 12
+    },
+    {
+      "id": "writing-1782525203756-fqflgr",
+      "startTime": "2026-06-27T01:53:23.756Z",
+      "endTime": "2026-06-27T01:53:38.990Z",
+      "wordsWritten": 12
+    },
+    {
+      "id": "writing-1782600907666-3keiw8",
+      "startTime": "2026-06-27T22:55:07.666Z",
+      "endTime": "2026-06-27T23:46:54.038Z",
+      "wordsWritten": 172,
+      "filesEdited": [
+        "Magic/Magic Uses.md"
+      ]
+    },
+    {
+      "id": "writing-1782604039699-hhzmfx",
+      "startTime": "2026-06-27T23:47:19.699Z",
+      "endTime": "2026-06-27T23:47:39.416Z",
+      "wordsWritten": 13,
+      "filesEdited": [
+        "Misc Unplaced Things.md"
+      ]
+    },
+    {
+      "id": "writing-1782604059435-mjnu4c",
+      "startTime": "2026-06-27T23:47:39.435Z",
+      "endTime": "2026-06-27T23:54:16.431Z",
+      "wordsWritten": 24,
+      "filesEdited": [
+        "Magic/Magic Uses.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -345,6 +384,24 @@
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
+    },
+    {
+      "date": "2026-06-26",
+      "wordsWritten": 24,
+      "wordsDeleted": 0,
+      "netWords": 24,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-27",
+      "wordsWritten": 209,
+      "wordsDeleted": 0,
+      "netWords": 209,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,
