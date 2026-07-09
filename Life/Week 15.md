@@ -9,6 +9,16 @@ kanban-plugin: board
 - [ ] <span style="color:rgb(146, 208, 80)">Postmortem</span> 📅 2026-05-04
 - [ ] <span style="color:rgb(146, 208, 80)">Game Trailer</span> 📅 2026-05-04
 - [ ] <span style="color:rgb(192, 0, 0)">Final Project</span> 📅 2026-05-04
+	- [ ] Beat BP
+	- [ ] Beat Animations
+	- [ ] Download audio
+	- [ ] Assets
+		- [x] Woman ✅ 2026-04-13
+		- [x] Cop ✅ 2026-04-13
+		- [x] Phone ✅ 2026-04-13
+		- [x] Mug ✅ 2026-04-13
+		- [x] Rug (?) ✅ 2026-04-13
+		- [x] Dog ✅ 2026-04-13
 
 
 ## Doing

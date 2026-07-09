@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Traditions/Eotalian Magic Traditions.md",
+                "file": "Magic/Magic Uses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eotalian Magic Traditions"
+              "title": "Magic Uses"
             }
           }
         ]
@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Magic/Elements/Secondary/Emotion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,6 +172,16 @@
   },
   "active": "dd3b42e6287127a6",
   "lastOpenFiles": [
+    "StorytellerSuite/Templates/Notes/Maps",
+    "Magic/Elements/Primary/Ner.md",
+    "Magic/Elements/Secondary/Emotion.md",
+    "Magic/Elements/Primary/Aer.md",
+    "Places/Planes/Outerlands/The Void/Limbo.md",
+    "Magic/Divine/Gian Deities/Pelarius.md",
+    "Magic/Divine/The Divines.md",
+    "Magic/Elements/Secondary/Planary/Glyph.md",
+    "Magic/Elements/Secondary/Planary/Aether.md",
+    "Magic/Traditions/Eotalian Magic Traditions.md",
     "StorytellerSuite/Templates/Notes/References",
     "StorytellerSuite/Templates/Notes/Scenes",
     "StorytellerSuite/Templates/Notes/Chapters",
@@ -180,7 +191,6 @@
     "StorytellerSuite/Templates/Notes/Groups",
     "StorytellerSuite/Templates/Notes/Items",
     "StorytellerSuite/Templates/Notes/Events",
-    "StorytellerSuite/Templates/Notes/Locations",
-    "StorytellerSuite/Templates/Notes/Characters"
+    "StorytellerSuite/Templates/Notes/Locations"
   ]
 }

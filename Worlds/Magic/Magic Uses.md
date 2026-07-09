@@ -164,11 +164,11 @@ tags:
 
 ### [Neran Deities](Ner)
 
-- [[Viernei]] - Calming and Jovial Magic, Neutralization
+- [[Viernei]] - Flow Magic (Choosing a path), Neutralization
 
 - [[Trisella]] - **Dredge up/Heal Heartache**, *Share/Neutralize Misery*
 
-- [[Nera]] - Flow Magic (Choosing a path), Releasing Magic
+- [[Nera]] - Isolation, Releasing Magic
 
 - [[Aeoqor]] - Detecting Waterways, Tidal Magic
 
