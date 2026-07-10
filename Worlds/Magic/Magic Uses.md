@@ -188,7 +188,7 @@ tags:
 
 - [[Tisactor]] - Smithing Magic, Crafting/Construction - *"Lord of the forge and all known craft, I call you to guide my hand. Let my creation be strong and match my sight and to myself and all be grand." ~A prayer to [[Tisactor]].* The master smith and father of crafts grants the ability to craft with ease and magically alter completed works already touched by one's own power.
 
-- [[Volcun]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation**
+- [[Volcune]] - Natural ==**Disaster**==/==*Formation*== *Warning* and **Manipulation** - *"Oh lord of disaster, of earth, of flame, I call to you to guide my aim. Allow my mark to be stricken through, allow my will to flow through you." ~A prayer to [[Volcune]]*
 
 ### [Tosan Deities](Tos)
 
