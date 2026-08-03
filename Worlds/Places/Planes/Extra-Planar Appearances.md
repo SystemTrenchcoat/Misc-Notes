@@ -28,7 +28,7 @@ tags:
 
 - [[Realm of Greed]] - Amalgamation of erratic energies and traits
 
-- [[9 Circles]] - Perfection of a trait/energy
+- [[Realm of Devils]] - Perfection of a trait/energy
 
 - [[Realm of Demons]] - Lots of variety of a specific trait/energy
 
@@ -40,7 +40,7 @@ tags:
 
 - [[Faelryn]] - Exotic combinations of material and celestial creatures
 
-- [[Realm of Law]] - Geometric interpretations of universal laws
+- [[Realm of Law]] - Geometric interpretations of universal laws, often taking the form celestial script following a path along a piece of the [[Ceylium]]
 
 - [[Realm of Structure]] - Mandalas exploring different proportions and shapes
 

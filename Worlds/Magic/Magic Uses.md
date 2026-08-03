@@ -85,7 +85,7 @@ tags:
 
 - [[Realm of Greed]] - Power/Ability Stealing, Wish Fulfillment
 
-- [[9 Circles]] - Contracts, Devil Summoning
+- [[Realm of Devils]] - Contracts, Devil Summoning
 
 - [[Realm of Demons]] - Abrupt Energy Embodiment (Possession), Demon Summoning
 

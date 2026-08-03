@@ -354,6 +354,108 @@
       "startTime": "2026-07-09T00:13:03.624Z",
       "endTime": "2026-07-09T00:13:09.274Z",
       "wordsWritten": 1227
+    },
+    {
+      "id": "writing-1785708345269-yu13zu",
+      "startTime": "2026-08-02T22:05:45.269Z",
+      "endTime": "2026-08-02T22:28:41.079Z",
+      "wordsWritten": 157,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/Infernis.md"
+      ]
+    },
+    {
+      "id": "writing-1785709725889-i84o9b",
+      "startTime": "2026-08-02T22:28:45.889Z",
+      "endTime": "2026-08-02T22:49:45.950Z",
+      "wordsWritten": 197,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/Ceylium.md"
+      ]
+    },
+    {
+      "id": "writing-1785710986063-x3kpa5",
+      "startTime": "2026-08-02T22:49:46.063Z",
+      "endTime": "2026-08-02T22:56:16.168Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/Infernis.md"
+      ]
+    },
+    {
+      "id": "writing-1785711376282-kyy9ol",
+      "startTime": "2026-08-02T22:56:16.282Z",
+      "endTime": "2026-08-02T23:56:29.699Z",
+      "wordsWritten": 374,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/Ceylium.md"
+      ]
+    },
+    {
+      "id": "writing-1785714989828-yzer5m",
+      "startTime": "2026-08-02T23:56:29.828Z",
+      "endTime": "2026-08-03T00:47:53.238Z",
+      "wordsWritten": 313,
+      "filesEdited": [
+        "Places/Planes/The Big 4/Iyon Trey/The Void.md"
+      ]
+    },
+    {
+      "id": "writing-1785718207790-8h0tus",
+      "startTime": "2026-08-03T00:50:07.790Z",
+      "endTime": "2026-08-03T02:08:12.058Z",
+      "wordsWritten": 501
+    },
+    {
+      "id": "writing-1785722892084-vbeh5l",
+      "startTime": "2026-08-03T02:08:12.084Z",
+      "endTime": "2026-08-03T02:08:30.907Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1785723241795-uvi7n8",
+      "startTime": "2026-08-03T02:14:01.795Z",
+      "endTime": "2026-08-03T02:15:06.774Z",
+      "wordsWritten": 130
+    },
+    {
+      "id": "writing-1785723369294-uf35o2",
+      "startTime": "2026-08-03T02:16:09.294Z",
+      "endTime": "2026-08-03T02:17:44.865Z",
+      "wordsWritten": 8
+    },
+    {
+      "id": "writing-1785723464984-r156to",
+      "startTime": "2026-08-03T02:17:44.984Z",
+      "endTime": "2026-08-03T02:36:16.246Z",
+      "wordsWritten": 109,
+      "filesEdited": [
+        "Magic/Planar/Planar Crystals.md"
+      ]
+    },
+    {
+      "id": "writing-1785724576293-8pr83r",
+      "startTime": "2026-08-03T02:36:16.293Z",
+      "endTime": "2026-08-03T02:36:34.657Z",
+      "wordsWritten": 75
+    },
+    {
+      "id": "writing-1785724594807-cebl5n",
+      "startTime": "2026-08-03T02:36:34.807Z",
+      "endTime": "2026-08-03T02:54:11.891Z",
+      "wordsWritten": 116,
+      "filesEdited": [
+        "Magic/Planar/Planar Crystals.md"
+      ]
+    },
+    {
+      "id": "writing-1785725666001-s78sey",
+      "startTime": "2026-08-03T02:54:26.001Z",
+      "endTime": "2026-08-03T03:30:14.257Z",
+      "wordsWritten": 90,
+      "filesEdited": [
+        "Magic/Planar/Planar Crystals.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -423,6 +525,15 @@
       "wordsWritten": 1262,
       "wordsDeleted": 0,
       "netWords": 1262,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": true
+    },
+    {
+      "date": "2026-08-02",
+      "wordsWritten": 2081,
+      "wordsDeleted": 462,
+      "netWords": 1619,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
