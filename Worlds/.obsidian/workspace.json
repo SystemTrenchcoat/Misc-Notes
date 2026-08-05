@@ -77,9 +77,23 @@
               "icon": "lucide-file",
               "title": "Extra-Planar Appearances"
             }
+          },
+          {
+            "id": "383c8082ce274745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Deities/Anian Deities/Aosgos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aosgos"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "3b4f5c8e4f22a62a",
@@ -116,7 +130,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -264,38 +280,38 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "b7e83f5633450543",
+  "active": "2bc975b910fcbd7a",
   "lastOpenFiles": [
+    "Religion/Deities/Anian Deities/Anio.md",
+    "Religion/Deities/Anian Deities/Aosgos.md",
+    "A Soul.md",
+    "Religion/Deities/Anian Deities/Necrotori.md",
+    "Ecology/Prostasin/Prostasian Considerations.md",
+    "Religion/Deities/Anian Deities/Metageasi.md",
+    "Religion/Deities/Anian Deities/Eido.md",
+    "Religion/Deities/Anian Deities/Hemerrah.md",
+    "Religion/Deities/Anian Deities/Animus.md",
+    "Places/Planes/Outerlands/Ceylium/Realm of Champions.md",
+    "Places/Planes/Outerlands/Ceylium/Realm of Exaltation.md",
+    "Places/Planes/Outerlands/The Void/Realm of Imprisonment.md",
+    "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
+    "Places/Planes/Outerlands/The Void/Pandemonium.md",
+    "Places/Planes/Outerlands/The Void/Limbo.md",
+    "Places/Planes/Outerlands/Infernis/Realm of Greed.md",
+    "Places/Planes/Outerlands/Infernis/Realm of Demons.md",
+    "Places/Planes/Outerlands/Infernis/Realm of Storms.md",
+    "Places/Planes/Outerlands/Infernis/Realm of Devils.md",
+    "Places/Planes/Outerlands/Ceylium/Realm of Structure.md",
+    "Places/Planes/Outerlands/Ceylium/Realm of Law.md",
     "People/Sapient Species/Vyeir.md",
     "Magic/Planar/Planar Crystals.md",
     "Places/Planes/Outerlands/Aun Materia/The True Wilds.md",
-    "Places/Planes/Outerlands/Infernis/Realm of Devils.md",
     "Magic/Traditions/Eotalian Magic Traditions.md",
     "Magic/Planar",
     "Religion/Deities/The Divines.md",
     "Religion/Deities",
-    "Religion/Deities/Anian Deities/Animus.md",
-    "Religion/Deities/Anian Deities/Amaosa.md",
-    "Religion/Deities/Aeran Deities/Caliel.md",
-    "Religion/Deities/_The Creation Deities/The Original 4/Xydranous.md",
-    "Religion/Deities/_The Creation Deities/The Original 4/The Original 4.md",
-    "Religion/Deities/_The Creation Deities/The Original 4/Chryorous.md",
-    "Religion/Deities/_The Creation Deities/The Original 4/Kyarous.md",
-    "Magic/Elements/Primary/Eo.md",
-    "Magic/Elements/Primary/Aer.md",
-    "Religion/Deities/Anian Deities/Anio.md",
-    "Religion/Deities/Aeran Deities/Aeris.md",
-    "Religion/Myths/Creation Myth.md",
     "Religion/Myths",
     "Religion",
-    "Places/Planes/The Big 4/Iyon Trey/The Void.md",
-    "Places/Planes/The Big 4/Iyon Trey/Ceylium.md",
-    "Places/Planes/The Big 4/Iyon Trey/Infernis.md",
-    "Magic/Magic Uses.md",
-    "Misc Unplaced Things.md",
-    "Places/Planes/Outerlands/Ceylium/Realm of Law.md",
-    "Ecology/Prostasin/Prostasian Considerations.md",
-    "Fun Nature Facts.md",
     "Characters",
     "StorytellerSuite/Templates/Notes/Maps",
     "StorytellerSuite/Templates/Maps",
