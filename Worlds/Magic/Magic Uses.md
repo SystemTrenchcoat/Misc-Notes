@@ -134,7 +134,7 @@ tags:
 
 
 
-### [Gian Deities](Gia)
+### [Gian Deities](Gia.md)
 
 - [[Arias]] - Bardic Magic, Creative Inspiration
 

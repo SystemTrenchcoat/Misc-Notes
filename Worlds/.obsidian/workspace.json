@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Deities/Anian Deities/Aosgos.md",
+                "file": "Religion/Deities/Brioan Deities/Bemoscas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aosgos"
+              "title": "Bemoscas"
             }
           }
         ],
@@ -109,8 +109,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4f203fe64dedf45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Deities/Gian Deities/Arcaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcaos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,35 +295,35 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "2bc975b910fcbd7a",
+  "active": "383c8082ce274745",
   "lastOpenFiles": [
-    "Religion/Deities/Anian Deities/Anio.md",
+    "Religion/Deities/Brioan Deities/Amaoria.md",
+    "Religion/Deities/Brioan Deities/Bemoscas.md",
+    "Religion/Deities/Brioan Deities/Dilitrio.md",
+    "Religion/Deities/Brioan Deities/Corrapo.md",
+    "Religion/Deities/Brioan Deities/Fruila.md",
+    "Religion/Deities/Brioan Deities/Briosa.md",
+    "Religion/Deities/Brioan Deities/Diasi.md",
+    "Magic/Elements/Primary/Brio.md",
+    "Religion/Deities/Brioan Deities/Fiersa.md",
+    "Religion/Deities/Gian Deities/Arcaos.md",
+    "Religion/Deities/Gian Deities/Arias.md",
+    "Religion/Deities/Aeran Deities/Mesaiga.md",
+    "Religion/Deities/Aeran Deities/Amaoris.md",
+    "Religion/Deities/Aeran Deities/Caliel.md",
+    "Religion/Deities/Aeran Deities/Erimos.md",
+    "Religion/Deities/Aeran Deities/Mercantur.md",
+    "Religion/Deities/Aeran Deities/Aeris.md",
+    "Religion/Deities/Aeran Deities/Isagrei.md",
+    "Religion/Deities/Aeran Deities/Tazo.md",
+    "Religion/Deities/Tosan Deities/Tomeria.md",
+    "Religion/Deities/Tosan Deities/Amaorel.md",
+    "Religion/Deities/Tosan Deities/Melas.md",
+    "Religion/Deities/Tosan Deities/Skotadi.md",
+    "Religion/Deities/Tosan Deities/Selpida.md",
     "Religion/Deities/Anian Deities/Aosgos.md",
-    "A Soul.md",
-    "Religion/Deities/Anian Deities/Necrotori.md",
-    "Ecology/Prostasin/Prostasian Considerations.md",
-    "Religion/Deities/Anian Deities/Metageasi.md",
-    "Religion/Deities/Anian Deities/Eido.md",
-    "Religion/Deities/Anian Deities/Hemerrah.md",
-    "Religion/Deities/Anian Deities/Animus.md",
-    "Places/Planes/Outerlands/Ceylium/Realm of Champions.md",
-    "Places/Planes/Outerlands/Ceylium/Realm of Exaltation.md",
-    "Places/Planes/Outerlands/The Void/Realm of Imprisonment.md",
-    "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
-    "Places/Planes/Outerlands/The Void/Pandemonium.md",
-    "Places/Planes/Outerlands/The Void/Limbo.md",
-    "Places/Planes/Outerlands/Infernis/Realm of Greed.md",
-    "Places/Planes/Outerlands/Infernis/Realm of Demons.md",
-    "Places/Planes/Outerlands/Infernis/Realm of Storms.md",
-    "Places/Planes/Outerlands/Infernis/Realm of Devils.md",
-    "Places/Planes/Outerlands/Ceylium/Realm of Structure.md",
-    "Places/Planes/Outerlands/Ceylium/Realm of Law.md",
-    "People/Sapient Species/Vyeir.md",
-    "Magic/Planar/Planar Crystals.md",
-    "Places/Planes/Outerlands/Aun Materia/The True Wilds.md",
-    "Magic/Traditions/Eotalian Magic Traditions.md",
+    "Religion/Deities/Tosan Deities/Tosera.md",
     "Magic/Planar",
-    "Religion/Deities/The Divines.md",
     "Religion/Deities",
     "Religion/Myths",
     "Religion",
