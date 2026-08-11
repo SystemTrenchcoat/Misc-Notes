@@ -84,16 +84,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Deities/Brioan Deities/Bemoscas.md",
+                "file": "Kelryn Palehide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bemoscas"
+              "title": "Kelryn Palehide"
+            }
+          },
+          {
+            "id": "8fb3573d425522fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vultras Caerxiros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vultras Caerxiros"
+            }
+          },
+          {
+            "id": "e587ea1e8bc8ff48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kelryn Palehide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kelryn Palehide"
+            }
+          },
+          {
+            "id": "7ffbbeff66774313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Landmarks/Natural/Neyrin Mountains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neyrin Mountains"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "3b4f5c8e4f22a62a",
@@ -295,34 +337,36 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "383c8082ce274745",
+  "active": "7ffbbeff66774313",
   "lastOpenFiles": [
-    "Religion/Deities/Brioan Deities/Amaoria.md",
-    "Religion/Deities/Brioan Deities/Bemoscas.md",
-    "Religion/Deities/Brioan Deities/Dilitrio.md",
-    "Religion/Deities/Brioan Deities/Corrapo.md",
-    "Religion/Deities/Brioan Deities/Fruila.md",
-    "Religion/Deities/Brioan Deities/Briosa.md",
-    "Religion/Deities/Brioan Deities/Diasi.md",
-    "Magic/Elements/Primary/Brio.md",
-    "Religion/Deities/Brioan Deities/Fiersa.md",
-    "Religion/Deities/Gian Deities/Arcaos.md",
-    "Religion/Deities/Gian Deities/Arias.md",
-    "Religion/Deities/Aeran Deities/Mesaiga.md",
-    "Religion/Deities/Aeran Deities/Amaoris.md",
-    "Religion/Deities/Aeran Deities/Caliel.md",
-    "Religion/Deities/Aeran Deities/Erimos.md",
-    "Religion/Deities/Aeran Deities/Mercantur.md",
-    "Religion/Deities/Aeran Deities/Aeris.md",
-    "Religion/Deities/Aeran Deities/Isagrei.md",
-    "Religion/Deities/Aeran Deities/Tazo.md",
-    "Religion/Deities/Tosan Deities/Tomeria.md",
-    "Religion/Deities/Tosan Deities/Amaorel.md",
-    "Religion/Deities/Tosan Deities/Melas.md",
-    "Religion/Deities/Tosan Deities/Skotadi.md",
-    "Religion/Deities/Tosan Deities/Selpida.md",
-    "Religion/Deities/Anian Deities/Aosgos.md",
-    "Religion/Deities/Tosan Deities/Tosera.md",
+    "Places/Landmarks/Natural/Syngrou Mountains.md",
+    "Places/Landmarks/Natural/Neyrin Mountains.md",
+    "Places/Landmarks/Natural/Rathei Mountains.md",
+    "Society/A Quick Faction Info Note.md",
+    "Society/Clans/Brass Glove Society.md",
+    "Society/Cults/Cult of Revelry.md",
+    "Society/Cults/Grim Reapers.md",
+    "Society/Factions/Children of Nature.md",
+    "Linnea of the Fae.md",
+    "Society/Factions/Naturae Summa.md",
+    "Society/Factions/Ambassadors of Nature.md",
+    "Society/Factions/Harmony of the Blue Jay.md",
+    "Places/Continents/Mythica.md",
+    "Society/Factions/Lyceum of the Inquisitive.md",
+    "Society/Cults/Hidden Serpant.md",
+    "Society/Factions/Justice of the Dragon.md",
+    "Vedal.md",
+    "Kelryn Palehide.md",
+    "Vultras Caerxiros.md",
+    "Society/Factions/Heart's Blade and Shield.md",
+    "Society/Factions/Headless Hunters.md",
+    "Society/Factions/Syndicate of Shadows.md",
+    "Society/Factions/Operatives of the Hidden.md",
+    "People/Sapient Species/Dragons.md",
+    "Society/Factions/S.E.G.A.A.md",
+    "Society/Cults/Vengeance of the Reborn.md",
+    "Society/Clans",
+    "Society/Cults",
     "Magic/Planar",
     "Religion/Deities",
     "Religion/Myths",
@@ -331,8 +375,6 @@
     "StorytellerSuite/Templates/Notes/Maps",
     "StorytellerSuite/Templates/Maps",
     "StorytellerSuite/Stories/dd/Scenes",
-    "StorytellerSuite/Stories/dd/Sessions",
-    "StorytellerSuite/Stories/dd/Economies",
     "Magic/Elements/Esoterica/Iŋval.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas"
   ]

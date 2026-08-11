@@ -18,7 +18,7 @@ The face of [[Tomeria]] in the skies, encompassing not only the sun (tomeir), bu
 
 #### [[Eirini]]
 
-Lamaria brings about peace and healing in the daytime, illuminating the path to common ground in the night. Her daytime form is [[Eirini]], Goddess of Positivity, Healing, and Peace. Her followers are mostly those that wish to have a positive impact on the world in one way or another. As such, she is worshiped most by diplomats, healers, and those seeking peace in the world.
+Lamaria brings about peace and healing in the daytime, illuminating the path to common ground in the night. Her daytime form is [[Eirini]], Goddess of the Sun, Healing, and Peace. Her followers are mostly those that wish to have a positive impact on the world in one way or another. As such, she is worshiped most by diplomats, healers, and those seeking peace in the world.
 
 #### [[Stolurin]]
 
