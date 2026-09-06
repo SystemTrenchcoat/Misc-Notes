@@ -12,3 +12,14 @@ tags:
 - The Discarded
 - Megolomaniacs
 - The Occassional Narcisist
+
+## TTRPG Abilities
+
+1. **Impulsive Decisions**. +2d6 on rolls that give in to your darkest impulses, but there is always a consequence
+2. **Risky Maneuvers**. You may trade position for +2 effect
+3. **Bad Reputation**. As you gain a worse reputation, you gain power to all rolls
+    +1 - A few people
+    +2 - An organization/village
+    +3 - Town/city
+    +4 - Province
+    +5 - Country

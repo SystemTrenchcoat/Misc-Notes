@@ -3,17 +3,17 @@
 
 **[[Hidden Serpant|Serpant]]**: Enemy of the [[Justice of the Dragon|Dragon]], close allies to [[Operatives of the Hidden|Operatives]], enlists services of [[Lyceum of the Inquisitive|Lyceum]], dislikes [[Children of Nature|Children]] (inconvenient)
 
-**[[Children of Nature|Children]]**: Ally of [[Ambassadors of Nature|Ambassadors]], enlists services of [[Lyceum of the Inquisitive|Lyceum]], dislikes [[Naturae Summa]] and [[S.E.G.A.A]]
+**[[Children of Nature|Children]]**: Ally of [[Ambassadors of Nature|Ambassadors]], enlists services of [[Lyceum of the Inquisitive|Lyceum]], dislikes [[Naturae Summa]] and [[S.E.G.A.A Collective]]
 
 **[[Lyceum of the Inquisitive|Lyceum]]**: Alligned with all to some degree
 
 **[[Operatives of the Hidden|Operatives]]**: Ally of [[Hidden Serpant|Serpant]] and [[Lyceum of the Inquisitive|Lyceum]]
 
-**[[Ambassadors of Nature|Ambassadors]]**: Ally of Children, weary of [[Naturae Summa]] and [[S.E.G.A.A]], enlists services of [[Lyceum of the Inquisitive|Lyceum]] when possible
+**[[Ambassadors of Nature|Ambassadors]]**: Ally of Children, weary of [[Naturae Summa]] and [[S.E.G.A.A Collective]], enlists services of [[Lyceum of the Inquisitive|Lyceum]] when possible
 
 **[[Naturae Summa]]**: Enlists services of [[Lyceum of the Inquisitive|Lyceum]] when possible
 
-**[[S.E.G.A.A]]** Complicated relationship with [[Naturae Summa]], dislikes [[Ambassadors of Nature|Ambassadors]] and [[Children of Nature|Children]]
+**[[S.E.G.A.A Collective]]** Complicated relationship with [[Naturae Summa]], dislikes [[Ambassadors of Nature|Ambassadors]] and [[Children of Nature|Children]]
 
 ## Political:
 
@@ -21,4 +21,4 @@
 - [[Children of Nature]]
 - [[Ambassadors of Nature]]
 - [[Hidden Serpant]]
-- [[S.E.G.A.A]]
+- [[S.E.G.A.A Collective]]

@@ -4,5 +4,6 @@ tags:
 aliases:
   - The One Mind
   - The God of the Void
+  - The Void
 ---
 

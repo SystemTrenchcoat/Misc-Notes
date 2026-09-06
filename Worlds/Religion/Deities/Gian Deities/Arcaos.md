@@ -33,7 +33,7 @@ Ruler of the more esoteric nature of the universe, Mynicend is a being, a domain
 
 #### [[Zendiceo]]
 
-The former is ruled by an aspect of Mynicend long believed to be dead, if believed to exist at all, [[Zendiceo]], Deity of the Mystic Arts, Time, and Arcane Knowledge. Believed to be the first of the gods, he is thought to have overseen creation with [[Kyarous]]. He is not known by most mortals, or even by many intelligent beasts as he is said to have disappeared when creation was done. He is believed to be in a demiplane away from creation, to have transformed into the goddess [[Giah]], or to be the magical grid itself, there's no one who knows for sure.
+The former is ruled by an aspect of Mynicend long believed to be dead, if believed to exist at all, [[Zendiceo]], Deity of the Mystic Arts, Time, and Arcane Knowledge. Believed to be the first of the gods, he is thought to have overseen creation with [[Kyarus]]. He is not known by most mortals, or even by many intelligent beasts as he is said to have disappeared when creation was done. He is believed to be in a demiplane away from creation, to have transformed into the goddess [[Giah]], or to be the magical grid itself, there's no one who knows for sure.
 
 #### [[Giah]]
 

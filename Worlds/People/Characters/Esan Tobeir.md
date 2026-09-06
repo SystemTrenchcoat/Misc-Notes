@@ -11,4 +11,4 @@ tags:
 
 ## Overview
 
-[[S.E.G.A.A]]'s Director of Defense, Esan leads research of defense technology. He is a scientist through an through, he prioritizes progress above all.
+[[S.E.G.A.A Collective]]'s Director of Defense, Esan leads research of defense technology. He is a scientist through an through, he prioritizes progress above all.

@@ -22,7 +22,7 @@ The plants are watched by the aspect [[Fiersa]], Goddess of Flora, Sleep, and Be
 
 #### [[Diasi]]
 
-Animals are ruled by [[Diasi]], Goddess of Fauna, Seasons, and Wilderness. Fauna have their own beauty, but at its core, it is a wild one. Cycles like the seasons, driven by minds and desires of their own, they can be some of the most wild and unpredictable creatures. He is most worshiped by farmers, druid, survivalists, and hunters.
+==Animals are ruled by [[Diasi]], Goddess of Fauna, Hunting, and Wilderness. Fauna have their own beauty, but at its core, it is a wild one. Cycles like the seasons, driven by minds and desires of their own, they can be some of the most wild and unpredictable creatures. He is most worshiped by farmers, druid, survivalists, and hunters.==
 
 ### Tuvasa
 
@@ -30,11 +30,11 @@ Nature has its own order, its own law, its own right and wrong. That said, when 
 
 #### [[Briosa]]
 
-The former is watched over by [[Briosa]], Goddess of Nature, [[Brio|Life]], and The Natural Order. The natural world is protected by her and her followers, the very essence of life in her domain. She is mostly worshiped by guardians of nature, mostly druids, as well as many naturalists, and nature based guilds like the Children and Ambassadors of Nature.
+The former is watched over by [[Briosa]], Goddess of Nature, [[Brio|Life]], and Seasons The natural world is protected by her and her followers, the very essence of life in her domain. She is mostly worshiped by guardians of nature, mostly druids, as well as many naturalists, and nature based guilds like the Children and Ambassadors of Nature.
 
 #### [[Fruila]]
 
-Her more mortal-influenced counterpart is [[Fruila]], Goddess of Weatherm Crops, and Agriculture. She is also associated with rivers for the benefits they have in farms. She watches over the entire farm, influencing and ensuring a balanced ecosystem. She also rules over weather, bringing rain, snow, fog, and drought wherever necessary. She is most worshiped by farmers, but also by those seeking to change or predict the weather
+Her more mortal-influenced counterpart is [[Fruila]], Goddess of Weather, Crops, and Agriculture. She is also associated with rivers for the benefits they have in farms. She watches over the entire farm, influencing and ensuring a balanced ecosystem. She also rules over weather, bringing rain, snow, fog, and drought wherever necessary. She is most worshiped by farmers, but also by those seeking to change or predict the weather
 
 ### Cyrasyona
 
