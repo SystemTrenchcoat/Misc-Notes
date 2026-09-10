@@ -110,14 +110,17 @@
             "id": "7ffbbeff66774313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
-                "mode": "source",
-                "source": false
+                "file": "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
+                "viewState": {
+                  "x": -160.74141940131705,
+                  "y": -423.6417554683434,
+                  "zoom": -0.5032812500000002
+                }
               },
-              "icon": "lucide-file",
-              "title": "Acid"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ritual"
             }
           }
         ],
@@ -144,15 +147,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
                 "viewState": {
-                  "x": 48.338145668894526,
-                  "y": 328.1602501315973,
-                  "zoom": -1.309586538161909
+                  "x": 85.24232365414701,
+                  "y": -451.90801741537075,
+                  "zoom": 0.0510416847666435
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Adaptation"
+              "title": "Alchemy"
             }
           }
         ],
@@ -190,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spellcast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,8 +329,23 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "c79b74a84849039d",
+  "active": "7ffbbeff66774313",
   "lastOpenFiles": [
+    "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
+    "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+    "Systems/TTRPG/Glossary/Die Max.md",
+    "Systems/TTRPG/Glossary/Explode.md",
+    "Systems/TTRPG/Skill Trees/Magics/Enchantment.md",
+    "Systems/TTRPG/Glossary",
+    "Systems/TTRPG/Skill Trees/Crafting.canvas",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+    "Systems/TTRPG/Skill Trees/Social.canvas",
+    "Systems/TTRPG/Skill Trees/Magics",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skill Trees/Exploration.canvas",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Spores.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Breath.md",
@@ -336,7 +354,6 @@
     "Systems/TTRPG/Skills/Adaptation/Ooze/Slime.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Threads.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Venom.md",
-    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
     "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze",
     "Systems/TTRPG/Skills/Adaptation/Body/Covering/Hooves.md",
@@ -351,14 +368,6 @@
     "Systems/TTRPG/Skills/Adaptation/Body/Beak.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Claws.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Tail.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Tentacles.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Wings.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Pseudopod.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Fins.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Covering/Scales.md",
-    "Systems/TTRPG/Skill Trees/Exploration.canvas",
-    "Systems/TTRPG/Skill Trees/Crafting.canvas",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
     "Systems/TTRPG/Skills/Adaptation/Body/Covering",
     "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
     "Systems/TTRPG/Skills/Adaptation/Body",
@@ -366,11 +375,6 @@
     "Systems/TTRPG.zip",
     "Systems/TTRPG.zip.czgixc.part",
     "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless",
-    "Systems/TTRPG/Skills/Adaptation",
-    "Systems/TTRPG/Skills/Combat/Weapons",
-    "Systems/TTRPG/Skill Trees/Social.canvas",
-    "Magic/Elements/Esoterica/Vatal.canvas",
-    "Untitled.canvas",
-    "Magic/Elements/Esoterica/Iŋval.canvas"
+    "Magic/Elements/Esoterica/Vatal.canvas"
   ]
 }

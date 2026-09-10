@@ -3840,6 +3840,27 @@
       "startTime": "2026-09-10T00:58:35.514Z",
       "endTime": "2026-09-10T00:58:38.514Z",
       "wordsWritten": 45
+    },
+    {
+      "id": "writing-1789055991174-v48op7",
+      "startTime": "2026-09-10T15:59:51.174Z",
+      "endTime": "2026-09-10T15:59:56.227Z",
+      "wordsWritten": 172
+    },
+    {
+      "id": "writing-1789056007832-crmhqa",
+      "startTime": "2026-09-10T16:00:07.832Z",
+      "endTime": "2026-09-10T16:00:17.286Z",
+      "wordsWritten": 15,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/explode.md"
+      ]
+    },
+    {
+      "id": "writing-1789068721847-yo9ca0",
+      "startTime": "2026-09-10T19:32:01.847Z",
+      "endTime": "2026-09-10T19:32:31.821Z",
+      "wordsWritten": 15
     }
   ],
   "trackWritingSessions": false,
@@ -4038,6 +4059,15 @@
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
+    },
+    {
+      "date": "2026-09-10",
+      "wordsWritten": 202,
+      "wordsDeleted": 0,
+      "netWords": 202,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,
