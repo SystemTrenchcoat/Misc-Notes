@@ -46,4 +46,12 @@ Result is what you can expect from a success
 
 ## Combat
 
-In broad strokes, combat should follow the same formula as any other scenario, however, players should usually roll at Disadventageous or Dangerous.
+In broad strokes, combat should follow the same formula as any other scenario, however, players should usually roll at Disadventageous or Dangerous. The turn order should be roughly as follows:
+
+1. Scenario: Lay out what is happening on the battlefield and foreshadow what's important for the players to acknowledge
+   
+2. Players: Go around the table and allow each player to respond to the scenario. (Bare in mind that some enemies may directly respond to the players' actions)
+   
+3. Enemies: The opposition responds to the players' actions. (Some may respond immediately following a player's action, while others may be guaranteed a certain outcome or something of the sort as a result instead)
+
+4. Environment: This includes raging storms, melting down [[Rune Engineering|arcanics]] reactors, and on occassion, NPC allies. While this step may not always exist, it can be a helpful way to keep battles dynamic, so take advantage of it when possible

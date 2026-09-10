@@ -1,0 +1,2 @@
+
+You are a scaly, cold-blooded fella. ==You are sensative to cold temperatures, lose 1 die when rolling in the cold. Additionally, gain Scales and 3 of the following: Fangs, Claws, Spines, Poison, Venom, Acid, Breath, Tail==. 

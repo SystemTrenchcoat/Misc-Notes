@@ -1,0 +1,2 @@
+
+You have some amount of sharp spines, usually used for aggressive defense. ==You may choose to activate your spines to damage those who would try and touch you. When someone touches your activated spines, they take the "Pierced" Minor Physical Harm. This ability can be affected by venom==.

@@ -6,7 +6,7 @@
       {
         "id": "783537cb262a2671",
         "type": "tabs",
-        "dimension": 42.38578680203046,
+        "dimension": 35.456215554194735,
         "children": [
           {
             "id": "f68c455eec901289",
@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Playing the Game.md",
+                "file": "Systems/TTRPG/Skills/Combat/Weapons/Club.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playing the Game"
+              "title": "Club"
             }
           },
           {
@@ -112,21 +112,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Deities/Neran Deities/Viernei.md",
+                "file": "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viernei"
+              "title": "Acid"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "3b4f5c8e4f22a62a",
         "type": "tabs",
-        "dimension": 57.61421319796954,
+        "dimension": 64.54378444580527,
         "children": [
           {
             "id": "2bc975b910fcbd7a",
@@ -139,20 +139,24 @@
             }
           },
           {
-            "id": "4f203fe64dedf45e",
+            "id": "c79b74a84849039d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Religion/Deities/Gian Deities/Arcaos.md",
-                "mode": "source",
-                "source": false
+                "file": "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+                "viewState": {
+                  "x": 48.338145668894526,
+                  "y": 328.1602501315973,
+                  "zoom": -1.309586538161909
+                }
               },
-              "icon": "lucide-file",
-              "title": "Arcaos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Adaptation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,46 +326,51 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "8fb3573d425522fc",
+  "active": "c79b74a84849039d",
   "lastOpenFiles": [
-    "Vultras Caerxiros.md",
-    "Religion/Deities/Neran Deities/Viernei.md",
-    "Religion/Deities/Tosan Deities/Tosera.md",
-    "Religion/Deities/Pyran Deities/Pyra.md",
-    "Religion/Deities/Tosan Deities/Melas.md",
-    "Places/Planes/Outerlands/The Void/Pandemonium.md",
-    "People/Sapient Species/Animal Origins.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Spores.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Breath.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Pheromones.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Poison.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Slime.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Threads.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Venom.md",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+    "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze",
+    "Systems/TTRPG/Skills/Adaptation/Body/Covering/Hooves.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Tusks.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Fangs.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Questionless/Extra Legs.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Extra Arms.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Talons.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Mandibles.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Stinger.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Spines.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Beak.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Claws.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Tail.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Tentacles.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Wings.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Pseudopod.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Fins.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Covering/Scales.md",
+    "Systems/TTRPG/Skill Trees/Exploration.canvas",
+    "Systems/TTRPG/Skill Trees/Crafting.canvas",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skills/Adaptation/Body/Covering",
+    "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
+    "Systems/TTRPG/Skills/Adaptation/Body",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types",
+    "Systems/TTRPG.zip",
+    "Systems/TTRPG.zip.czgixc.part",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless",
+    "Systems/TTRPG/Skills/Adaptation",
+    "Systems/TTRPG/Skills/Combat/Weapons",
+    "Systems/TTRPG/Skill Trees/Social.canvas",
     "Magic/Elements/Esoterica/Vatal.canvas",
     "Untitled.canvas",
-    "Magic/Elements/Secondary/Chaos.md",
-    "Religion/Deities/Gian Deities/Tylea.md",
-    "Places/Planes/Borderlands/Realm of the Stars.md",
-    "Places/Planes/Borderlands/Iyon Trey/Mynixaceli.md",
-    "Religion/Deities/Aeran Deities/Isagrei.md",
-    "Magic/Elements/Secondary/Order.md",
-    "Places/Planes/Outerlands/Aun Materia/Realm of Kindness.md",
-    "Religion/Deities/Anian Deities/Metageasi.md",
-    "Magic/Elements/Primary/Ner.md",
-    "Magic/Elements/Primary/Pyr.md",
-    "Magic/Elements/Secondary/Planary/Aether.md",
-    "Magic/Elements/Primary/Aer.md",
-    "Places/Planes/Outerlands/Aun Materia/Realm of Machines.md",
-    "Religion/Deities/Eoan Deities/Tisactor.md",
-    "Religion/Deities/Tosan Deities/Skotadi.md",
-    "Magic/Elements/Secondary/Planary/Glyph.md",
-    "Places/Planes/Outerlands/The Void/Realm of Emptiness.md",
-    "Magic/Elements/Secondary/Mineral.md",
-    "Magic/Elements/Secondary/Ooze.md",
-    "Systems/TTRPG",
-    "Systems",
-    "Places/Settlements",
-    "Society/Clans",
-    "Society/Cults",
-    "Magic/Planar",
-    "Religion/Deities",
-    "Religion/Myths",
-    "Religion",
-    "Characters",
     "Magic/Elements/Esoterica/Iŋval.canvas"
   ]
 }
