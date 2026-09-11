@@ -3861,6 +3861,39 @@
       "startTime": "2026-09-10T19:32:01.847Z",
       "endTime": "2026-09-10T19:32:31.821Z",
       "wordsWritten": 15
+    },
+    {
+      "id": "writing-1789097675155-32z0os",
+      "startTime": "2026-09-11T03:34:35.155Z",
+      "endTime": "2026-09-11T03:35:48.378Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Adaptation/Body/Horns.md"
+      ]
+    },
+    {
+      "id": "writing-1789097766609-yq8c1d",
+      "startTime": "2026-09-11T03:36:06.609Z",
+      "endTime": "2026-09-11T03:39:11.980Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Adaptation/Body/Horns.md"
+      ]
+    },
+    {
+      "id": "writing-1789097952042-hspy5e",
+      "startTime": "2026-09-11T03:39:12.042Z",
+      "endTime": "2026-09-11T03:39:17.792Z",
+      "wordsWritten": 76
+    },
+    {
+      "id": "writing-1789098531093-9pss55",
+      "startTime": "2026-09-11T03:48:51.093Z",
+      "endTime": "2026-09-11T03:50:37.700Z",
+      "wordsWritten": 30,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Adaptation/Body/Spines.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -4062,9 +4095,18 @@
     },
     {
       "date": "2026-09-10",
-      "wordsWritten": 202,
+      "wordsWritten": 316,
       "wordsDeleted": 0,
-      "netWords": 202,
+      "netWords": 316,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-09-11",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

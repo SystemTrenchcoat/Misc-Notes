@@ -50,7 +50,7 @@ In broad strokes, combat should follow the same formula as any other scenario, h
 
 1. Scenario: Lay out what is happening on the battlefield and foreshadow what's important for the players to acknowledge
    
-2. Players: Go around the table and allow each player to respond to the scenario. (Bare in mind that some enemies may directly respond to the players' actions)
+2. Players: Go around the table and allow each player to respond to the scenario. (Bear in mind that some enemies may directly respond to the players' actions)
    
 3. Enemies: The opposition responds to the players' actions. (Some may respond immediately following a player's action, while others may be guaranteed a certain outcome or something of the sort as a result instead)
 

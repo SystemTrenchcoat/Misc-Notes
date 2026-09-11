@@ -22,5 +22,9 @@
 		{"id":"7cbcddc3562a91e7","fromNode":"6ac9905b95998162","fromSide":"left","toNode":"d04682eb452d7120","toSide":"right"},
 		{"id":"f05562f9bac7e2b8","fromNode":"6ac9905b95998162","fromSide":"left","toNode":"992d3f2bc0ee6515","toSide":"right"},
 		{"id":"540f1d7f07e2df1d","fromNode":"6ac9905b95998162","fromSide":"right","toNode":"5ce71ad7b839ed32","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

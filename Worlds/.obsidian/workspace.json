@@ -6,7 +6,7 @@
       {
         "id": "783537cb262a2671",
         "type": "tabs",
-        "dimension": 35.456215554194735,
+        "dimension": 50.398040416411526,
         "children": [
           {
             "id": "f68c455eec901289",
@@ -112,15 +112,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
                 "viewState": {
-                  "x": -160.74141940131705,
-                  "y": -423.6417554683434,
-                  "zoom": -0.5032812500000002
+                  "x": 67.07715881273816,
+                  "y": -709.2061240986905,
+                  "zoom": -0.08320745499384102
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Ritual"
+              "title": "Formula"
             }
           }
         ],
@@ -129,7 +129,7 @@
       {
         "id": "3b4f5c8e4f22a62a",
         "type": "tabs",
-        "dimension": 64.54378444580527,
+        "dimension": 49.601959583588474,
         "children": [
           {
             "id": "2bc975b910fcbd7a",
@@ -150,7 +150,7 @@
                 "file": "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
                 "viewState": {
                   "x": 85.24232365414701,
-                  "y": -451.90801741537075,
+                  "y": -459.1888724008992,
                   "zoom": 0.0510416847666435
                 }
               },
@@ -296,21 +296,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Planes/The Big 4/Iyon Trey/Infernis.md",
+                "file": "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Infernis"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "db6a169e3ad82b3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -326,55 +338,56 @@
       "character-sheets:Create new character sheet ": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Open campaign view": false,
-      "storyteller-suite:Apply template to story": false
+      "storyteller-suite:Apply template to story": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "7ffbbeff66774313",
   "lastOpenFiles": [
     "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
+    "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
-    "Systems/TTRPG/Glossary/Die Max.md",
-    "Systems/TTRPG/Glossary/Explode.md",
-    "Systems/TTRPG/Skill Trees/Magics/Enchantment.md",
-    "Systems/TTRPG/Glossary",
-    "Systems/TTRPG/Skill Trees/Crafting.canvas",
-    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
-    "Systems/TTRPG/Skill Trees/Social.canvas",
-    "Systems/TTRPG/Skill Trees/Magics",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
-    "Systems/TTRPG/Skill Trees/Exploration.canvas",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Spores.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Breath.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Pheromones.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Poison.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Slime.md",
+    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Threads.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Venom.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze",
-    "Systems/TTRPG/Skills/Adaptation/Body/Covering/Hooves.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Tusks.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Fangs.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Questionless/Extra Legs.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Extra Arms.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Talons.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Mandibles.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Stinger.md",
+    "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
+    "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
+    "Systems/TTRPG/Skills/Adaptation/Body/Pseudopod.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Spines.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Beak.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Claws.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Wings.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Tusks.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Tentacles.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Tail.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Horns.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Mandibles.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Hooves.md",
+    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Axe & Pick.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Staff.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Hammer.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Shield.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Fan.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Ropes & Chains.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Improvised.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Sickle & Scythe.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Missiles.md",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skill Trees/Crafting.canvas",
+    "Systems/TTRPG/Glossary",
+    "Systems/TTRPG/Skill Trees/Magics",
+    "Systems/TTRPG/Skills/Adaptation/Ooze",
     "Systems/TTRPG/Skills/Adaptation/Body/Covering",
     "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
     "Systems/TTRPG/Skills/Adaptation/Body",
     "Systems/TTRPG/Skills/Adaptation/Alt Types",
     "Systems/TTRPG.zip",
     "Systems/TTRPG.zip.czgixc.part",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless",
-    "Magic/Elements/Esoterica/Vatal.canvas"
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless"
   ]
 }

@@ -59,5 +59,9 @@
 		{"id":"0dfe317ea8f939e3","fromNode":"794a5ff8b3e58ec5","fromSide":"right","toNode":"7f4a0d33b65c4ee8","toSide":"bottom"},
 		{"id":"9983067e5ed7381c","fromNode":"6efd9381ae3221fc","fromSide":"top","toNode":"ec6fd80b8a3938da","toSide":"bottom"},
 		{"id":"3371a9562c62426f","fromNode":"6efd9381ae3221fc","fromSide":"top","toNode":"67623a9cb156eb15","toSide":"bottom"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
