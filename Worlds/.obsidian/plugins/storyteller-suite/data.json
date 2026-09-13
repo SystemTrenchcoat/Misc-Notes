@@ -74,15 +74,6 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1782167580603-0vn3pb",
-      "startTime": "2026-06-22T22:33:00.603Z",
-      "endTime": "2026-06-22T22:33:22.936Z",
-      "wordsWritten": 1,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
-      ]
-    },
-    {
       "id": "writing-1782167609665-hwxpck",
       "startTime": "2026-06-22T22:33:29.665Z",
       "endTime": "2026-06-22T22:33:56.971Z",
@@ -3906,6 +3897,300 @@
       "startTime": "2026-09-12T16:12:07.992Z",
       "endTime": "2026-09-12T16:13:18.371Z",
       "wordsWritten": 1027
+    },
+    {
+      "id": "writing-1789248664053-u3u1k6",
+      "startTime": "2026-09-12T21:31:04.053Z",
+      "endTime": "2026-09-12T21:31:43.258Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/Playtester Start.md"
+      ]
+    },
+    {
+      "id": "writing-1789248729815-0xycep",
+      "startTime": "2026-09-12T21:32:09.815Z",
+      "endTime": "2026-09-12T21:32:18.491Z",
+      "wordsWritten": 850
+    },
+    {
+      "id": "writing-1789248744647-wledos",
+      "startTime": "2026-09-12T21:32:24.647Z",
+      "endTime": "2026-09-12T21:32:41.653Z",
+      "wordsWritten": 44,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Effect.md"
+      ]
+    },
+    {
+      "id": "writing-1789248762535-e2e0w2",
+      "startTime": "2026-09-12T21:32:42.535Z",
+      "endTime": "2026-09-12T21:35:23.967Z",
+      "wordsWritten": 27,
+      "filesEdited": [
+        "Systems/TTRPG/Playing the Game.md"
+      ]
+    },
+    {
+      "id": "writing-1789248923987-1i6f3r",
+      "startTime": "2026-09-12T21:35:23.987Z",
+      "endTime": "2026-09-12T21:37:54.026Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Effect.md"
+      ]
+    },
+    {
+      "id": "writing-1789249091347-cp0dds",
+      "startTime": "2026-09-12T21:38:11.347Z",
+      "endTime": "2026-09-12T21:38:38.640Z",
+      "wordsWritten": 21,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Position.md"
+      ]
+    },
+    {
+      "id": "writing-1789249121499-v67jxl",
+      "startTime": "2026-09-12T21:38:41.499Z",
+      "endTime": "2026-09-12T21:39:08.428Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Effect.md"
+      ]
+    },
+    {
+      "id": "writing-1789249148442-bhutqf",
+      "startTime": "2026-09-12T21:39:08.442Z",
+      "endTime": "2026-09-12T21:39:14.500Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Position.md"
+      ]
+    },
+    {
+      "id": "writing-1789249155931-76z458",
+      "startTime": "2026-09-12T21:39:15.931Z",
+      "endTime": "2026-09-12T21:39:45.895Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Systems/TTRPG/Playing the Game.md"
+      ]
+    },
+    {
+      "id": "writing-1789249234600-f2zzac",
+      "startTime": "2026-09-12T21:40:34.600Z",
+      "endTime": "2026-09-12T21:40:40.359Z",
+      "wordsWritten": 514
+    },
+    {
+      "id": "writing-1789249268737-1u64c9",
+      "startTime": "2026-09-12T21:41:08.737Z",
+      "endTime": "2026-09-12T21:41:22.009Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1789249282031-p4uf28",
+      "startTime": "2026-09-12T21:41:22.031Z",
+      "endTime": "2026-09-12T21:41:39.994Z",
+      "wordsWritten": 521
+    },
+    {
+      "id": "writing-1789249316467-hgyn9e",
+      "startTime": "2026-09-12T21:41:56.467Z",
+      "endTime": "2026-09-12T21:44:00.334Z",
+      "wordsWritten": 73,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Harm.md"
+      ]
+    },
+    {
+      "id": "writing-1789249481578-brxfdq",
+      "startTime": "2026-09-12T21:44:41.578Z",
+      "endTime": "2026-09-12T21:48:21.577Z",
+      "wordsWritten": 14,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Harm.md"
+      ]
+    },
+    {
+      "id": "writing-1789252984005-l1agmo",
+      "startTime": "2026-09-12T22:43:04.005Z",
+      "endTime": "2026-09-12T23:34:20.174Z",
+      "wordsWritten": 39,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Harm.md"
+      ]
+    },
+    {
+      "id": "writing-1789256063654-g6nmlu",
+      "startTime": "2026-09-12T23:34:23.654Z",
+      "endTime": "2026-09-13T00:03:32.567Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/Playtester Start.md"
+      ]
+    },
+    {
+      "id": "writing-1789257827544-uge9fn",
+      "startTime": "2026-09-13T00:03:47.544Z",
+      "endTime": "2026-09-13T00:03:52.191Z",
+      "wordsWritten": 753
+    },
+    {
+      "id": "writing-1789257832286-i4982r",
+      "startTime": "2026-09-13T00:03:52.286Z",
+      "endTime": "2026-09-13T00:03:59.264Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/Playtester Start.md"
+      ]
+    },
+    {
+      "id": "writing-1789257839330-8pj515",
+      "startTime": "2026-09-13T00:03:59.330Z",
+      "endTime": "2026-09-13T00:12:28.144Z",
+      "wordsWritten": 139,
+      "filesEdited": [
+        "Systems/TTRPG/Character Creation.md"
+      ]
+    },
+    {
+      "id": "writing-1789258348265-wdwfsq",
+      "startTime": "2026-09-13T00:12:28.265Z",
+      "endTime": "2026-09-13T00:14:18.721Z",
+      "wordsWritten": 139
+    },
+    {
+      "id": "writing-1789258458748-2ak5ft",
+      "startTime": "2026-09-13T00:14:18.748Z",
+      "endTime": "2026-09-13T00:16:33.504Z",
+      "wordsWritten": 17,
+      "filesEdited": [
+        "Systems/TTRPG/Character Creation.md"
+      ]
+    },
+    {
+      "id": "writing-1789258595226-45qtzs",
+      "startTime": "2026-09-13T00:16:35.226Z",
+      "endTime": "2026-09-13T00:16:40.630Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Systems/TTRPG/Character Creation.md"
+      ]
+    },
+    {
+      "id": "writing-1789258619332-s5zor5",
+      "startTime": "2026-09-13T00:16:59.332Z",
+      "endTime": "2026-09-13T00:20:16.483Z",
+      "wordsWritten": 61,
+      "filesEdited": [
+        "Systems/TTRPG/Character Creation.md"
+      ]
+    },
+    {
+      "id": "writing-1789258872860-w0ki9l",
+      "startTime": "2026-09-13T00:21:12.860Z",
+      "endTime": "2026-09-13T00:23:04.594Z",
+      "wordsWritten": 53,
+      "filesEdited": [
+        "Enhanced Senses.md"
+      ]
+    },
+    {
+      "id": "writing-1789258991825-8y4jl8",
+      "startTime": "2026-09-13T00:23:11.825Z",
+      "endTime": "2026-09-13T00:25:01.609Z",
+      "wordsWritten": 47,
+      "filesEdited": [
+        "Night Vision.md"
+      ]
+    },
+    {
+      "id": "writing-1789259104214-a1d340",
+      "startTime": "2026-09-13T00:25:04.214Z",
+      "endTime": "2026-09-13T00:26:58.861Z",
+      "wordsWritten": 54,
+      "filesEdited": [
+        "Infrared.md"
+      ]
+    },
+    {
+      "id": "writing-1789259221681-2tov34",
+      "startTime": "2026-09-13T00:27:01.681Z",
+      "endTime": "2026-09-13T00:29:37.351Z",
+      "wordsWritten": 60,
+      "filesEdited": [
+        "Echolocation.md"
+      ]
+    },
+    {
+      "id": "writing-1789259480931-k9safr",
+      "startTime": "2026-09-13T00:31:20.931Z",
+      "endTime": "2026-09-13T00:32:14.926Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Adaptation/Body/Extra Arms.md"
+      ]
+    },
+    {
+      "id": "writing-1789259538197-ohlsrc",
+      "startTime": "2026-09-13T00:32:18.197Z",
+      "endTime": "2026-09-13T00:32:30.198Z",
+      "wordsWritten": 28
+    },
+    {
+      "id": "writing-1789259550223-k7nzhi",
+      "startTime": "2026-09-13T00:32:30.223Z",
+      "endTime": "2026-09-13T00:32:34.506Z",
+      "wordsWritten": 165
+    },
+    {
+      "id": "writing-1789259764151-mszejb",
+      "startTime": "2026-09-13T00:36:04.151Z",
+      "endTime": "2026-09-13T00:36:41.482Z",
+      "wordsWritten": 320
+    },
+    {
+      "id": "writing-1789259813241-mu1n8o",
+      "startTime": "2026-09-13T00:36:53.241Z",
+      "endTime": "2026-09-13T00:37:08.469Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Crafting Material Template.md"
+      ]
+    },
+    {
+      "id": "writing-1789260706265-62iwpq",
+      "startTime": "2026-09-13T00:51:46.265Z",
+      "endTime": "2026-09-13T01:03:21.580Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Crafting Material Template.md"
+      ]
+    },
+    {
+      "id": "writing-1789261402454-2rbn8d",
+      "startTime": "2026-09-13T01:03:22.454Z",
+      "endTime": "2026-09-13T01:04:48.709Z",
+      "wordsWritten": 23,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Crafting Material Template.md"
+      ]
+    },
+    {
+      "id": "writing-1789261488790-cvxdan",
+      "startTime": "2026-09-13T01:04:48.790Z",
+      "endTime": "2026-09-13T01:06:37.800Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1789261777671-saosyj",
+      "startTime": "2026-09-13T01:09:37.671Z",
+      "endTime": "2026-09-13T01:09:47.205Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Templates/Scale Template.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -4125,9 +4410,9 @@
     },
     {
       "date": "2026-09-12",
-      "wordsWritten": 1030,
-      "wordsDeleted": 0,
-      "netWords": 1030,
+      "wordsWritten": 5004,
+      "wordsDeleted": 300,
+      "netWords": 4704,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true

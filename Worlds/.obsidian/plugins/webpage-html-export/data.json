@@ -12,7 +12,7 @@
     "inlineHTML": false,
     "exportPath": "/var/home/star-net/Desktop/HTMLs/StS/alpha/a.005",
     "filesToExport": [
-      "Systems"
+      "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -215,7 +215,7 @@
     "faviconPath": "",
     "siteName": "Worlds",
     "iconEmojiStyle": "Native",
-    "exportRoot": "Systems/TTRPG",
+    "exportRoot": "Systems/TTRPG/Skill Trees/Magics",
     "includePluginCss": [],
     "includeStyleCssIds": [],
     "autoDisposeWebpages": true

@@ -1,2 +1,0 @@
-
-You have an additional set of arms. ==You may use these arms the same way you would normally use your arms. They may benefit from [[claws]], [[talons]], [[wings]], or any other [[Adaptation.canvas]] or ability that affect your hands or arms==. Do you have a dominant set of arms? Do they appear different? How do you use each set?

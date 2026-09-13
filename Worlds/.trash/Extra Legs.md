@@ -1,2 +1,1 @@
-
 You have an extra set of legs. ==You have +1 die on rolls involving careful footing. They may benefit from [[Hooves]], [[pseudopod]], [[talons]], or any other ability that affects your legs or feet==.

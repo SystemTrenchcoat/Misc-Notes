@@ -110,21 +110,32 @@
             "id": "7ffbbeff66774313",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
-                "viewState": {
-                  "x": 67.07715881273816,
-                  "y": -709.2061240986905,
-                  "zoom": -0.08320745499384102
-                }
+                "file": "Systems/TTRPG/GM Tools/Templates/Scale Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Formula"
+              "icon": "lucide-file",
+              "title": "Scale Template"
+            }
+          },
+          {
+            "id": "f7461785cedeff0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/TTRPG/GM Tools/Rotted Red Dragon Scale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotted Red Dragon Scale"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "3b4f5c8e4f22a62a",
@@ -147,15 +158,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Crafting.canvas",
                 "viewState": {
-                  "x": 85.24232365414701,
-                  "y": -459.1888724008992,
-                  "zoom": 0.0510416847666435
+                  "x": -122.61696150301924,
+                  "y": 83.59935120637294,
+                  "zoom": -0.8303142776555854
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alchemy"
+              "title": "Crafting"
             }
           }
         ],
@@ -342,52 +353,52 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "7ffbbeff66774313",
+  "active": "f7461785cedeff0a",
   "lastOpenFiles": [
-    "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
+    "Systems/TTRPG/GM Tools/Templates/Scale Template.md",
+    "Systems/TTRPG/GM Tools/Red Dragon Scale.md",
+    "Systems/TTRPG/GM Tools/Templates",
+    "Systems/TTRPG/GM Tools/Rotted Red Dragon Scale.md",
+    "Systems/TTRPG/GM Tools/Templates/Crafting Material Template.md",
+    "Systems/TTRPG/Glossary/Stance.md",
+    "Systems/TTRPG/Skill Trees/Crafting.canvas",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+    "Systems/TTRPG/__Start Here__/Playing the Game.md",
+    "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/GM Tools",
+    "Systems/TTRPG/__Start Here__",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Amphibious.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Extra Limbs.md",
+    "Systems/TTRPG/Skills/Adaptation/Body/Questionless/Extra Legs.md",
+    "Echolocation.md",
+    "Infrared.md",
+    "Night Vision.md",
+    "Enhanced Senses.md",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skill Trees/Exploration.canvas",
+    "Systems/TTRPG/Skill Trees/Social.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
+    "Systems/TTRPG/Glossary/Skill Points.md",
+    "Systems/TTRPG/__Start Here__/Playtester Start.md",
+    "Systems/TTRPG/Glossary/Result.md",
+    "Systems/TTRPG/Glossary/Harm.md",
+    "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Threads.md",
     "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
-    "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
-    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
     "Systems/TTRPG/Skills/Adaptation/Body/Pseudopod.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Spines.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Wings.md",
     "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Tusks.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Tentacles.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Tail.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Horns.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Mandibles.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Hooves.md",
-    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Axe & Pick.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Staff.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Hammer.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Shield.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Fan.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Ropes & Chains.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Improvised.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Sickle & Scythe.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Missiles.md",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
-    "Systems/TTRPG/Skill Trees/Crafting.canvas",
     "Systems/TTRPG/Glossary",
     "Systems/TTRPG/Skill Trees/Magics",
     "Systems/TTRPG/Skills/Adaptation/Ooze",
     "Systems/TTRPG/Skills/Adaptation/Body/Covering",
     "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
     "Systems/TTRPG/Skills/Adaptation/Body",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types",
-    "Systems/TTRPG.zip",
-    "Systems/TTRPG.zip.czgixc.part",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless"
+    "Systems/TTRPG/Skills/Adaptation/Alt Types"
   ]
 }

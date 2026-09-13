@@ -68,5 +68,25 @@
       ],
       "key": "T"
     }
+  ],
+  "multi-state-checkbox-switcher:toggle-three-state": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "multi-state-checkbox-switcher:toggle-additional-states": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }

@@ -23,6 +23,7 @@ Moves should usually be accompanied by a roll
 LoST - Level of Success Threshold
 Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicable
 
+### Stance
 
 | Stance          | Effect               | Example                       |
 | --------------- | -------------------- | ----------------------------- |
@@ -33,13 +34,15 @@ Formula - Avg * Difficulty Threshold (number of dice) rounded down when applicab
 | Dangerous       | Danger (likely harm) | Combat                        |
 Stance is the situation you are walking into and the dangers/rewards associated
 
-| Result   | Effect |
-| -------- | ------ |
-| Maximal  |        |
-| Major    |        |
-| Moderate |        |
-| Minor    |        |
-| Minimal  |        |
+### Result
+
+| Result   | Effect                                    |
+| -------- | ----------------------------------------- |
+| Maximal  | The absolute best case scenario           |
+| Major    | What you wanted and something extra       |
+| Moderate | What you wanted                           |
+| Minor    | Something, but not all of what you wanted |
+| Minimal  | Next to nothing                           |
 Result is what you can expect from a success
 
 ## 
