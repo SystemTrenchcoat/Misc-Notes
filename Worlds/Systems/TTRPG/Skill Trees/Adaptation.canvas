@@ -27,7 +27,6 @@
 		{"id":"d2f42cc04d3e44b1","type":"text","text":"[[Infernal]]","x":757,"y":-600,"width":123,"height":60,"color":"6"},
 		{"id":"4a693e0ca37d396e","type":"text","text":"[[Lycanthrope]]","x":1060,"y":-472,"width":140,"height":60,"color":"6"},
 		{"id":"5cc7f1ecc860c769","type":"text","text":"[[Taur]]","x":1077,"y":-352,"width":83,"height":60,"color":"6"},
-		{"id":"a25988a0ecd7d905","type":"text","text":"[[Undead]]","x":418,"y":-540,"width":147,"height":60,"color":"6"},
 		{"id":"c2244556698bc596","type":"text","text":"[[Celestial]]","x":587,"y":-630,"width":110,"height":60,"color":"6"},
 		{"id":"3d5eb3fde519c672","type":"text","text":"[[Tail]]","x":-460,"y":520,"width":80,"height":60},
 		{"id":"4d4b44e3bcb95538","type":"text","text":"[[Acid]]","x":547,"y":200,"width":84,"height":60},
@@ -65,7 +64,7 @@
 		{"id":"ab82530cb3677ba8","type":"text","text":"[[Spines]]","x":-7,"y":150,"width":102,"height":60}
 	],
 	"edges":[
-		{"id":"d3794bf140544339","fromNode":"47217f7891f55873","fromSide":"right","toNode":"8a342c23718abfc7","toSide":"left"},
+		{"id":"d3794bf140544339","toFloating":false,"fromNode":"47217f7891f55873","fromSide":"right","toNode":"8a342c23718abfc7","toSide":"left"},
 		{"id":"af3c8f8031fba598","toFloating":false,"fromNode":"47217f7891f55873","fromSide":"left","toNode":"3cdea594eab891af","toSide":"right"},
 		{"id":"540a051be2d5f289","fromNode":"47217f7891f55873","fromSide":"bottom","toNode":"1a39fb8bb8242542","toSide":"top"},
 		{"id":"c83d24e4690e18d4","fromNode":"47217f7891f55873","fromSide":"bottom","toNode":"0bb44668785fb3ed","toSide":"top"},
@@ -97,7 +96,6 @@
 		{"id":"22c6ff8d84f61999","fromNode":"befe9d0f206fa64e","fromSide":"right","toNode":"4a693e0ca37d396e","toSide":"left"},
 		{"id":"33d5ec59e707cafa","fromNode":"befe9d0f206fa64e","fromSide":"bottom","toNode":"6858c20ca3dd2ae8","toSide":"right"},
 		{"id":"9d4f0e53361f4467","fromNode":"befe9d0f206fa64e","fromSide":"bottom","toNode":"24616c23cfc999aa","toSide":"right"},
-		{"id":"7c62d2577dfb88a4","fromNode":"befe9d0f206fa64e","fromSide":"top","toNode":"a25988a0ecd7d905","toSide":"right"},
 		{"id":"64a77c27733f124d","fromNode":"befe9d0f206fa64e","fromSide":"top","toNode":"1dbcfd4ca800bf98","toSide":"right"},
 		{"id":"eebd80fde596ef30","fromNode":"befe9d0f206fa64e","fromSide":"bottom","toNode":"beb26c9a66895256","toSide":"left"},
 		{"id":"8d4d4612b31cb073","fromNode":"befe9d0f206fa64e","fromSide":"top","toNode":"d2f42cc04d3e44b1","toSide":"left"},

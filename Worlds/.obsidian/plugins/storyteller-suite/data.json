@@ -74,273 +74,6 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1782167609665-hwxpck",
-      "startTime": "2026-06-22T22:33:29.665Z",
-      "endTime": "2026-06-22T22:33:56.971Z",
-      "wordsWritten": 1,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
-      ]
-    },
-    {
-      "id": "writing-1782167637660-8otyq9",
-      "startTime": "2026-06-22T22:33:57.660Z",
-      "endTime": "2026-06-22T22:42:55.530Z",
-      "wordsWritten": 83,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
-      ]
-    },
-    {
-      "id": "writing-1782168203672-xivc1v",
-      "startTime": "2026-06-22T22:43:23.672Z",
-      "endTime": "2026-06-22T22:43:59.333Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
-      ]
-    },
-    {
-      "id": "writing-1782168245827-oig38u",
-      "startTime": "2026-06-22T22:44:05.827Z",
-      "endTime": "2026-06-22T22:45:27.267Z",
-      "wordsWritten": 16,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Hex Ridge.md"
-      ]
-    },
-    {
-      "id": "writing-1782168327452-ouyftt",
-      "startTime": "2026-06-22T22:45:27.452Z",
-      "endTime": "2026-06-22T22:57:10.255Z",
-      "wordsWritten": 141
-    },
-    {
-      "id": "writing-1782169051611-fvllqd",
-      "startTime": "2026-06-22T22:57:31.611Z",
-      "endTime": "2026-06-22T22:59:39.423Z",
-      "wordsWritten": 9
-    },
-    {
-      "id": "writing-1782169185446-gdmxtw",
-      "startTime": "2026-06-22T22:59:45.446Z",
-      "endTime": "2026-06-22T23:01:38.002Z",
-      "wordsWritten": 2,
-      "filesEdited": [
-        "Places/Continents/Mythica/Antistasi/Wormwood.md"
-      ]
-    },
-    {
-      "id": "writing-1782169303379-i8a8ct",
-      "startTime": "2026-06-22T23:01:43.379Z",
-      "endTime": "2026-06-22T23:02:40.267Z",
-      "wordsWritten": 4,
-      "filesEdited": [
-        "Places/Continents/Mythica/Antistasi/Wormwood.md"
-      ]
-    },
-    {
-      "id": "writing-1782169378475-1auswn",
-      "startTime": "2026-06-22T23:02:58.475Z",
-      "endTime": "2026-06-22T23:24:09.476Z",
-      "wordsWritten": 101,
-      "filesEdited": [
-        "Places/Continents/Mythica/Antistasi/Wormwood.md"
-      ]
-    },
-    {
-      "id": "writing-1782170649624-pde4fo",
-      "startTime": "2026-06-22T23:24:09.624Z",
-      "endTime": "2026-06-22T23:27:54.970Z",
-      "wordsWritten": 12
-    },
-    {
-      "id": "writing-1782170895220-zmmu2g",
-      "startTime": "2026-06-22T23:28:15.220Z",
-      "endTime": "2026-06-22T23:43:41.826Z",
-      "wordsWritten": 145,
-      "filesEdited": [
-        "Places/Continents/Mythica/Mageia/Mourdbury.md"
-      ]
-    },
-    {
-      "id": "writing-1782172000122-fs9lnk",
-      "startTime": "2026-06-22T23:46:40.122Z",
-      "endTime": "2026-06-22T23:47:28.244Z",
-      "wordsWritten": 7,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Scornhollow.md"
-      ]
-    },
-    {
-      "id": "writing-1782172051788-zbfb07",
-      "startTime": "2026-06-22T23:47:31.788Z",
-      "endTime": "2026-06-22T23:55:21.176Z",
-      "wordsWritten": 5,
-      "filesEdited": [
-        "Places/Continents/Mythica/Epithesi/Scornhollow.md"
-      ]
-    },
-    {
-      "id": "writing-1782172521215-evtz16",
-      "startTime": "2026-06-22T23:55:21.215Z",
-      "endTime": "2026-06-22T23:55:59.218Z",
-      "wordsWritten": 211
-    },
-    {
-      "id": "writing-1782172658653-02i0sf",
-      "startTime": "2026-06-22T23:57:38.653Z",
-      "endTime": "2026-06-22T23:57:53.733Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "People/Characters/Arsuam Qanazofti.md"
-      ]
-    },
-    {
-      "id": "writing-1782172681097-8lcx17",
-      "startTime": "2026-06-22T23:58:01.097Z",
-      "endTime": "2026-06-23T00:13:13.407Z",
-      "wordsWritten": 139,
-      "filesEdited": [
-        "People/Characters/Arsuam Qanazofti.md"
-      ]
-    },
-    {
-      "id": "writing-1782173688089-jwjgap",
-      "startTime": "2026-06-23T00:14:48.089Z",
-      "endTime": "2026-06-23T00:18:27.432Z",
-      "wordsWritten": 32,
-      "filesEdited": [
-        "People/Characters/Esan Tobeir.md"
-      ]
-    },
-    {
-      "id": "writing-1782173907467-rn9jb9",
-      "startTime": "2026-06-23T00:18:27.467Z",
-      "endTime": "2026-06-23T00:19:11.242Z",
-      "wordsWritten": 139
-    },
-    {
-      "id": "writing-1782174809304-lfw4cs",
-      "startTime": "2026-06-23T00:33:29.304Z",
-      "endTime": "2026-06-23T00:33:42.555Z",
-      "wordsWritten": 63
-    },
-    {
-      "id": "writing-1782174822616-aj19ss",
-      "startTime": "2026-06-23T00:33:42.616Z",
-      "endTime": "2026-06-23T00:47:48.528Z",
-      "wordsWritten": 107,
-      "filesEdited": [
-        "People/Sapient Species/Desert People.md"
-      ]
-    },
-    {
-      "id": "writing-1782175672457-6nq6ex",
-      "startTime": "2026-06-23T00:47:52.457Z",
-      "endTime": "2026-06-23T01:09:21.153Z",
-      "wordsWritten": 146,
-      "filesEdited": [
-        "People/Sapient Species/Desert People.md"
-      ]
-    },
-    {
-      "id": "writing-1782176983550-l1t3ax",
-      "startTime": "2026-06-23T01:09:43.550Z",
-      "endTime": "2026-06-23T01:48:39.658Z",
-      "wordsWritten": 75,
-      "filesEdited": [
-        "People/Sapient Species/Desert People.md"
-      ]
-    },
-    {
-      "id": "writing-1782179319791-47hkid",
-      "startTime": "2026-06-23T01:48:39.791Z",
-      "endTime": "2026-06-23T01:48:54.104Z",
-      "wordsWritten": 391
-    },
-    {
-      "id": "writing-1782179334166-ow76jq",
-      "startTime": "2026-06-23T01:48:54.166Z",
-      "endTime": "2026-06-23T02:31:59.305Z",
-      "wordsWritten": 338,
-      "filesEdited": [
-        "People/Sapient Species/Desert People.md"
-      ]
-    },
-    {
-      "id": "writing-1782181961908-le3rrn",
-      "startTime": "2026-06-23T02:32:41.908Z",
-      "endTime": "2026-06-23T02:32:48.648Z",
-      "wordsWritten": 729
-    },
-    {
-      "id": "writing-1782182228520-giy2kn",
-      "startTime": "2026-06-23T02:37:08.520Z",
-      "endTime": "2026-06-23T02:48:25.007Z",
-      "wordsWritten": 206,
-      "filesEdited": [
-        "Places/Planes/The Big 4/Iyon Trey.md"
-      ]
-    },
-    {
-      "id": "writing-1782182907264-2q1xqk",
-      "startTime": "2026-06-23T02:48:27.264Z",
-      "endTime": "2026-06-23T02:54:42.732Z",
-      "wordsWritten": 166,
-      "filesEdited": [
-        "Places/Planes/The Big 4/Iyon Trey/The Void.md"
-      ]
-    },
-    {
-      "id": "writing-1782525125335-zcv1iq",
-      "startTime": "2026-06-27T01:52:05.335Z",
-      "endTime": "2026-06-27T01:53:21.444Z",
-      "wordsWritten": 12
-    },
-    {
-      "id": "writing-1782525203756-fqflgr",
-      "startTime": "2026-06-27T01:53:23.756Z",
-      "endTime": "2026-06-27T01:53:38.990Z",
-      "wordsWritten": 12
-    },
-    {
-      "id": "writing-1782600907666-3keiw8",
-      "startTime": "2026-06-27T22:55:07.666Z",
-      "endTime": "2026-06-27T23:46:54.038Z",
-      "wordsWritten": 172,
-      "filesEdited": [
-        "Magic/Magic Uses.md"
-      ]
-    },
-    {
-      "id": "writing-1782604039699-hhzmfx",
-      "startTime": "2026-06-27T23:47:19.699Z",
-      "endTime": "2026-06-27T23:47:39.416Z",
-      "wordsWritten": 13,
-      "filesEdited": [
-        "Misc Unplaced Things.md"
-      ]
-    },
-    {
-      "id": "writing-1782604059435-mjnu4c",
-      "startTime": "2026-06-27T23:47:39.435Z",
-      "endTime": "2026-06-27T23:54:16.431Z",
-      "wordsWritten": 24,
-      "filesEdited": [
-        "Magic/Magic Uses.md"
-      ]
-    },
-    {
-      "id": "writing-1783555894265-ikmzel",
-      "startTime": "2026-07-09T00:11:34.265Z",
-      "endTime": "2026-07-09T00:13:03.593Z",
-      "wordsWritten": 35,
-      "filesEdited": [
-        "Magic/Magic Uses.md"
-      ]
-    },
-    {
       "id": "writing-1783555983624-y3isko",
       "startTime": "2026-07-09T00:13:03.624Z",
       "endTime": "2026-07-09T00:13:09.274Z",
@@ -4191,6 +3924,294 @@
       "filesEdited": [
         "Systems/TTRPG/GM Tools/Templates/Scale Template.md"
       ]
+    },
+    {
+      "id": "writing-1789262439973-2pkhv3",
+      "startTime": "2026-09-13T01:20:39.973Z",
+      "endTime": "2026-09-13T01:21:09.895Z",
+      "wordsWritten": 20,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Templates/Crafting Material Template.md"
+      ]
+    },
+    {
+      "id": "writing-1789262469973-lbhe41",
+      "startTime": "2026-09-13T01:21:09.973Z",
+      "endTime": "2026-09-13T01:21:33.010Z",
+      "wordsWritten": 18,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Templates/Scale Template.md"
+      ]
+    },
+    {
+      "id": "writing-1789262504589-paxus7",
+      "startTime": "2026-09-13T01:21:44.589Z",
+      "endTime": "2026-09-13T01:21:47.308Z",
+      "wordsWritten": 18,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Red Dragon Scale.md"
+      ]
+    },
+    {
+      "id": "writing-1789262507385-zwwuci",
+      "startTime": "2026-09-13T01:21:47.385Z",
+      "endTime": "2026-09-13T01:22:08.624Z",
+      "wordsWritten": 18,
+      "filesEdited": [
+        "Systems/TTRPG/GM Tools/Rotted Red Dragon Scale.md"
+      ]
+    },
+    {
+      "id": "writing-1789262648800-q7bet8",
+      "startTime": "2026-09-13T01:24:08.800Z",
+      "endTime": "2026-09-13T01:24:56.407Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Religion/Deities/Gian Deities/Arias.md"
+      ]
+    },
+    {
+      "id": "writing-1789262696437-o384ac",
+      "startTime": "2026-09-13T01:24:56.437Z",
+      "endTime": "2026-09-13T01:29:06.593Z",
+      "wordsWritten": 64,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Harm.md"
+      ]
+    },
+    {
+      "id": "writing-1789263564750-d9zu70",
+      "startTime": "2026-09-13T01:39:24.750Z",
+      "endTime": "2026-09-13T01:41:08.627Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Places/Planes/Outerlands/The Void/Realm of Emptiness.md"
+      ]
+    },
+    {
+      "id": "writing-1789264097314-ys8ebh",
+      "startTime": "2026-09-13T01:48:17.314Z",
+      "endTime": "2026-09-13T01:48:44.945Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Religion/Deities/Tosan Deities/Melas.md"
+      ]
+    },
+    {
+      "id": "writing-1789315305986-8gvw2i",
+      "startTime": "2026-09-13T16:01:45.986Z",
+      "endTime": "2026-09-13T16:03:39.916Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Maneuvers.md"
+      ]
+    },
+    {
+      "id": "writing-1789315431469-zoler4",
+      "startTime": "2026-09-13T16:03:51.469Z",
+      "endTime": "2026-09-13T16:05:53.439Z",
+      "wordsWritten": 21,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Maneuvers.md"
+      ]
+    },
+    {
+      "id": "writing-1789315553540-pktxcj",
+      "startTime": "2026-09-13T16:05:53.540Z",
+      "endTime": "2026-09-13T16:06:18.715Z",
+      "wordsWritten": 32
+    },
+    {
+      "id": "writing-1789354215511-75merk",
+      "startTime": "2026-09-14T02:50:15.511Z",
+      "endTime": "2026-09-14T03:04:23.999Z",
+      "wordsWritten": 28,
+      "filesEdited": [
+        "Religion/Deities/Anian Deities/Metageasi.md"
+      ]
+    },
+    {
+      "id": "writing-1789355417485-2f48ew",
+      "startTime": "2026-09-14T03:10:17.485Z",
+      "endTime": "2026-09-14T03:40:46.533Z",
+      "wordsWritten": 88,
+      "filesEdited": [
+        "Systems/TTRPG/Glossary/Harm.md"
+      ]
+    },
+    {
+      "id": "writing-1789357770085-z8eimt",
+      "startTime": "2026-09-14T03:49:30.085Z",
+      "endTime": "2026-09-14T03:53:19.308Z",
+      "wordsWritten": 31,
+      "filesEdited": [
+        "Elemental.md"
+      ]
+    },
+    {
+      "id": "writing-1789358010409-4k0ebf",
+      "startTime": "2026-09-14T03:53:30.409Z",
+      "endTime": "2026-09-14T03:56:14.319Z",
+      "wordsWritten": 50,
+      "filesEdited": [
+        "Celestial.md"
+      ]
+    },
+    {
+      "id": "writing-1789358329708-d4oj4b",
+      "startTime": "2026-09-14T03:58:49.708Z",
+      "endTime": "2026-09-14T04:05:19.991Z",
+      "wordsWritten": 48,
+      "filesEdited": [
+        "Infernal.md"
+      ]
+    },
+    {
+      "id": "writing-1789358746039-1tr979",
+      "startTime": "2026-09-14T04:05:46.039Z",
+      "endTime": "2026-09-14T04:15:40.066Z",
+      "wordsWritten": 103
+    },
+    {
+      "id": "writing-1789359341123-8mzu5b",
+      "startTime": "2026-09-14T04:15:41.123Z",
+      "endTime": "2026-09-14T04:22:44.884Z",
+      "wordsWritten": 94
+    },
+    {
+      "id": "writing-1789359775623-y56dxp",
+      "startTime": "2026-09-14T04:22:55.623Z",
+      "endTime": "2026-09-14T04:23:45.213Z",
+      "wordsWritten": 28,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Skills.md"
+      ]
+    },
+    {
+      "id": "writing-1789359827545-wb0o51",
+      "startTime": "2026-09-14T04:23:47.545Z",
+      "endTime": "2026-09-14T04:24:27.683Z",
+      "wordsWritten": 21,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Skills.md"
+      ]
+    },
+    {
+      "id": "writing-1789359873549-i607q0",
+      "startTime": "2026-09-14T04:24:33.549Z",
+      "endTime": "2026-09-14T04:26:35.485Z",
+      "wordsWritten": 22,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Skills.md"
+      ]
+    },
+    {
+      "id": "writing-1789360070127-qrfcj9",
+      "startTime": "2026-09-14T04:27:50.127Z",
+      "endTime": "2026-09-14T04:28:51.790Z",
+      "wordsWritten": 28,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Skills.md"
+      ]
+    },
+    {
+      "id": "writing-1789360136770-npzaec",
+      "startTime": "2026-09-14T04:28:56.770Z",
+      "endTime": "2026-09-14T04:29:30.887Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Skills.md"
+      ]
+    },
+    {
+      "id": "writing-1789360539958-qh5cq5",
+      "startTime": "2026-09-14T04:35:39.958Z",
+      "endTime": "2026-09-14T04:36:33.256Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Magic/Elements/Secondary/Planary/Aether.md"
+      ]
+    },
+    {
+      "id": "writing-1789360789663-p0jysl",
+      "startTime": "2026-09-14T04:39:49.663Z",
+      "endTime": "2026-09-14T04:41:18.657Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Magic/Elements/Secondary/Planary/Aether.md"
+      ]
+    },
+    {
+      "id": "writing-1789360908469-0gfgzm",
+      "startTime": "2026-09-14T04:41:48.469Z",
+      "endTime": "2026-09-14T04:44:15.845Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Magic/Elements/Primary/Eo.md"
+      ]
+    },
+    {
+      "id": "writing-1789361055977-595prz",
+      "startTime": "2026-09-14T04:44:15.977Z",
+      "endTime": "2026-09-14T04:45:24.654Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "Magic/Elements/Secondary/Planary/Glyph.md"
+      ]
+    },
+    {
+      "id": "writing-1789361124764-9e0yxa",
+      "startTime": "2026-09-14T04:45:24.764Z",
+      "endTime": "2026-09-14T04:45:32.237Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Magic/Elements/Secondary/Mineral.md"
+      ]
+    },
+    {
+      "id": "writing-1789361132387-ib5eq8",
+      "startTime": "2026-09-14T04:45:32.387Z",
+      "endTime": "2026-09-14T04:45:43.073Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Magic/Elements/Primary/Ner.md"
+      ]
+    },
+    {
+      "id": "writing-1789361143186-d0gdil",
+      "startTime": "2026-09-14T04:45:43.186Z",
+      "endTime": "2026-09-14T04:45:47.092Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Religion/Deities/Gian Deities/Pelarius.md"
+      ]
+    },
+    {
+      "id": "writing-1789361163632-x8wqwr",
+      "startTime": "2026-09-14T04:46:03.632Z",
+      "endTime": "2026-09-14T04:46:27.038Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Religion/Deities/Tosan Deities/Skotadi.md"
+      ]
+    },
+    {
+      "id": "writing-1789361839135-jr878l",
+      "startTime": "2026-09-14T04:57:19.135Z",
+      "endTime": "2026-09-14T05:00:41.897Z",
+      "wordsWritten": 19,
+      "filesEdited": [
+        "Religion/Deities/Eoan Deities/Tisactor.md"
+      ]
+    },
+    {
+      "id": "writing-1789362548874-t6dmme",
+      "startTime": "2026-09-14T05:09:08.874Z",
+      "endTime": "2026-09-14T05:11:28.901Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "Systems/TTRPG/__Start Here__/Character Creation.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -4410,12 +4431,30 @@
     },
     {
       "date": "2026-09-12",
-      "wordsWritten": 5004,
+      "wordsWritten": 5146,
       "wordsDeleted": 300,
-      "netWords": 4704,
+      "netWords": 4846,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
+    },
+    {
+      "date": "2026-09-13",
+      "wordsWritten": 253,
+      "wordsDeleted": 0,
+      "netWords": 253,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-09-14",
+      "wordsWritten": 396,
+      "wordsDeleted": 8,
+      "netWords": 388,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6ac9905b95998162","type":"text","text":"Spellcasting","x":-154,"y":-133,"width":154,"height":60,"color":"4"},
+		{"id":"6ac9905b95998162","type":"text","text":"Spellcraft","x":-154,"y":-133,"width":154,"height":60,"color":"4"},
 		{"id":"a3bc8ccb5f9759a9","type":"text","text":"[Oracy](Oracy.canvas)","x":-382,"y":-133,"width":104,"height":60,"color":"3"},
 		{"id":"2141966200542189","type":"text","text":"[Psionics](Psionics.canvas)","x":-133,"y":-300,"width":112,"height":60,"color":"3"},
 		{"id":"d04682eb452d7120","type":"text","text":"[Clockwork](Clockwork.canvas)","x":-329,"y":-37,"width":130,"height":60,"color":"3"},
@@ -10,7 +10,7 @@
 		{"id":"a6e494707c230132","type":"text","text":"[Formula](Formula.canvas)","x":-213,"y":62,"width":111,"height":60,"color":"3"},
 		{"id":"992d3f2bc0ee6515","type":"text","text":"[Ritual](Ritual.canvas)","x":-278,"y":-224,"width":103,"height":60,"color":"3"},
 		{"id":"5ce71ad7b839ed32","type":"text","text":"[Sigils](Sigil.canvas)","x":34,"y":-224,"width":87,"height":60,"color":"3"},
-		{"id":"5eba0bf5bc95ed11","type":"text","text":"Unless otherwise specified, casters can utilize spellcraft an amount of times equal to half  their spellcast die (3 for a d6, etc.). Attempting to cast more results in the \"Drained\" Minor Metaphysical Harm. The same thing happens if they attempt to utilize a spell they have 0 dice in (increasing in harm level ~every 2 levels of success.","x":-382,"y":191,"width":610,"height":149}
+		{"id":"5eba0bf5bc95ed11","type":"text","text":"Unless otherwise specified, casters can utilize spellcraft an amount of times equal to half  their spellcast die (3 for a d6, etc.). Attempting to cast more results in the \"Drained\" **[Minor Metaphysical Harm](Harm)**. The same thing happens if they attempt to utilize a spell they have 0 dice in (increasing in **[[Harm]]** level ~every 2 levels of success.","x":-382,"y":191,"width":610,"height":149}
 	],
 	"edges":[
 		{"id":"6eeb2f386b34819e","fromNode":"6ac9905b95998162","fromSide":"bottom","toNode":"a6e494707c230132","toSide":"top"},

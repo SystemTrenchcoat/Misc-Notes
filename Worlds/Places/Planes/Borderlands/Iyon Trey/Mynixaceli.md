@@ -18,4 +18,4 @@ The [[Mynixaceli|Realm Between Sanity]], Mynixaceli is the borderland of [[The V
 
 1. **Reality's Edge**. The nature of reality seems to fall around you. At all times, there is some small, strange, reality defying phenomena around you. Most tend to find this unnerving. 
 2. **Fraying Mirror**. **Prereq: Reality's Edge** Your powers of distortion grow stronger. You can now center distortions on others. Additionally, you may roll a Wis Check to create an illusion that only one creature experiences. These illusions can only last 1 minute, but are so powerful that for the target it is indistinguishable from reality.
-3. **Shattered Glass**. **Prereq: Fraying Mirror** Your reality breaking powers grow even further. Your abilities are no longer constrained to being "small", you may administer aid and harm using **Reality's Edge**
+3. **Shattered Glass**. **Prereq: Fraying Mirror** Your reality breaking powers grow even further. Your abilities are no longer constrained to being "small", you may administer aid and **[[Harm]]** using **Reality's Edge**

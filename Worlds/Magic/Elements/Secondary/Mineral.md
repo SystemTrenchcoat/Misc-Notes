@@ -12,6 +12,6 @@ Magic solidified, taking a variety of forms. Stones are weak and fairly basic wh
 
 ## TTRPG Abilities
 
-1. **Mineral Knowledge**. At a glance, you can tell the dominant energy in a mineral (crystal, metal, etc.). You may roll a Study check to determine any lesser energies of a mineral
+1. **Mineral Knowledge**. At a glance, you can tell the dominant energy in a mineral (crystal, metal, etc.). You may roll a **Recall**, **Diligence**, or **Will** check to determine any lesser energies of a mineral
 2. **Mineral Manipulation**. **Prereq: Moderate Eo Manipulation**. You are able to magically maipulate the form of refined minerals
 3. **Mineral Alchemy**. **Prereq: Reconfigure**. You are able to combine minerals into unique composites. Additionally, you may change minerals into another of the same element

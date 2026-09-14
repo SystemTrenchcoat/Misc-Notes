@@ -43,7 +43,7 @@
 		{
 			"id":"4105dbdb442e7687",
 			"type":"text",
-			"text":"**Explosive Words.** When you are overcome with emotion and cast using Oracy, your dice explode",
+			"text":"**Explosive Words.** When you are overcome with emotion and cast using Oracy, your dice **[[Explode]]**",
 			"styleAttributes":{},
 			"x":360,
 			"y":-410,
@@ -63,7 +63,7 @@
 		{
 			"id":"78ac8a6100cf4e72",
 			"type":"text",
-			"text":"**Whispered Words.** When you whisper, most methods of detecting magic can no detect you casting magic",
+			"text":"**Whispered Words.** When you whisper, most methods of detecting magic can not detect you casting magic",
 			"styleAttributes":{},
 			"x":-510,
 			"y":-760,

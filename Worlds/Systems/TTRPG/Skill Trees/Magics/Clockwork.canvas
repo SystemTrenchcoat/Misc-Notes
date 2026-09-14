@@ -13,7 +13,7 @@
 		{
 			"id":"feea4acdb125447f",
 			"type":"text",
-			"text":"Caster can create contraptions capable of casting spells given proper time and materials. They each take up one slot each, drawing on the user's magic to remain operable. Creating above mac disables the last, rendering it reusable scrap as the machines seize up for good",
+			"text":"**Magical Works.** Caster can create contraptions capable of casting spells given proper time and materials. They take up one slot each, drawing on the user's magic to remain operable. Creating above max disables the last, rendering it reusable scrap as the machines seize up for good",
 			"styleAttributes":{},
 			"x":-200,
 			"y":-520,
@@ -23,22 +23,12 @@
 		{
 			"id":"6bd9f42188049bbe",
 			"type":"text",
-			"text":"Caster can create special contraptions capable of creating spells in an aura around it, able to last a number of <time> equal to the number of points spent in this tree",
+			"text":"**Emmenating Works.** Caster can create special contraptions capable of creating spells in an aura around it, able to last until disabled",
 			"styleAttributes":{},
 			"x":-200,
 			"y":-780,
 			"width":340,
-			"height":160
-		},
-		{
-			"id":"001b9dc84762d251",
-			"type":"text",
-			"text":"Caster can create automated contraptions that can perform simple movements on their own",
-			"styleAttributes":{},
-			"x":-200,
-			"y":-1000,
-			"width":340,
-			"height":100
+			"height":120
 		},
 		{
 			"id":"d435ad6b7f341ba5",
@@ -57,6 +47,16 @@
 			"styleAttributes":{},
 			"x":240,
 			"y":-1010,
+			"width":340,
+			"height":120
+		},
+		{
+			"id":"001b9dc84762d251",
+			"type":"text",
+			"text":"**Automatic Works.** Caster can create automated contraptions that can perform simple movements on their own",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-1000,
 			"width":340,
 			"height":120
 		}

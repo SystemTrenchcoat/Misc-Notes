@@ -1,9 +1,7 @@
 
 ## Attributes
 
-* Fire
-* Decay
-* Spores
+* Protection
 * Conduit
 
 ## Crafts

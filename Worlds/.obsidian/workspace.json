@@ -124,14 +124,17 @@
             "id": "f7461785cedeff0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/GM Tools/Rotted Red Dragon Scale.md",
-                "mode": "source",
-                "source": false
+                "file": "Systems/TTRPG/Skill Trees/Social.canvas",
+                "viewState": {
+                  "x": -10.5,
+                  "y": 60.86153098420416,
+                  "zoom": -0.656102906308072
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rotted Red Dragon Scale"
+              "icon": "lucide-layout-dashboard",
+              "title": "Social"
             }
           }
         ],
@@ -158,15 +161,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Crafting.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Adaptation.canvas",
                 "viewState": {
-                  "x": -122.61696150301924,
-                  "y": 83.59935120637294,
-                  "zoom": -0.8303142776555854
+                  "x": 512.706162909038,
+                  "y": -364.89866296583193,
+                  "zoom": -0.5235663196502852
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Crafting"
+              "title": "Adaptation"
             }
           }
         ],
@@ -204,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spellcast",
+                "query": "leaf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,50 +358,50 @@
   },
   "active": "f7461785cedeff0a",
   "lastOpenFiles": [
-    "Systems/TTRPG/GM Tools/Templates/Scale Template.md",
-    "Systems/TTRPG/GM Tools/Red Dragon Scale.md",
-    "Systems/TTRPG/GM Tools/Templates",
-    "Systems/TTRPG/GM Tools/Rotted Red Dragon Scale.md",
-    "Systems/TTRPG/GM Tools/Templates/Crafting Material Template.md",
-    "Systems/TTRPG/Glossary/Stance.md",
-    "Systems/TTRPG/Skill Trees/Crafting.canvas",
-    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
-    "Systems/TTRPG/__Start Here__/Playing the Game.md",
     "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/Skill Trees/Exploration.canvas",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Shapeshifter.md",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+    "Religion/Deities/Eoan Deities/Tisactor.md",
+    "Religion/Deities/Tosan Deities/Tomeria.md",
+    "Religion/Deities/Tosan Deities/Skotadi.md",
+    "Religion/Deities/Gian Deities/Pelarius.md",
+    "Magic/Elements/Primary/Ner.md",
+    "Magic/Elements/Secondary/Mineral.md",
+    "Magic/Elements/Secondary/Planary/Glyph.md",
+    "Magic/Elements/Primary/Eo.md",
+    "Magic/Elements/Secondary/Planary/Aether.md",
+    "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Psionics.canvas",
+    "Magic/Elements/Secondary/Order.md",
+    "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+    "Systems/TTRPG/Skills/Skills.md",
+    "Systems/TTRPG/Skill Trees/Social.canvas",
+    "Systems/TTRPG/Skill Trees/Crafting.canvas",
+    "Systems/TTRPG/Skills/Actions.md",
+    "Infernal.md",
+    "Systems/TTRPG/Skills/Adaptation/Sensory",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Celestial.md",
+    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Elemental.md",
+    "Systems/TTRPG/Glossary/Harm.md",
+    "Religion/Deities/Anian Deities/Metageasi.md",
+    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
+    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
+    "Religion/Deities/Neran Deities/Viernei.md",
+    "Systems/TTRPG/__Start Here__/Playing the Game.md",
+    "Systems/TTRPG/Glossary/Stance.md",
+    "Religion/Deities/Tosan Deities/Melas.md",
+    "Systems/TTRPG/GM Tools/Templates",
     "Systems/TTRPG/GM Tools",
     "Systems/TTRPG/__Start Here__",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Amphibious.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Extra Limbs.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Questionless/Extra Legs.md",
-    "Echolocation.md",
-    "Infrared.md",
-    "Night Vision.md",
-    "Enhanced Senses.md",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
-    "Systems/TTRPG/Skill Trees/Exploration.canvas",
-    "Systems/TTRPG/Skill Trees/Social.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcasting.canvas",
-    "Systems/TTRPG/Glossary/Skill Points.md",
-    "Systems/TTRPG/__Start Here__/Playtester Start.md",
-    "Systems/TTRPG/Glossary/Result.md",
-    "Systems/TTRPG/Glossary/Harm.md",
-    "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Threads.md",
-    "Systems/TTRPG/Skills/Adaptation/Ooze/Acid.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Pseudopod.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Spines.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Wings.md",
-    "Systems/TTRPG/Skills/Adaptation/Body/Trunk.md",
     "Systems/TTRPG/Glossary",
     "Systems/TTRPG/Skill Trees/Magics",
     "Systems/TTRPG/Skills/Adaptation/Ooze",
     "Systems/TTRPG/Skills/Adaptation/Body/Covering",
     "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
-    "Systems/TTRPG/Skills/Adaptation/Body",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types"
+    "Systems/TTRPG/Skills/Adaptation/Body"
   ]
 }

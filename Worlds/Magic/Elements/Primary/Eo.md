@@ -14,9 +14,9 @@ The structure of all things, embodying laws, restraints, etc. creating a foundat
 
 ## TTRPG Abilities
 
-1. **Sum of its Parts**. You may roll Study to determine the composition of something you can see or otherwise sense
-2. **Reconfigure**. If you know the composition of something, you may roll a Craft, Study, or Magic check to attempt to alter it (removing parts, adding some from elsewhere, etc.). This only works on non-living things
-3. **Foundational Knowledge**. You have grown accustomed to the nature of things and can often determine something's foundation. Make a Study roll. On a success, you determine a foundational piece of info on a target, be it an origin or weakness.
+1. **Sum of its Parts**. You may roll **Recall** or **Diligence** to determine the composition of something you can see or otherwise sense
+2. **Reconfigure**. If you know the composition of something, you may roll a **Craft**, **Recall**, **Diligence**, **Will**, or **Spellcraft** check to attempt to alter it (removing parts, adding some from elsewhere, etc.). This only works on non-living things
+3. **Foundational Knowledge**. You have grown accustomed to the nature of things and can often determine something's foundation. Make a **Recall**, **Diligence**, or **Will** roll. On a success, you determine a foundational piece of info on a target, be it an origin or weakness.
 
 ### Elemental Manipulation
 

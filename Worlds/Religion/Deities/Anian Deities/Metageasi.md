@@ -14,12 +14,12 @@ The ascended deity of ascendance. Born of divine blood, ascended by divine battl
 
 ## TTRPG Abilities
 
-1. **Transcendant Durability**. You must have every harm slot full before you can take long term damage. If you would take damage that would result in long term harm, put it in the next lowest slot
+1. **Transcendant Durability**. You must have every **[[Harm]]** slot full before you can take long term damage. If you would take damage that would result in **[Long Term Harm](Harm)**, put it in the next lowest slot
 2. **Transcendant Archetype**. You have evolved beyond what you once were. Choose between the listed archetypes and gain that bonus:
-      - Ascended. You no longer age and have great self healing abilities. You can heal long term harm and can aid others in healing Gates (metaphysical long term harm)
-      - Transmortal. You have learned to replace any part of your body with machinery. Any harm associated with a part is removed when replaced
-      - Pseudodeity. A divine deity has taken you under their wing. You can no longer die and can cast Simple Spells from the deity's list
+      - Ascended. You no longer age and have great self healing abilities. You can heal **[Long Term Harm](Harm)** and can aid others in healing Gates (**[Metaphysical Long Term Harm](Harm)**)
+      - Transmortal. You have learned to replace any part of your body with machinery. Any **[[Harm]]** associated with a part is removed when replaced. Additionally, you may perform this same procedure on others
+      - Pseudodeity. A divine deity has taken you under their wing. You can no longer die and you gain a type that makes sense for that particular deity
 3. **Transcendant Ability**. **Prereq: Transcendant Ability** Your archetype grows stronger giving new power.
       - Ascended. Your body has grown more like one of the powers. Choose a power. For that power, all skills, and spells, gain +1 die
       - Transmortal. Your body has grown an affinity to your prosthetic. Gain +1 die to rolls utilizing them
-      - Pseudodeity. Your connetion to the divine has granted you a power near deityhood. Decide your domain. Gain +1 die to rolls associated with it
+      - Pseudodeity. Your connetion to the divine has granted you a power near deityhood. Decide your domain. Gain +1 die to rolls associated with it. Replace the type gained from **Transcendant Ability** with your domain (if applicable, otherwise, gain this type)

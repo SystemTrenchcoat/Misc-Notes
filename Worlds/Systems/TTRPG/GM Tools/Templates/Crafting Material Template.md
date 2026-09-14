@@ -18,6 +18,12 @@
 - [ ] Cooking
 - [ ] Cultivation
 
+- [ ] Armor
+- [ ] Tool
+- [ ] Jewelry
+- [ ] Instrument
+- [ ] Weapon
+
 ### Key
 
 - [!] - This item can be used in this craft

@@ -15,8 +15,8 @@ Self direction and propulsion in any form, especially energetically. The capacit
 ## TTRPG Abilities
 
 1. **Flames of Passion**. In times of passion, your natural magic burns brightly around you. When feeling fired up, you gain +1d6 and create a harmless sensory effect
-2. **Burning Desire**. **Prereq: Flames of Passion** Your fire burns brighter with tasks relating to the passion that sets your heart ablaze. Gain +1d to magic and [will] rolls relating to passion and desire. Additionally, your Flames of Passion can interact with the world, but not deal physical harm
-3. **Fiery Will**. **Prereq: Flames of Passion** Your fire burns through all in its path. You may now deal the light physical harm "burn" with Flames of Passion
+2. **Burning Desire**. **Prereq: Flames of Passion** Your fire burns brighter with tasks relating to the passion that sets your heart ablaze. Gain +1d to magic and [will] rolls relating to passion and desire. Additionally, your Flames of Passion can interact with the world, but not deal **[Physical Harm](Harm)**
+3. **Fiery Will**. **Prereq: Flames of Passion** Your fire burns through all in its path. You may now deal the **[Light Physical Harm](Harm)** "burn" with Flames of Passion
 
 ### Elemental Manipulation
 
