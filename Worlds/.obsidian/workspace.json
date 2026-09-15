@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Glossary/Harm.md",
+                "file": "Systems/TTRPG/__Start Here__/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harm"
+              "title": "Character Creation"
             }
           }
         ],
@@ -355,6 +355,7 @@
   },
   "active": "f7461785cedeff0a",
   "lastOpenFiles": [
+    "Systems/TTRPG/Glossary/Harm.md",
     "Systems/TTRPG/__Start Here__/Character Creation.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
     "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
@@ -386,7 +387,6 @@
     "Systems/TTRPG/Skills/Adaptation/Sensory",
     "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Celestial.md",
     "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Elemental.md",
-    "Systems/TTRPG/Glossary/Harm.md",
     "Religion/Deities/Anian Deities/Metageasi.md",
     "Systems/TTRPG/Skills/Combat/Maneuvers.md",
     "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
