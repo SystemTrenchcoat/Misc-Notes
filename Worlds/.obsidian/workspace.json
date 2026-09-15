@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+                "file": "Systems/TTRPG/Glossary/Harm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dagger"
+              "title": "Harm"
             }
           }
         ],
@@ -225,8 +225,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,13 +355,13 @@
   },
   "active": "f7461785cedeff0a",
   "lastOpenFiles": [
+    "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
     "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
-    "Systems/TTRPG/__Start Here__/Character Creation.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
     "Systems/TTRPG/Skill Trees/Adaptation.canvas",
     "Systems/TTRPG/Skill Trees/Combat.canvas",
     "Systems/TTRPG/__Start Here__/Playtester Start.md",
@@ -380,7 +379,6 @@
     "Magic/Elements/Primary/Eo.md",
     "Magic/Elements/Secondary/Planary/Aether.md",
     "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Psionics.canvas",
     "Magic/Elements/Secondary/Order.md",
     "Systems/TTRPG/Skills/Skills.md",
     "Systems/TTRPG/Skills/Actions.md",
