@@ -3,7 +3,7 @@
 		{
 			"id":"5cd3264ad9173f98",
 			"type":"text",
-			"text":"**Formula.** Be it an incantation, rune, movement, or collection of ingredients, your magic comes from a recipe. Choose the nature of your formula. ==You may cast magic using these formulas. Your formula pool is equal to half of your **Spellcast [[Die Max]]**.==",
+			"text":"**Formula.** Be it an incantation, rune, movement, or collection of ingredients, your magic comes from a recipe. Choose the nature of your formula. ==You may cast magic using these formulas. Your formula pool is equal to half of your **Spellcraft [[Die Max]]**.==",
 			"styleAttributes":{},
 			"x":-260,
 			"y":-20,
@@ -13,7 +13,7 @@
 		{
 			"id":"35a7e0cf214e8591",
 			"type":"text",
-			"text":"You have realized that some materials are mroe valuable than others for a reason. ==You may use more valuable ingredients or focuses to cast stronger spells. When you do this, gain 2 die for the spell. Additionally your formula pool is equal to your **Spellcast [[Die Max]]**==",
+			"text":"You have realized that some materials are mroe valuable than others for a reason. ==You may use more valuable ingredients or focuses to cast stronger spells. When you do this, gain 2 die for the spell. Additionally your formula pool is equal to your ****Spellcraft** [[Die Max]]**==",
 			"styleAttributes":{},
 			"x":-740,
 			"y":-560,
@@ -33,7 +33,7 @@
 		{
 			"id":"efa69e2887ab176f",
 			"type":"text",
-			"text":"Your formula pool is equal to your **Spellcast [[Die Max]]**",
+			"text":"Your formula pool is equal to your **Spellcraft [[Die Max]]**",
 			"styleAttributes":{},
 			"x":-260,
 			"y":-220,
@@ -43,7 +43,7 @@
 		{
 			"id":"0da72ab87c885e79",
 			"type":"text",
-			"text":"Your formula pool is equal to twice your **Spellcast [[Die Max]]**",
+			"text":"Your formula pool is equal to twice your **Spellcraft [[Die Max]]**",
 			"styleAttributes":{},
 			"x":-260,
 			"y":-500,
@@ -53,7 +53,7 @@
 		{
 			"id":"bfd0ae31a13a2530",
 			"type":"text",
-			"text":"Your formula pool is equal to thrice your **Spellcast [[Die Max]]**",
+			"text":"Your formula pool is equal to thrice your **Spellcraft [[Die Max]]**",
 			"styleAttributes":{},
 			"x":-260,
 			"y":-740,

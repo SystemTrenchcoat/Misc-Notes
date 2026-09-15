@@ -3,6 +3,8 @@ Now that you have your character concept, it's time to make a character sheet! =
 
 First things first: You have 4 free skills, called **Origin Points**. They can be the first node of any tree, or any node within [[Adaptation.canvas]]. If a node has a purple border, it costs 2 **Origin Points**.
 
+Following this, you should decide your stats. There are 11 abilities (**Spellcraft**, Diligence, Deftness, Prowess, Power, Fortitude, Will, Discern, Convey, Mobility, and Recall). Each one may have one dice from the following array: 3d4, 2d6, 2d8, 2d10, 2d12.
+
 You then get 20 [[Skill Points]] (not to be confused for skill pills) to use as you see fit. Each node has a listed cost. When you select that node, subtract the cost from your total and keep going until you have the skills you want, or run out of points. The GM can choose to change the number of [[Skill Points]] if they so desire.
 
 The main skill trees are:

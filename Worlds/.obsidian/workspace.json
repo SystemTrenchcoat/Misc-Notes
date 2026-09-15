@@ -124,17 +124,14 @@
             "id": "f7461785cedeff0a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Social.canvas",
-                "viewState": {
-                  "x": -10.5,
-                  "y": 60.86153098420416,
-                  "zoom": -0.656102906308072
-                }
+                "file": "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Social"
+              "icon": "lucide-file",
+              "title": "Dagger"
             }
           }
         ],
@@ -161,15 +158,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
                 "viewState": {
-                  "x": 512.706162909038,
-                  "y": -364.89866296583193,
-                  "zoom": -0.5235663196502852
+                  "x": -77,
+                  "y": 20,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Adaptation"
+              "title": "Spellcraft"
             }
           }
         ],
@@ -207,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leaf",
+                "query": "spellcast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +225,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -358,11 +356,20 @@
   },
   "active": "f7461785cedeff0a",
   "lastOpenFiles": [
+    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
+    "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
     "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/__Start Here__/Playtester Start.md",
+    "Systems/TTRPG/Skill Trees/Social.canvas",
+    "Places/Settlements/Mythica/Epithesi/Ironhold.md",
     "Systems/TTRPG/Skill Trees/Exploration.canvas",
     "Systems/TTRPG/Skills/Adaptation/Alt Types/Shapeshifter.md",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
-    "Systems/TTRPG/Skill Trees/Adaptation.canvas",
     "Religion/Deities/Eoan Deities/Tisactor.md",
     "Religion/Deities/Tosan Deities/Tomeria.md",
     "Religion/Deities/Tosan Deities/Skotadi.md",
@@ -372,15 +379,10 @@
     "Magic/Elements/Secondary/Planary/Glyph.md",
     "Magic/Elements/Primary/Eo.md",
     "Magic/Elements/Secondary/Planary/Aether.md",
-    "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Psionics.canvas",
     "Magic/Elements/Secondary/Order.md",
-    "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
     "Systems/TTRPG/Skills/Skills.md",
-    "Systems/TTRPG/Skill Trees/Social.canvas",
-    "Systems/TTRPG/Skill Trees/Crafting.canvas",
     "Systems/TTRPG/Skills/Actions.md",
     "Infernal.md",
     "Systems/TTRPG/Skills/Adaptation/Sensory",
@@ -391,9 +393,6 @@
     "Systems/TTRPG/Skills/Combat/Maneuvers.md",
     "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
     "Religion/Deities/Neran Deities/Viernei.md",
-    "Systems/TTRPG/__Start Here__/Playing the Game.md",
-    "Systems/TTRPG/Glossary/Stance.md",
-    "Religion/Deities/Tosan Deities/Melas.md",
     "Systems/TTRPG/GM Tools/Templates",
     "Systems/TTRPG/GM Tools",
     "Systems/TTRPG/__Start Here__",
