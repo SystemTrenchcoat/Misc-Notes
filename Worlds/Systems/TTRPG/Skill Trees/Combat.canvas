@@ -10,7 +10,7 @@
 		{"id":"c34b377e7d5b328d","type":"text","text":"Dodge","x":-459,"y":-371,"width":111,"height":60,"color":"3"},
 		{"id":"1d6849a5b539576c","type":"text","text":"Armor","x":-260,"y":-546,"width":103,"height":60,"color":"3"},
 		{"id":"ea25e8415626cbcc","type":"text","text":"Stealth","x":-85,"y":-486,"width":107,"height":60,"color":"3"},
-		{"id":"a6ab88921180eb34","type":"text","text":"Social","x":77,"y":-576,"width":98,"height":60,"color":"2"},
+		{"id":"a6ab88921180eb34","type":"text","text":"Strategy","x":77,"y":-576,"width":118,"height":60,"color":"2"},
 		{"id":"e0ec26a2fb63ac51","type":"text","text":"Style","x":195,"y":-260,"width":91,"height":60,"color":"2"},
 		{"id":"1ba1f62424ffceed","type":"text","text":"Stance","x":300,"y":-371,"width":99,"height":60,"color":"2"},
 		{"id":"74f6a75aeb7034bd","type":"text","text":"Maneuver","x":219,"y":-516,"width":135,"height":60,"color":"2"},

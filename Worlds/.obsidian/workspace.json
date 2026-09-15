@@ -124,14 +124,17 @@
             "id": "f7461785cedeff0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/__Start Here__/Character Creation.md",
-                "mode": "source",
-                "source": false
+                "file": "Systems/TTRPG/Skill Trees/Combat.canvas",
+                "viewState": {
+                  "x": 86.88101094188085,
+                  "y": -43.815164768509945,
+                  "zoom": -0.6254551298156016
+                }
               },
-              "icon": "lucide-file",
-              "title": "Character Creation"
+              "icon": "lucide-layout-dashboard",
+              "title": "Combat"
             }
           }
         ],
@@ -355,8 +358,8 @@
   },
   "active": "f7461785cedeff0a",
   "lastOpenFiles": [
-    "Systems/TTRPG/Glossary/Harm.md",
     "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/Glossary/Harm.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
     "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
