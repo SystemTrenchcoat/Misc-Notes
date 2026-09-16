@@ -5,4 +5,5 @@
 - Block
 - Grapple
 - Parry
-- Bolster - You have a pool of 5d6s that can be used to enhance a roll. These dice are refilled after a rest.
+- Attack - You attack your opponent. ==Deal Minor Physical Harm that makes sense for the attack==
+- - **Throw**. You throw your weapon into your enemy. ==Deal Minor Physical Harm that makes for the attack==

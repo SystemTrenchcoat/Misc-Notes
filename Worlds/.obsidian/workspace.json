@@ -126,11 +126,28 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+                "viewState": {
+                  "x": 30,
+                  "y": -451.2978540772531,
+                  "zoom": -0.6827083152333566
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Alchemy"
+            }
+          },
+          {
+            "id": "05e3f5f8d97d3498",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "Systems/TTRPG/Skill Trees/Combat.canvas",
                 "viewState": {
-                  "x": 86.88101094188085,
-                  "y": -43.815164768509945,
-                  "zoom": -0.6254551298156016
+                  "x": 181.90876371843362,
+                  "y": 499.876059141311,
+                  "zoom": -0.21434872335005625
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -138,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "3b4f5c8e4f22a62a",
@@ -164,7 +181,7 @@
                 "file": "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
                 "viewState": {
                   "x": -77,
-                  "y": 20,
+                  "y": -126.95742187499965,
                   "zoom": 0
                 }
               },
@@ -330,14 +347,23 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
+          },
+          {
+            "id": "1258d939bcf0e4ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,21 +379,43 @@
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Open campaign view": false,
       "storyteller-suite:Apply template to story": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7461785cedeff0a",
+  "active": "05e3f5f8d97d3498",
   "lastOpenFiles": [
+    "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
+    "Systems/TTRPG/Skill Trees/Combat.canvas",
+    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+    "Martial Arts.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Sickle & Scythe.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Hammer.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Sword.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Improvised.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Fan.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Ropes & Chains.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Club.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Staff.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Axe & Pick.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Shield.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Missiles.md",
+    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
+    "Strategy.md",
+    "Excalidraw/Skill Template.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
+    "Excalidraw",
     "Systems/TTRPG/__Start Here__/Character Creation.md",
     "Systems/TTRPG/Glossary/Harm.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
     "Systems/TTRPG/Skill Trees/Adaptation.canvas",
-    "Systems/TTRPG/Skill Trees/Combat.canvas",
     "Systems/TTRPG/__Start Here__/Playtester Start.md",
     "Systems/TTRPG/Skill Trees/Social.canvas",
     "Places/Settlements/Mythica/Epithesi/Ironhold.md",
@@ -375,33 +423,12 @@
     "Systems/TTRPG/Skills/Adaptation/Alt Types/Shapeshifter.md",
     "Religion/Deities/Eoan Deities/Tisactor.md",
     "Religion/Deities/Tosan Deities/Tomeria.md",
-    "Religion/Deities/Tosan Deities/Skotadi.md",
-    "Religion/Deities/Gian Deities/Pelarius.md",
-    "Magic/Elements/Primary/Ner.md",
-    "Magic/Elements/Secondary/Mineral.md",
-    "Magic/Elements/Secondary/Planary/Glyph.md",
-    "Magic/Elements/Primary/Eo.md",
-    "Magic/Elements/Secondary/Planary/Aether.md",
-    "Systems/TTRPG/Skill Trees/Magics/Clockwork.canvas",
-    "Magic/Elements/Secondary/Order.md",
-    "Systems/TTRPG/Skills/Skills.md",
-    "Systems/TTRPG/Skills/Actions.md",
-    "Infernal.md",
     "Systems/TTRPG/Skills/Adaptation/Sensory",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Celestial.md",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Questionless/Elemental.md",
-    "Religion/Deities/Anian Deities/Metageasi.md",
-    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
-    "Systems/TTRPG/Skill Trees/Magics/Untitled.md",
-    "Religion/Deities/Neran Deities/Viernei.md",
     "Systems/TTRPG/GM Tools/Templates",
     "Systems/TTRPG/GM Tools",
     "Systems/TTRPG/__Start Here__",
     "Systems/TTRPG/Glossary",
     "Systems/TTRPG/Skill Trees/Magics",
-    "Systems/TTRPG/Skills/Adaptation/Ooze",
-    "Systems/TTRPG/Skills/Adaptation/Body/Covering",
-    "Systems/TTRPG/Skills/Adaptation/Body/Questionless",
-    "Systems/TTRPG/Skills/Adaptation/Body"
+    "Systems/TTRPG/Skills/Adaptation/Ooze"
   ]
 }

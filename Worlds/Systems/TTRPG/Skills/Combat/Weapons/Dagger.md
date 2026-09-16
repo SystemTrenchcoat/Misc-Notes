@@ -3,5 +3,4 @@ A small blade, easily capable of dealing light damage, but can be directed to st
 
 ## Maneuvers
 
-- **Stab**. You stab your opponent with your blade, piercing their flesh and doing some damage. ==Deal the "Pierced" Minor Harm to the enemy==
-- **Throw**. You throw your weapon into your enemy. ==Deal the "Pierced" Minor Harm to the enemy==
+- **Victimize**. You strike the enemy at their vital points. ==Deal the "Crippled" Light Physical Harm to the enemy. You and allies gain +1 die against the enemy==
