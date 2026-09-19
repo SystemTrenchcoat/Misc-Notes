@@ -141,17 +141,14 @@
             "id": "05e3f5f8d97d3498",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Combat.canvas",
-                "viewState": {
-                  "x": 181.90876371843362,
-                  "y": 499.876059141311,
-                  "zoom": -0.21434872335005625
-                }
+                "file": "Systems/TTRPG/Skills/Combat/Weapons/Bow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Combat"
+              "icon": "lucide-file",
+              "title": "Bow"
             }
           }
         ],
@@ -178,15 +175,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
+                "file": "Systems/TTRPG/Skill Trees/Combat.canvas",
                 "viewState": {
-                  "x": -77,
-                  "y": -126.95742187499965,
-                  "zoom": 0
+                  "x": 92.64234634580905,
+                  "y": -483.1275977184162,
+                  "zoom": 0.25053324938218824
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Spellcraft"
+              "title": "Combat"
             }
           }
         ],
@@ -224,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spellcast",
+                "query": "ironhold",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -385,44 +382,44 @@
   },
   "active": "05e3f5f8d97d3498",
   "lastOpenFiles": [
-    "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md",
-    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
     "Systems/TTRPG/Skill Trees/Combat.canvas",
-    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
     "Martial Arts.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Sickle & Scythe.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Hammer.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Sword.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Improvised.md",
+    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
+    "Systems/TTRPG/GM Tools/Templates/Scale Template.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md",
+    "Systems/TTRPG/__Start Here__/Player Start.md",
+    "Systems/TTRPG/__Start Here__/Character Creation.md",
+    "Systems/TTRPG/Skill Trees/Magics/Spellcraft.canvas",
+    "Systems/TTRPG/Skills/Combat/Weapons/Sword.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Fan.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Bow.md",
+    "Places/Settlements/Mythica/Epithesi/Ironhold.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Shield.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Hammer.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Staff.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Launcher.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Sickle & Scythe.md",
+    "Systems/TTRPG/Skills/Combat/Weapons/Improvised.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Ropes & Chains.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Club.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Staff.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Axe & Pick.md",
-    "Systems/TTRPG/Skills/Combat/Weapons/Shield.md",
     "Systems/TTRPG/Skills/Combat/Weapons/Missiles.md",
-    "Systems/TTRPG/Skills/Combat/Maneuvers.md",
     "Strategy.md",
     "Excalidraw/Skill Template.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Systems/TTRPG/Skill Trees/Magics/Alchemy.canvas",
     "Excalidraw",
-    "Systems/TTRPG/__Start Here__/Character Creation.md",
     "Systems/TTRPG/Glossary/Harm.md",
     "Systems/TTRPG/Skill Trees/Magics/Ritual.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Oracy.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Formula.canvas",
     "Systems/TTRPG/Skill Trees/Magics/Enchantment.canvas",
     "Systems/TTRPG/Skill Trees/Adaptation.canvas",
-    "Systems/TTRPG/__Start Here__/Playtester Start.md",
     "Systems/TTRPG/Skill Trees/Social.canvas",
-    "Places/Settlements/Mythica/Epithesi/Ironhold.md",
     "Systems/TTRPG/Skill Trees/Exploration.canvas",
-    "Systems/TTRPG/Skills/Adaptation/Alt Types/Shapeshifter.md",
-    "Religion/Deities/Eoan Deities/Tisactor.md",
-    "Religion/Deities/Tosan Deities/Tomeria.md",
     "Systems/TTRPG/Skills/Adaptation/Sensory",
     "Systems/TTRPG/GM Tools/Templates",
     "Systems/TTRPG/GM Tools",

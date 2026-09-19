@@ -3,3 +3,4 @@ Weapons designed for distant combat are easily some of the deadliest in the righ
 
 ## Maneuvers
 
+- **Steady Aim**. ==You may forgo this turn to guarantee a hit in your next turn==

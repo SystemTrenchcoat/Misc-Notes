@@ -74,201 +74,6 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1785902002253-jzoqv0",
-      "startTime": "2026-08-05T03:53:22.253Z",
-      "endTime": "2026-08-05T03:55:34.492Z",
-      "wordsWritten": 17,
-      "filesEdited": [
-        "Religion/Deities/Anian Deities/Aosgos.md"
-      ]
-    },
-    {
-      "id": "writing-1785902134611-o7ckc8",
-      "startTime": "2026-08-05T03:55:34.611Z",
-      "endTime": "2026-08-05T03:56:26.599Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Religion/Deities/Anian Deities/Anio.md"
-      ]
-    },
-    {
-      "id": "writing-1785902186644-fta9br",
-      "startTime": "2026-08-05T03:56:26.644Z",
-      "endTime": "2026-08-05T03:56:33.231Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "A Soul.md"
-      ]
-    },
-    {
-      "id": "writing-1785902255701-danq02",
-      "startTime": "2026-08-05T03:57:35.701Z",
-      "endTime": "2026-08-05T03:57:41.301Z",
-      "wordsWritten": 1,
-      "filesEdited": [
-        "A Soul.md"
-      ]
-    },
-    {
-      "id": "writing-1785984305281-up8tr8",
-      "startTime": "2026-08-06T02:45:05.281Z",
-      "endTime": "2026-08-06T02:45:18.849Z",
-      "wordsWritten": 934
-    },
-    {
-      "id": "writing-1785984363036-bszu8k",
-      "startTime": "2026-08-06T02:46:03.036Z",
-      "endTime": "2026-08-06T02:53:25.962Z",
-      "wordsWritten": 100,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785984817475-d703s2",
-      "startTime": "2026-08-06T02:53:37.475Z",
-      "endTime": "2026-08-06T02:57:46.764Z",
-      "wordsWritten": 61,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785985069973-0f1iv1",
-      "startTime": "2026-08-06T02:57:49.973Z",
-      "endTime": "2026-08-06T03:00:08.555Z",
-      "wordsWritten": 41,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785985214240-1cujh4",
-      "startTime": "2026-08-06T03:00:14.240Z",
-      "endTime": "2026-08-06T03:05:17.566Z",
-      "wordsWritten": 113,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785985540619-v29cvg",
-      "startTime": "2026-08-06T03:05:40.619Z",
-      "endTime": "2026-08-06T03:37:46.470Z",
-      "wordsWritten": 397,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785987692914-k8seqc",
-      "startTime": "2026-08-06T03:41:32.914Z",
-      "endTime": "2026-08-06T03:47:17.073Z",
-      "wordsWritten": 22,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785988371724-0wettm",
-      "startTime": "2026-08-06T03:52:51.724Z",
-      "endTime": "2026-08-06T03:54:12.769Z",
-      "wordsWritten": 103,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Zendiceo.md"
-      ]
-    },
-    {
-      "id": "writing-1785988455284-hcw8bv",
-      "startTime": "2026-08-06T03:54:15.284Z",
-      "endTime": "2026-08-06T03:58:23.176Z",
-      "wordsWritten": 22,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Zendiceo.md"
-      ]
-    },
-    {
-      "id": "writing-1785988784487-mvuhqo",
-      "startTime": "2026-08-06T03:59:44.487Z",
-      "endTime": "2026-08-06T04:01:32.494Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Zendiceo.md"
-      ]
-    },
-    {
-      "id": "writing-1785988912098-s0pozg",
-      "startTime": "2026-08-06T04:01:52.098Z",
-      "endTime": "2026-08-06T04:05:11.212Z",
-      "wordsWritten": 30,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arias.md"
-      ]
-    },
-    {
-      "id": "writing-1785989118796-iotspz",
-      "startTime": "2026-08-06T04:05:18.796Z",
-      "endTime": "2026-08-06T04:07:44.887Z",
-      "wordsWritten": 77,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Pelarius.md"
-      ]
-    },
-    {
-      "id": "writing-1785989284963-3tqwyp",
-      "startTime": "2026-08-06T04:08:04.963Z",
-      "endTime": "2026-08-06T04:09:37.814Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Pelarius.md"
-      ]
-    },
-    {
-      "id": "writing-1785989452077-ynb3jl",
-      "startTime": "2026-08-06T04:10:52.077Z",
-      "endTime": "2026-08-06T04:12:26.621Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Magic/Elements/Primary/Gia.md"
-      ]
-    },
-    {
-      "id": "writing-1785989550806-1kmrpp",
-      "startTime": "2026-08-06T04:12:30.806Z",
-      "endTime": "2026-08-06T04:15:38.015Z",
-      "wordsWritten": 34,
-      "filesEdited": [
-        "Magic/Elements/Primary/Gia.md"
-      ]
-    },
-    {
-      "id": "writing-1785989738040-9sg9vk",
-      "startTime": "2026-08-06T04:15:38.040Z",
-      "endTime": "2026-08-06T04:16:35.913Z",
-      "wordsWritten": 12,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Arcaos.md"
-      ]
-    },
-    {
-      "id": "writing-1785989795932-0auiyb",
-      "startTime": "2026-08-06T04:16:35.932Z",
-      "endTime": "2026-08-06T04:18:45.854Z",
-      "wordsWritten": 83,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Moira.md"
-      ]
-    },
-    {
-      "id": "writing-1785989981325-zaqw57",
-      "startTime": "2026-08-06T04:19:41.325Z",
-      "endTime": "2026-08-06T04:21:29.327Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Religion/Deities/Gian Deities/Moira.md"
-      ]
-    },
-    {
       "id": "writing-1785990110372-2vekj6",
       "startTime": "2026-08-06T04:21:50.372Z",
       "endTime": "2026-08-06T04:24:28.766Z",
@@ -4227,6 +4032,204 @@
       "filesEdited": [
         "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md"
       ]
+    },
+    {
+      "id": "writing-1789576513902-ncvm5w",
+      "startTime": "2026-09-16T16:35:13.902Z",
+      "endTime": "2026-09-16T16:39:19.919Z",
+      "wordsWritten": 14,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Bow.md"
+      ]
+    },
+    {
+      "id": "writing-1789576764724-ntdp44",
+      "startTime": "2026-09-16T16:39:24.724Z",
+      "endTime": "2026-09-16T16:40:49.518Z",
+      "wordsWritten": 18,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Launcher.md"
+      ]
+    },
+    {
+      "id": "writing-1789576852595-a51q0o",
+      "startTime": "2026-09-16T16:40:52.595Z",
+      "endTime": "2026-09-16T16:41:45.162Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md"
+      ]
+    },
+    {
+      "id": "writing-1789576917214-z7iidf",
+      "startTime": "2026-09-16T16:41:57.214Z",
+      "endTime": "2026-09-16T16:44:28.414Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Ranged.md"
+      ]
+    },
+    {
+      "id": "writing-1789577104648-bptwsg",
+      "startTime": "2026-09-16T16:45:04.648Z",
+      "endTime": "2026-09-16T16:46:02.342Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Maneuvers.md"
+      ]
+    },
+    {
+      "id": "writing-1789577182437-4ll109",
+      "startTime": "2026-09-16T16:46:22.437Z",
+      "endTime": "2026-09-16T16:55:12.991Z",
+      "wordsWritten": 41,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Maneuvers.md"
+      ]
+    },
+    {
+      "id": "writing-1789577736651-o4b16s",
+      "startTime": "2026-09-16T16:55:36.651Z",
+      "endTime": "2026-09-16T17:20:09.060Z",
+      "wordsWritten": 45,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Dagger.md"
+      ]
+    },
+    {
+      "id": "writing-1789579219441-p8xij7",
+      "startTime": "2026-09-16T17:20:19.441Z",
+      "endTime": "2026-09-16T17:22:11.699Z",
+      "wordsWritten": 18,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Shield.md"
+      ]
+    },
+    {
+      "id": "writing-1789579333763-aw0ty3",
+      "startTime": "2026-09-16T17:22:13.763Z",
+      "endTime": "2026-09-16T17:32:18.443Z",
+      "wordsWritten": 63,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md"
+      ]
+    },
+    {
+      "id": "writing-1789580049194-cmprx1",
+      "startTime": "2026-09-16T17:34:09.194Z",
+      "endTime": "2026-09-16T17:36:51.697Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Bow.md"
+      ]
+    },
+    {
+      "id": "writing-1789754604416-7e47ao",
+      "startTime": "2026-09-18T18:03:24.416Z",
+      "endTime": "2026-09-18T18:03:47.289Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Sword.md"
+      ]
+    },
+    {
+      "id": "writing-1789754642244-5okik6",
+      "startTime": "2026-09-18T18:04:02.244Z",
+      "endTime": "2026-09-18T18:04:26.804Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Sword.md"
+      ]
+    },
+    {
+      "id": "writing-1789754670630-q8l300",
+      "startTime": "2026-09-18T18:04:30.630Z",
+      "endTime": "2026-09-18T18:39:15.665Z",
+      "wordsWritten": 71,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Sword.md"
+      ]
+    },
+    {
+      "id": "writing-1789789517095-kgma97",
+      "startTime": "2026-09-19T03:45:17.095Z",
+      "endTime": "2026-09-19T03:46:09.542Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789789578319-cu7hrz",
+      "startTime": "2026-09-19T03:46:18.319Z",
+      "endTime": "2026-09-19T03:47:16.087Z",
+      "wordsWritten": 69,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789789735487-pwq95u",
+      "startTime": "2026-09-19T03:48:55.487Z",
+      "endTime": "2026-09-19T03:49:41.616Z",
+      "wordsWritten": 29,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789789942184-sktia3",
+      "startTime": "2026-09-19T03:52:22.184Z",
+      "endTime": "2026-09-19T04:09:07.564Z",
+      "wordsWritten": 48,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789791286184-8rncex",
+      "startTime": "2026-09-19T04:14:46.184Z",
+      "endTime": "2026-09-19T04:15:16.271Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Weapons/Polearm.md"
+      ]
+    },
+    {
+      "id": "writing-1789791319061-fd6f43",
+      "startTime": "2026-09-19T04:15:19.061Z",
+      "endTime": "2026-09-19T04:18:57.451Z",
+      "wordsWritten": 10,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789791538134-3hnsw8",
+      "startTime": "2026-09-19T04:18:58.134Z",
+      "endTime": "2026-09-19T04:19:07.536Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Systems/TTRPG/Skills/Combat/Maneuvers.md"
+      ]
+    },
+    {
+      "id": "writing-1789791547550-kfbjp4",
+      "startTime": "2026-09-19T04:19:07.550Z",
+      "endTime": "2026-09-19T04:19:32.394Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
+    },
+    {
+      "id": "writing-1789791577368-1lek9o",
+      "startTime": "2026-09-19T04:19:37.368Z",
+      "endTime": "2026-09-19T04:20:37.238Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "Martial Arts.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -4476,6 +4479,33 @@
       "wordsWritten": 794,
       "wordsDeleted": 236,
       "netWords": 558,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-09-16",
+      "wordsWritten": 223,
+      "wordsDeleted": 0,
+      "netWords": 223,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-09-18",
+      "wordsWritten": 176,
+      "wordsDeleted": 0,
+      "netWords": 176,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-09-19",
+      "wordsWritten": 76,
+      "wordsDeleted": 1,
+      "netWords": 75,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
