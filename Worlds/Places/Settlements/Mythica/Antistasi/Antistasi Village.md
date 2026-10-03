@@ -21,13 +21,13 @@ tags:
 
 - [[Faedira]] - Local Alchemist, Healer, and Nature Lover (Female [[Gnome]])
 
-- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Diasi]], and [[Fruila]]) (Male [[Elf]])
+- [[Heryarus]] - Priest of the local Forest Temple (Primarily worships [[Briosa]], [[Religion/Deities/Brioan Deities/Diasi]], and [[Fruila]]) (Male [[Elf]])
 
 - [[Leomyar]] - A hunter of beasts and monstrosities, always after the next big foe (Male [[Elf]])
 
 - [[Aluwyn]] - A lover of small animals and a hunter a hunter of those that defy nature (Female [[Gnome]])
 
-- [[Malachite]] - A warrior and defender of the forest (Male [[Eo]] [[Eleokara]])
+- [[Malachite]] - A warrior and defender of the forest (Male [[Magic/Elements/Primary/Eo]] [[Eleokara]])
 
 - [[Aleel]] - The single best archer in the land (Male [[Birdfolk]])
 

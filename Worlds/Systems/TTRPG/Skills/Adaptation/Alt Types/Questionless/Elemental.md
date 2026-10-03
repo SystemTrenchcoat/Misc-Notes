@@ -1,2 +1,2 @@
 
-You are an elemental creature. ==You are detected by elemental or magic sense. You consume your element as food. When you die, an elemental of opposite polarity will take your place==.
+You are a physical manifestation of (at least) one element. ==You may negate a single instance of harm done to you that matches an element of yours. Additionally, you may disperse into a "cloud" that may deal **Minor Physical [[Harm]]** appropriate for your element. Further more, you are detected by elemental or magic sense and consume your element as food. When you die, an elemental of opposite polarity will take your place==.

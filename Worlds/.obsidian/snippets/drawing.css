@@ -1,0 +1,11 @@
+* {
+  font-family: 'Virgil', 'Inter';/*, 'Times New Roman', serif !important;>*/
+  --h1-color: purple;
+}
+.excalidraw__embeddable-container .internal-link {
+  font-size: 25px;
+  font-weight: bold;
+}
+.excalidraw__embeddable-container {
+  text-align: center;
+}

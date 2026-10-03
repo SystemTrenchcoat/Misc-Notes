@@ -41,7 +41,7 @@ Often a part of either a fire or spirit dragon's horde. Regardless, they fight t
 
 ## [[Birdfolk]]
 
-A group of them that followed [[Caliel]] to make their way in the wastes. Through lies and deceit, they got some land and power, but it costed them their flight and voice.
+A group of them that followed [[Religion/Deities/Aeran Deities/Caliel]] to make their way in the wastes. Through lies and deceit, they got some land and power, but it costed them their flight and voice.
 
 
 ## [[Catfolk]]
@@ -56,7 +56,7 @@ Solitary creatures who embody survivability. Modeled after scorpions, they seek 
 
 ## [[Kharn]]
 
-Thought by some to be sent by Caparicus ([[Eido]] and [[Animus]]) to usher spirits across to the afterlife and thought by others to be sent by Kyrono ([[Sapienta]] and [[Pagamarous]]) to herald war. Regardless of the interpretation, it is certain that they are divinely sent. Coming in twins, they stay at and protect their holy lands, only leaving on divine quests.
+Thought by some to be sent by Caparicus ([[Eido]] and [[Animus]]) to usher spirits across to the afterlife and thought by others to be sent by Kyrono ([[Religion/Deities/Pyran Deities/Sapienta]] and [[Pagamarous]]) to herald war. Regardless of the interpretation, it is certain that they are divinely sent. Coming in twins, they stay at and protect their holy lands, only leaving on divine quests.
 
 
 ## [[Irwi]]
@@ -65,7 +65,7 @@ Thought by some to be sent by Caparicus ([[Eido]] and [[Animus]]) to usher spiri
 
 ## [[Vyeir]]
 
-Lizardfolk with a powerful [[Pyr|pyr]] and [[Ner|ner]] elements. While lizardfolk traditionally have no emotion to speak of, [[Vyeir]] have potent emotions that change on a dime. They tend to be conquerors, taking over more lands to chase their passions. They are a lot like demons, seeing only a need to satisfy their desire, led by passion and emotion
+Lizardfolk with a powerful [[Magic/Elements/Primary/Pyr|pyr]] and [[Magic/Elements/Primary/Ner|ner]] elements. While lizardfolk traditionally have no emotion to speak of, [[Vyeir]] have potent emotions that change on a dime. They tend to be conquerors, taking over more lands to chase their passions. They are a lot like demons, seeing only a need to satisfy their desire, led by passion and emotion
 
 
 ## [[Qua]]

@@ -1,0 +1,2 @@
+
+You can create special contraptions capable of creating spells in an aura around it, able to last until disabled. ==Your machines' passive ability can affect creatures within a 10' radius around it. Additionally, the number of machines you can operate increases to your **Spellcraft [[Die Max]]**==
